@@ -1,0 +1,178 @@
+# STOCKHOLM 1.0
+
+#=GS  GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out360 DE    SINE
+#=GS  GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out405 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1122 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1154 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1463 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1546 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1554 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1665 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1834 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1936 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2065 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2068 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2083 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2164 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2185 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2769 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2854 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3068 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3541 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3546 DE    SINE
+#=GS GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3577 DE    SINE
+
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out360   GCCAACGAGTGCTAGACCAAGTGGTCAAGC----ACGCTCCTACGGCACC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out405   GCCAAAGGGTGCCTAGCCTAGTGGTTAGGCACGT---CCG--GCGGCACC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1122  GCCAACGGGTGCTAGACCAAGTGGTCAAGC----ACTT-TCTGCGGCACC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1154  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1463  GCCAAAGGGTGCCTAGCCCAGTGGTTAGGCACGT---TCCGGCGGCAC-C
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1546  GCCAAAGGGTGCCTAGCCCAGTGGTTAGGCACGT---TTCGGCAGCAC-C
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1554  ---AAAGGGTGCCTAGCCCAGTGGTTAGGCACGT---TCCGGCGGCAC-C
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1665  GCCAAAGGGTGCCAAGCCCAGTGGTTAGGCACGT---TCCGGCGGCACCC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1834  GCCAACAGGTGCTAGACCAAGTGGTCAAGC----ACTTTCCTGCGGCACC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1936  GCCAAAGGGTGCCTAGCCCAGTGGTTAGGC----ACGTTTCGGCGGGACC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2065  GCCAAAGGGTGCCTAGCCCACTGGTTAGCTAGGCACGTTCCGGCAGCACC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2068  -CCAAAGGGTGCCTAGCCCACTGGTTAGCTAGGCACGTTCCGGCAGCACC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2083  GCCAACGGGTGCTAGACCAAGTGGTCAAGC----ACTTTCCTGCAGCACC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2164  GCCAACGGGTGCTAGACCAAGCAGTCAAGC----ACTTTCCTGCGGCACC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2185  GCCAAAGGGTGCTTGGTCTAGTGGCTAAGACACT---CGAGCGGCACTCC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2769  GCCAAAGGGTGCCTAGCCCAGTGGTTAGGC----ACGTTCTGGCGGCACC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2854  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3068  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3541  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3546  GCCAACGGGTGCTAGACCAAGTGGTCAAGC----ACTTTCCTGCGGCACC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3577  GCCAACGGGTGCTAGACCAAGTGGTCAAGC----ACTTTCCTGCAGCACC
+
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out360   CTAGGTCCCAAGATCGATCCCTGGGTGGGACGAATTTAGTAACCGGCTGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out405   CTAGGTCCCAGGTTCGAATCCCTGGTGGGGCGGATTTTGGGAAACTTGAG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1122  CCACGTCCCAAGTTCGATTCCTAGGTGGGACGAATTTAGGAA--------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1154  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1463  CCAGGTCCCAGGTTCGAACCCCCGGTGGGGCGGATTTTGGGAAACTTGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1546  CCAGGTCCCAGGTTCGAACCCCCGGTGGGGCGGATTTCGGAAAACTTTGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1554  CCAGGTCCCAGGTTCGAACCCCCGGTGGGGCGGATTTTGGGAAACTTGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1665  CCAGGTCCCAGGTTCGAACCCCTGGTTGAGCGGATTTTGGGAAACTTGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1834  CCAGGTCCCAAGTTCGATCCCTGGGTGGGACGAATTTAGGAA--------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1936  CTAGGTCCCAGGTTCAAACCCCCGGTGGGGTGGCACCTCAGGTCCCAGGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2065  CTAGGTCGCAGGTTCAAACCCCTGGTTGGGCGGACTTTGAGAAATTTGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2068  CTAGGTCGCAGGTTCAAACCCCTGGTTGGGCGGATTTTGGGAAATTTGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2083  CCAGGTCCCAAGTTCGATCCCTGGGTGGGACGAATTTAGGAA--------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2164  CTAGGTCCCAAGTTTGATTCGTGAGTGGGACGAATTTAGGAACCTGTGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2185  ACAGGTCATGAGTTCGAATCCCCGTGGAAGCGAATTTCAG----------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2769  CTAGGTCCCAGGTTTGAACCCCCGGTGGGGCGGATTTTGGGAAACTTGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2854  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3068  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3541  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3546  CCAGGTCCCAAGTTCGATTCCTGGGTGGGACGAATTTAGGAA--------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3577  CCAGGTCCCAAGTTCGATCCCTGGGTGGGACGAATTTAGGAA--------
+
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out360   --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out405   TAAA--------AAAA-TCCTCTTGCTG-GCCCGTGTCCAAAGCACTGGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1122  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1154  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1463  TAAA--------AAAA-TCCCCTCGTTGGCCCCATGTCCAAAGCACTGGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1546  TAAA--------AAAA-TCCCCTCGCTGGCCCCGTGTCCAAAACACTGGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1554  TAAA--------AAAA-TCCCCTCGCTGGCCCCGTGTCCAAAGCACTGGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1665  TAAA--------AAAA-TCTCCTCGTTGGCCCCGTGTCCAAAGCAACAGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1834  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1936  TTGAACTTGGGTAAAAAAATCCCCTCGCGCCCCGTGTCCAAAGCATTGGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2065  TAAA--------AAAATCTCACTTGCTGGCCCCGTGTCCAAAGCACTGGA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2068  TAAA--------AAAATCCCCCTTGCTGGCCCCGTGTCCAAAGCATTGGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2083  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2164  TA------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2185  ---CCTGTGGTTAAAAAAATCCCCTCGCTCGCCCAGGCCAAAGCACAGGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2769  TAAA--------AAAA-TCCCCTTGCTGGCCCTGTGTCCAGAGCACTAGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2854  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3068  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3541  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3546  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3577  --------------------------------------------------
+
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out360   --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out405   AATGAGATCGGCCCA-------------TGTCGGCTTGAGGACCGTGTGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1122  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1154  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1463  AATGAGATCGGCCCA-------------GGTCAGCCTGAGGACCGTGTGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1546  AATGAGATCGGCCCA-------------GGTCGGCCTGAGGACCGTGTGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1554  AATGAGATCGGCCCA-------------GGTTGGCCTGAGGACCGTGTGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1665  AATGAGATCGGCCCA-------------GGTCGGCCTGAGGACCATGTGA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1834  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1936  AATGAGATCGGCCCA-------------GGTCAGCCTGAGGACCGTGTGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2065  AATGGGATCGGCCCA-------------GGTCAGCCTGAGGACCGTGTGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2068  AATGGGATCGGCCCA-------------GGTCAGCCTGAGGACCGTGTGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2083  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2164  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2185  AAAGAGATCGGCCCACACCTCGGGGTAACGTCTCCCTGTGTACG-GATGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2769  AAAGATATGGTATTTGTATTTTTCTGTGAATTCGAGTTTCTAGTAGTGGT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2854  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3068  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3541  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3546  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3577  --------------------------------------------------
+
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out360   --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out405   GGCCCAGGCAGGTAATCTCACGGGTAACGTCTCTTAATGTATGGGCGAGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1122  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1154  ------------------------------------------GGGTGAGC
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1463  GGCCCAGGCAGGTAATCTCACAGGTAACGTCTCCCAATGTATGGGCGGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1546  GGCCCAGGCAGGTAATCTCACGGGTAACGTCTCCCAGTGTATGGGTGGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1554  GGCCCAGGCAGGTAATCTCACAGGTAACGTCTCCCAGTGTATGCG--GGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1665  GGCCCAGGCAGGTAATCTCACGGGTAATGTCTCCCAGTGTATGGGCGGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1834  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1936  GGCCCAGGCAGGTAAACTCACGGGTAACGTTGGGTGGGGTGGGGGGGGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2065  GGCCCCGGCAGGTAATCTCACGGGTAACGTCTCCCAGTGTATTGGCGGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2068  GGCCCCGGCAGGTAATCTCACGGATAACGTCTCCCAGTGTATGGGTTGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2083  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2164  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2185  GGCGGATCGGCCCACACCCCGGGGTAACGTCTCTCTGTGTACGGATGGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2769  GGCCCAGGCAGGTAGTCTCACGGGTAACGTCTCCTAGTGTATGGGCGGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2854  ------------------------------CTCCCAGTGTATGGGCGGGG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3068  ------------------------------------------GGGTGAAG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3541  ------GGTTGTGGTCAGCCCAGGTTACGTTGCGGCCCTATAGGGTGAAG
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3546  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3577  --------------------------------------------------
+
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out360   --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out405   TCAGGGTTCGAGG-GTTTTCTAGGCCTGTGTATGAAGGTCCTTCTTCTTA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1122  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1154  CCAGGGTTCGGGG-------------GGTTTCTTG-GCTGGTTTGACTTA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1463  CCAGGGTTCGGGG-GTTTTCTGGGCCTGTGTGAGAAGGTCCTT---CTTA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1546  CCAGGGTTCGGGG-GTTTTCTGGGCCTCTGTGAGAAGGTCCTT------A
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1554  CCAGGGTTCGGGG-GTTTTCTGGGCCTGTGTGAGAAGGTCCTTCTTCTTA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1665  CCAGGGTTCGGGG-GTTTTCTAGGCCTGTGTGAGAAGGTCCTTCTTCTTA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1834  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1936  GGGGTTT-------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2065  CCAAGGTTGGGAG-GTTTTCTGGGGCTGTGTGAGAAGGTCCTTCTTCTTA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2068  CCAAGGTTGGGAG-GTTTTCTGGGGCTGTGTGAGAAGGTCCTTCTTCTTA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2083  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2164  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2185  CGGGGGTTCGG---------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2769  CCAGGGTTCGGGG-GTTTTTTGGGCTTGTGTGAGAAGGTCCTTCTTCTTA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2854  CCAGGGTTCGGGG-GTTTTCTGGGCCTGTGTGAGAAGGTCTTTCTTCTTA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3068  CCAGGGTTCAGGGG-TTTTCTCAGTCGGTTTGACT-GAGGTTCCTTCTCA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3541  CCAGGGTTCACAGGGTTTTCTAAGCCGGCTTGCCT-GGATTTCTTTCTTA
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3546  --------------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3577  --------------------------------------------------
+
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out360   -----------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out405   GTTCA-AAGCTCGGGGGGCGGCTTGCCCCTCGCAGGTCCAGTTTTT-
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1122  -----------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1154  GTGCA-AAGCCATGGGGGCAGTATTTCACTCACTGGTATAGTTTTT-
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1463  GTTCA-AAGCCCGGGGGGCGGCTTGCCCCACGCAGGTCCAGTTTTT-
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1546  GTTCA-AAGCCCGGAGGGCGGCTTGCCCCTCGCAGGTCCAGTTTTT-
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1554  GTTCA-AAGCCCGGGGGGCGGCTTGCCCCTCGCAGGTCCAATTTTT-
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1665  GTTCA-AAGCCCGGGGGGCGGCTTGCCCCTCGCAGGTCCAGTTTT--
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1834  -----------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out1936  -----------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2065  GTTCA-AAGTCTGGGGGGCGGCTTACCCCTCGCAGGTCCAGTTTTT-
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2068  GTTCA-AAGTCCGTGGGGCGGCTTACTCCTCGCAGATCCAGTTTTT-
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2083  -----------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2164  -----------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2185  -----------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2769  GTTCA-AAGGCCAGGGGTGGCTTGCCCCTT-GCAGGTCCA-------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out2854  GTTCA-AAGCCCGGGGGGCGGCTTGCCCCTCGCAGGTCCAGTATTT-
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3068  AAGTAAAAACCATAGGGGTGGCCTTTGCCC-----------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3541  GTGCA-AAGCCATGGGGGCGGTCTTCCCCCCATTGGTCCAGTTTTTT
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3546  -----------------------------------------------
+GCA_000003195.3_Sorghum_bicolor_NCBIv3_rm.out3577  -----------------------------------------------
+//

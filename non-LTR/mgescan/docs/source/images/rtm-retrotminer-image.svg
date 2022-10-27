@@ -1,0 +1,205 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg style="stroke:black; fill:none; stroke-width:1px; stroke-linejoin:round; text-anchor:left" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, FreeSans, Sans, sans, sans-serif" height="739px" width="1307.25px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1307.25 739">
+
+<g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M310.25 364L423 265" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M310.25 364L433 484" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M622.75 291L624.5 305" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M799.5 347L875 378" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M799.5 331L875 362" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M1041.75 404L1057.5 441" />
+
+</g>
+
+</g>
+
+<g>
+
+<path d="M198 324L305.25 324L305.25 354L198 354Z" fill="#EBD9B2" />
+
+<path d="M198 354L305.25 354L305.25 375L198 375Z" fill="#ffffff" />
+
+<path d="M428 220L617.75 220L617.75 250L428 250Z" fill="#EBD9B2" />
+
+<path d="M428 250L617.75 250L617.75 302L428 302Z" fill="#ffffff" />
+
+<path d="M438 439L553.5 439L553.5 469L438 469Z" fill="#EBD9B2" />
+
+<path d="M438 469L553.5 469L553.5 569L438 569Z" fill="#ffffff" />
+
+<path d="M629.5 260L794.5 260L794.5 290L629.5 290Z" fill="#EBD9B2" />
+
+<path d="M629.5 290L794.5 290L794.5 358L629.5 358Z" fill="#ffffff" />
+
+<path d="M880 317L1036.75 317L1036.75 347L880 347Z" fill="#EBD9B2" />
+
+<path d="M880 347L1036.75 347L1036.75 415L880 415Z" fill="#ffffff" />
+
+<path d="M1062.5 396L1235.75 396L1235.75 426L1062.5 426Z" fill="#EBD9B2" />
+
+<path d="M1062.5 426L1235.75 426L1235.75 478L1062.5 478Z" fill="#ffffff" />
+
+</g>
+
+<g>
+
+<text y="344" x="203" stroke="none" font-size="14px" fill="black">Input dataset</text>
+
+<text y="369" x="203" stroke="none" font-size="10px" fill="black">output</text>
+
+<text y="240" x="433" stroke="none" font-size="14px" fill="black">Step 1: Split scaffolds</text>
+
+<text y="265" x="433" stroke="none" font-size="10px" fill="black">From</text>
+
+<text y="296" x="433" stroke="none" font-size="10px" fill="black">output</text>
+
+<text y="459" x="443" stroke="none" font-size="14px" fill="black">MGEScan-nonLTR</text>
+
+<text y="484" x="443" stroke="none" font-size="10px" fill="black">From</text>
+
+<text y="515" x="443" stroke="none" font-size="10px" fill="black">clade</text>
+
+<text y="531" x="443" stroke="none" font-size="10px" fill="black">qvalue_en</text>
+
+<text y="547" x="443" stroke="none" font-size="10px" fill="black">qvalue_rt</text>
+
+<text y="563" x="443" stroke="none" font-size="10px" fill="black">nonltr_gff3</text>
+
+<text y="280" x="634.5" stroke="none" font-size="14px" fill="black">Step 2: RepeatMasker</text>
+
+<text y="305" x="634.5" stroke="none" font-size="10px" fill="black">genome sequence</text>
+
+<text y="336" x="634.5" stroke="none" font-size="10px" fill="black">genome sequences</text>
+
+<text y="352" x="634.5" stroke="none" font-size="10px" fill="black">repeatmasker results</text>
+
+<text y="337" x="885" stroke="none" font-size="14px" fill="black">Step 3: Finding ltr</text>
+
+<text y="362" x="885" stroke="none" font-size="10px" fill="black">genome sequences</text>
+
+<text y="378" x="885" stroke="none" font-size="10px" fill="black">repeatmasker results</text>
+
+<text y="409" x="885" stroke="none" font-size="10px" fill="black">output</text>
+
+<text y="416" x="1067.5" stroke="none" font-size="14px" fill="black">Step 4: gff converter</text>
+
+<text y="441" x="1067.5" stroke="none" font-size="10px" fill="black">ltr.out</text>
+
+<text y="472" x="1067.5" stroke="none" font-size="10px" fill="black">output</text>
+
+<path d="M428 276L617.75 276" />
+
+<circle cy="364" cx="305.25" r="5" fill="#ffffff" />
+
+<path d="M438 495L553.5 495" />
+
+<circle cy="364" cx="305.25" r="5" fill="#ffffff" />
+
+<path d="M629.5 316L794.5 316" />
+
+<circle cy="291" cx="617.75" r="5" fill="#ffffff" />
+
+<path d="M880 389L1036.75 389" />
+
+<circle cy="347" cx="794.5" r="5" fill="#ffffff" />
+
+<circle cy="331" cx="794.5" r="5" fill="#ffffff" />
+
+<path d="M1062.5 452L1235.75 452" />
+
+<circle cy="404" cx="1036.75" r="5" fill="#ffffff" />
+
+</g>
+
+</svg>
+

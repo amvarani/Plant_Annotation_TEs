@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<tool name="MGEScan" id="mgescan" version="3.0.0">
+	<description>
+		MGEScan
+	</description>
+	<requirements>
+	<requirement type="package" version="3.0.0">mgescan</requirement>
+	<requirement type="package" version="4.0">tandem_repeats_finder</requirement>
+	<requirement type="package" version="5.0.0">emboss</requirement>
+	<requirement type="package" version="3.1b1">hmmer</requirement>
+	</requirements>
+	<version_command>mgescan --version</version_command>
+	<command interpreter="bash">
+		mgescan.sh $input '$input.name' 3 $output $program $clade $qvalue_en $qvalue_rt $ltr_gff3 $nonltr_gff3 $both_gff3 $mpi_yn.nmpi
+		<!-- mgescan.sh $input $input.name $hmmver $output $program $clade $qvalue_en $qvalue_rt $ltr_gff3 $nonltr_gff3 -->
+	</command>
+	<inputs>
+		<param format="fasta,tabular,data" name="input" type="data" label="Input FASTA file(s)"/>
+		<!--param name="hmmver" type="select" label="Hmmsearch version">
+			<option selected="selected" value="3">3</option>
+			<option value="2">2</option>
+		</param-->
+		<param name="program" type="select" label="MGEScan">
+			<option selected="selected" value="B">Both</option>
+			<option value="L">LTR</option>
+			<option value="N">nonLTR</option>
+		</param>
+		<conditional name="mpi_yn">
+			<param name="mpi_select" type="select" label="Enable MPI">
+				<option value="no_mpi">No</option>
+				<option value="yes_mpi">Yes</option>
+			</param>
+			<when value="yes_mpi">
+				<param name="nmpi" format="txt" type="text" value="1" label="Number of MPI Processes"/>
+			</when>
+			<when value="no_mpi">
+				<param name="nmpi" type="hidden" value="0"/>
+			</when>
+		</conditional>
+	</inputs>
+	<outputs>
+		<!-- Updated based on https://galaxyproject.org/learn/datatypes (08.02.2017) -->
+		<data format="txt" name="output" label="LTR Results (ltr.out)">
+			<filter>program != "N"</filter>
+		</data>
+		<data format="fasta" name="clade" label="clade file (FASTA)">
+			<filter>program != "L"</filter>
+		</data>
+		<data format="txt" name="qvalue_en" label="qvalue_en">
+			<filter>program != "L"</filter>
+		</data>
+		<data format="txt" name="qvalue_rt" label="qvalue_rt">
+			<filter>program != "L"</filter>
+		</data>
+		<data format="gff3" name="ltr_gff3" label="GFF3 for LTR">
+			<filter>program != "N"</filter>
+		</data>
+		<data format="gff3" name="nonltr_gff3" label="GFF3 for nonLTR">
+			<filter>program != "L"</filter>
+		</data>
+		<data format="gff3" name="both_gff3" label="GFF3 for LTR and nonLTR">
+			<filter>program == "B"</filter>
+		</data>
+
+	</outputs>
+	<help>
+How to Run MGEScan
+===================
+
+* Select an input genome data from the select box, and choose a program. Both LTR and nonLTR of MGEScan is default.
+* Click 'Execute' button.
+* MPI will be enabled depending on your system support.
+
+If you like to have more options to run LTR or nonLTR program, use separated tools on the left panel.
+
+For example, in LTR > MGEScan-LTR, preprocessing by repeatmasker and setting other variables are available e.g. distance(bp) between LTRs.
+
+Output
+============
+
+A. MGEScan_LTR:
+
+Upon completion, MGEScan-LTR generates a file "ltr.out". This output file has information
+about clusters and coordinates of LTR retrotransposons identified. Each cluster of LTR
+retrotransposons starts with the head line of "[cluster_number]---------", followed by
+the information of LTR retrotransposons in the cluster. The columns for LTR
+retrotransposons are as follows.
+
+  1. LTR_id: unique id of LTRs identified. It consist of two components, sequence file name and id in the file. For example, chr1_2 is the second LTR retrotransposon in the chr1 file.
+  2. start position of 5’ LTR.
+  3. end position of 5’ LTR.
+  4. start position of 3’ LTR.
+  5. end position of 3’ LTR.
+  6. strand: + or -.
+  7. length of 5’ LTR.
+  8. length of 3’ LTR.
+  9. length of the LTR retrotransposon.
+  10. TSD on the left side of the LTR retotransposons.
+  11. TSD on the right side of the LTR retrotransposons.
+  12. di(tri)nucleotide on the left side of 5’LTR
+  13. di(tri)nucleotide on the right side of 5’LTR
+  14. di(tri)nucleotide on the left side of 3’LTR
+  15. di(tri)nucleotide on the right side of 3’LTR 
+
+B. MGEScan_nonLTR:
+   Upon completion, MGEScan-nonLTR generates the directory, "info" in the data directory you
+   specified. In this "info" directory, two sub-directories ("full" and "validation") are
+   generated.
+
+   * The "full" directory is for storing sequences of elements. Each subdirectory in "full"
+   is the name of clade. In each directory of clade, the DNA sequences of nonLTRs identified
+   are listed. Each sequence is in fasta format. The header contains the position
+   information of TEs identified: [genome_file_name]_[start position in the sequence]
+ 
+   For example, >chr1_333 means that this element start at 333bp in the "chr1" file.
+
+   * The "validation" directory is for storing Q values. 
+   In the files "en" and "rt", the first column corresponds to the element name and the last column Q value. 
+
+License
+============
+Copyright 2015.
+You may redistribute this software under the terms of the GNU General Public License.
+
+</help>
+</tool>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<tool name="Step 5: gff converter" id="nonltr-gff" version="0.0.1">
+	<description>
+		Step 5 of 5 in MGEScan-nonLTR: Generate gff3 
+	</description>
+	<command interpreter="bash">
+			nonltr.sh gff3 $input '$input.name' 3 $output
+			<!--nonltr-gff.sh $input $output-->
+	</command>
+	<inputs>
+		<param format="txt" name="input" type="data" label="ltr.out"/>
+	</inputs>
+	<outputs>
+		<data format="gff3" name="output" />
+	</outputs>
+	<help>
+Running the program
+===================
+
+This step converts outputs to gff3 file so that the results can be displayed via UCSC Genome Browser or Ensembl.
+
+License
+============
+
+Copyright 2015.
+You may redistribute this software under the terms of the GNU General Public License.
+</help>
+</tool>

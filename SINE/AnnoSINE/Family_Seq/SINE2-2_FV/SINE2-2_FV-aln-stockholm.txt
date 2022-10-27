@@ -1,0 +1,1442 @@
+# STOCKHOLM 1.0
+
+#=GS    GCA_000184155.1_FraVesHawaii_1.0_rm.out0 DE    SINE
+#=GS    GCA_000184155.1_FraVesHawaii_1.0_rm.out3 DE    SINE
+#=GS   GCA_000184155.1_FraVesHawaii_1.0_rm.out28 DE    SINE
+#=GS   GCA_000184155.1_FraVesHawaii_1.0_rm.out44 DE    SINE
+#=GS   GCA_000184155.1_FraVesHawaii_1.0_rm.out49 DE    SINE
+#=GS   GCA_000184155.1_FraVesHawaii_1.0_rm.out50 DE    SINE
+#=GS   GCA_000184155.1_FraVesHawaii_1.0_rm.out59 DE    SINE
+#=GS   GCA_000184155.1_FraVesHawaii_1.0_rm.out62 DE    SINE
+#=GS   GCA_000184155.1_FraVesHawaii_1.0_rm.out96 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out107 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out122 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out123 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out224 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out229 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out246 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out250 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out266 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out270 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out280 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out303 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out325 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out350 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out365 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out387 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out389 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out419 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out427 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out431 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out476 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out488 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out503 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out539 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out562 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out570 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out602 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out640 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out647 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out658 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out717 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out742 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out766 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out781 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out822 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out835 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out836 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out840 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out848 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out851 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out871 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out881 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out888 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out897 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out902 DE    SINE
+#=GS  GCA_000184155.1_FraVesHawaii_1.0_rm.out943 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1024 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1045 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1046 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1058 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1080 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1086 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1098 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1101 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1118 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1131 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1141 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1165 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1167 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1189 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1239 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1282 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1286 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1301 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1316 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1318 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1357 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1361 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1370 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1383 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1391 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1416 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1425 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1438 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1501 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1505 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1511 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1518 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1522 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1526 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1557 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1560 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1564 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1571 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1601 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1605 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1616 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1628 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1629 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1654 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1661 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1674 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1713 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1714 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1718 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1722 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1748 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1795 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1809 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1861 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1875 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1879 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1894 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1907 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1964 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out1986 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2030 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2055 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2069 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2079 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2089 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2109 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2122 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2128 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2151 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2194 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2239 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2250 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2254 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2257 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2283 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2286 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2310 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2324 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2332 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2358 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2359 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2390 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2403 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2434 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2451 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2477 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2479 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2490 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2494 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2519 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2537 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2538 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2543 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2556 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2557 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2558 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2559 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2566 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2569 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2580 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2584 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2587 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2596 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2623 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2643 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2653 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2657 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2667 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2706 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2709 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2713 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2714 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2716 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2720 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2727 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2746 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2747 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2788 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2790 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2812 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2840 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2841 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2853 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2868 DE    SINE
+#=GS GCA_000184155.1_FraVesHawaii_1.0_rm.out2869 DE    SINE
+
+GCA_000184155.1_FraVesHawaii_1.0_rm.out0     --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out3     -----ACCTAATGAGTTTGATCTAATGGAAG--CATAC---------TAA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out28    --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out44    -----ACCCAACGGGGTTGGTTTAGTGGAAA--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out49    ----TACCTAATGGGTTTGGTCTAGTGGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out50    --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out59    -----------TGTGGTTTGTCTAGTGAGA---------------GTATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out62    --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out96    -----ACCCAATGAGATTGATTTAGTGGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out107   -------CCAATGGGGTTAGTCTAATGGAAG--TATA-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out122   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out123   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out224   -----ACCTAGTGAGTTTGGTCTAATAGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out229   -AC---CCATATGGGTTTGGTTTAGTGGTAAAGCATGATAGGCCTG----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out246   -----ACCCAATGGGGTTGGTCTAGTGGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out250   ----TACCTAATGGGGTTCGTCTAGTGAAAG--CATGCTA-----CGGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out266   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out270   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out280   -----ACCCAAAAAGATTGGTCTAATGGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out303   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out325   ----------ATGAGGTTGGTCTAGTGGAAA--CAT--------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out350   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out365   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out387   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out389   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out419   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out427   ------------------------GTGGAAA--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out431   ------------------CTAGTGAAAGCA---------------TGCTG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out476   -ACCC----AATGTGGTTGGTCCAATGAAA---------------GTATA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out488   -------------GGTTGGGTGTGGTGGAA---------------ACATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out503   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out539   TAC---CC--ATGGGGTTTGGTCTAG------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out562   TAC---CCATGTGGGTTTGGTTTAGTGGTAAAACATGATAGGCCTG----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out570   ----TACGCAATGGGTTTGGTTTAATAAAA---------------ACATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out602   ----TACCCAATGTGGTTGGTTTAGTGGAAA--C-------------ATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out640   --------------------TCTAATAGAAA--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out647   ----------ATAGGGTTGGTCTAGTGGAAA--C-------------ATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out658   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out717   ------------------------TTGGTCT--AGTGGAA-----GTATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out742   -AC---CC--ATGGGGTTTGGTCCAG------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out766   ----TACCTAATGGGTTTGGTCTAGTAGAAG--CATT-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out781   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out822   -----------ATGGGTTAGTCTAATGGAAA-CATGCAAG-----GCTAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out835   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out836   TAC---CCATGTGGGTTTGGTCTAGTGGTAAAGTATGATAGGTCTGC---
+GCA_000184155.1_FraVesHawaii_1.0_rm.out840   ------------GAGGTTGGTCTAGTGAAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out848   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out851   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out871   ----TACCCAATGGGGTTGGTATAGTGGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out881   TAC---CC--ATGGGGTTTGGTCCAG------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out888   -AC---CC--ATGGGGTTTGGTCCAG------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out897   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out902   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out943   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1024  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1045  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1046  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1058  -----ACTCACTGGGGTTAGTCTAGTGGA---------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1080  ----------------TTGGTATAGTGGAAG--TATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1086  -----------GGAGTTTGGTTTAGCGGAAA--------------CCTAG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1098  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1101  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1118  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1131  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1141  ------------GGATTTGGTTTAGCTGAAA--------------TACGG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1165  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1167  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1189  ------------------------TTGGTCT--AATGAAA-----ACATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1239  -----ACCCAATGGGGTTGGTCTAGCGAAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1282  -------CCAATGGGGTTGGTCTAGTGGAA---------------GCACC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1286  -AC---CCATGTGGGTTTGGTCTAGTGGTAAAGCATGATAGGCCTG----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1301  ----TACCCAATGGGGTTAGTCTACTAGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1316  -----ACCCAATAAATTTGGTCTAATAGAAG--AATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1318  -------------GGTTCGGTCTAGTA------GCCGAAA-----GCATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1357  ----------------TTGGTTAAGTGGAA---------------GTATA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1361  -----ACCCAATGGGGTTGGTCTAGTGGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1370  TAC---CC--ATGGGATTTGGTCCAG------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1383  ------------------------------------GGGA-----AACGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1391  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1416  TAC---TC--ATGGGGTTTGGTCAAG------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1425  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1438  TAC---CC--ATGGGGTTTGGTCCAGTGGAAAGCATGCTGGGTCTGCTTG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1501  -------------GGCTTGGTTTAATGAAAG--TATGTTA-----TGCTG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1505  ----------TGGGGTTTAGTCTAGTAGAAA--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1511  TACCTAATGAGGTTGGTCGATATAATAGAAA-CATGCTA-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1518  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1522  ----TACCCAATGGGGTTAGTCTACTAGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1526  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1557  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1560  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1564  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1571  -----ACCCAATGAAGTTGGTTTAGTGAAAA--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1601  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1605  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1616  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1628  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1629  -----ACCCAATGAGTTTGGTCTAGTCGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1654  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1661  -----ACCCAATGGGTTTGGTCTAATGAAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1674  TACCCAATTGGTTAATTTGGTCTAATGTAAG--TATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1713  -----ACCCAATGAGGTTGGTCTAACTAAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1714  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1718  ----------------TTGGTCTAGTGGAAA---------------CATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1722  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1748  ---------------TTTAGTCTAGTAAAA---------------ACATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1795  ------------------GGTACAGTGAAA---------------ACATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1809  -----ACCTAATGGGTTTAGTCTAATGGAAA---------------CATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1861  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1875  -------------------------------------AAA-----GCATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1879  TAA---CC--ATGAGGTTTGGTCCAG------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1894  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1907  -AC---CCATGTGGGTTTAGTCTAGTGGTAAAGTAGGATAGGCCTGTTTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1964  -----ACCCAATGAGGTTAGTCTAGTGAAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1986  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2030  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2055  -ACCCAATGAG--GTGTTGGTCTAGTACA-------------------TA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2069  -ACCCAACGAGGTTAGTCGGTCTAGTGGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2079  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2089  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2109  -----ACCCAATGGGGTTGGTCTAGTGGAAA--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2122  -----ACCCAATGAGATTGATTTAGTGGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2128  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2151  -----------TTGGTCTAGTGATATTGAA---------------GCATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2194  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2239  ----------------TTGGTTTAGTAGAA---------------GCATT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2250  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2254  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2257  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2283  -AC---CC--ATGGGGTTTGGTCCAG------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2286  ----TACTCAATGGGATTGGTCTAGTAGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2310  ---------------TTTAGTCTAGTATAA---------------TCATA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2324  -----------GGTGGTTGGTCTATTGG----------AA-----GCATA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2332  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2358  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2359  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2390  ---------CATGCAGTTTGTTTCGTGAAA---------------GCATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2403  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2434  ----------ATGGGGTTGGTCTAGCGGAA---------------ACATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2451  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2477  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2479  -----------------------TTTGGTCT--AATGGAA-----GCATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2490  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2494  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2519  ------------GAGTTTGGTCTAGTGGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2537  -----ACCCAATGGGGTTAGTCTAGTAGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2538  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2543  ---------------------TTGATCAAGT-ATAAGCAT-----GTTAG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2556  TAC---CC--ATGGGGTTTGGTCCAG------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2557  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2558  TAC-----CAATAAGGTTGGTCTAATAAGA---------------GCATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2559  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2566  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2569  --A-----CCGATGGAGTTGGTCAAGGAAA---------------GAATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2580  ------------GAGTTTGGTCTAGTGGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2584  ----------ATGGGGTTAGTCAAGTGGAAG--TATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2587  ----------ATGGGGCTGATCTAGTGACT---------------CTCGA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2596  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2623  -ACCC----AATAGGGTTGGTCTAGTGGAACTGTAGAAGC-----ATACG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2643  -----------------------AGTGGAAA--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2653  -------CCAATGGGGTTGGTCTAGTAAAAA--C-------------ATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2657  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2667  -----ACCCACTGGGATTAGTCCAGTGGAAA--CATA-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2706  TAC---CC--ATGGGGTTTGGTCCAG------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2709  ----------------TTGGTCTAGTGGAAG--C-------------ATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2713  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2714  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2716  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2720  ----------------TTGGTTTAGCTGAA---------------GCATA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2727  ------------------GGTCTAATAGAA---------------GCATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2746  ------------------GGTCTAGTGGTA---------------ACATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2747  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2788  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2790  -----------CATGGTTGGTTTAATGAAAG--T-------------ATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2812  ----------ATGGGGTTGGTCTAGTGGAAA--C-------------ATG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2840  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2841  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2853  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2868  ----TACCTAATAGGGTTGGTCTAGTGGAAG--CATG-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2869  TAC---CC--ATGGGGTTTGGTCCAG------------------------
+
+GCA_000184155.1_FraVesHawaii_1.0_rm.out0     --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out3     CTAGGCTATAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out28    --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out44    CTAAGCTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out49    CTAAGCTGCAAGTGGA----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out50    --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out59    GTAGACTACAAATA-G----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out62    --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out96    TTAGGCTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out107   GTAGGCTGTAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out122   ------------CTCATAAGGTGTGGTTCAGTGGTAAGCATGCTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out123   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out224   CTAGGCTGCAAATGAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out229   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out246   CTAGGTTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out250   TGCAAGTGCAAGTGGA----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out266   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out270   ----------------------------------AAAAAATGCTAAGCCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out280   ATATGTTACAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out303   ----------TACCCATCAGGTTTGGTCCAGTTGGTAGCAGGCTGGTCCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out325   -----------GCTAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out350   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out365   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out387   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out389   -------ACCCATGGGGTTTG----TTCCAGTGGAAAACATGCTAGGTTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out419   -------------CCATGGGATTTGGTCTGGTGGTAAGTATGCTAGATCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out427   CTAGGCTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out431   AATGTAAGGTAGTA-A----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out476   TTATGCTGCAAATGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out488   TTAGGCTACAAA--------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out503   ----------TACCCATAGAATTTGGTCCAATGGAAAACATATTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out539   -------------------------------TGGAAAACATGTTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out562   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out570   TTAAGTTGCAAGTA-G----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out602   CTAGGCTGCAAATGAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out640   CTAGACTGCAAATGAA----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out647   CTAGGCTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out658   ------------------------------G-------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out717   CTAGGCCGTAAGTGGA----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out742   -------------------------------TGGAAAGCATGCTGGATTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out766   ATAGGCTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out781   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out822   TAAGGCTATTATTC-G----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out835   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out836   -------------------------------------------------T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out840   TTAGGCTGCAAGTGAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out848   ----------CATGGGGTTTG----GTCTAGTGGTAAATATGTTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out851   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out871   CTAGGCTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out881   -------------------------------TGGAAAACATGCTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out888   -------------------------------TGGTAAGCATGTTAGGCCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out897   ---------------G----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out902   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out943   ----------------------TTGGTCCAATGGAAAGAATGTTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1024  -----------ACCCATGGGGTTTGGTCCAGTGGAAAGCATGTTAGGCCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1045  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1046  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1058  -------------AGC----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1080  CTAGGCTACAACTGAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1086  TTAGG---------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1098  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1101  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1118  ------------------GGGTTTGGTCTAGTGGTAAACATGTTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1131  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1141  CTAGG---------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1165  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1167  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1189  TTAGGTTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1239  --------CAAGT-AG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1282  CTACCCTAGAAGTGGG--------------G-------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1286  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1301  TTAGGCTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1316  CTAGGTCGTAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1318  CTAAGCTACAACTA-G----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1357  TT-AGGTTATAGTA-C----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1361  CTAGGCTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1370  -------------------------------TGGAAAGCATGTTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1383  GTTAGACTGCAATTGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1391  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1416  -------------------------------TGGAAAACATATTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1425  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1438  TTGGGCGAATGTTGCAGTGAC----ACTCCTAGTCTACAGTGACACTCCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1501  CAAGCTTACAAGTA-G----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1505  GTAGGTTGCAAATGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1511  ---GGCTACAAGTG-A----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1518  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1522  TTAGGCTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1526  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1557  ----------------------TTTGTCCAGTGGTAAGCATGCTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1560  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1564  --------------------------------------------GGGTTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1571  TTAGGTTACAAGTGGA----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1601  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1605  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1616  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1628  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1629  CTAGGTTGCTAATGAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1654  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1661  CTAGGCTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1674  TTAGGCTGCAAGTGAA----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1713  CTAGGCTACAGATAGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1714  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1718  TTTGGCTGTCAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1722  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1748  GTAGGCTGCAAATGTG--------------T-------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1795  TTGGACCGTAAATGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1809  CTAGGCTGCAAGTGAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1861  ---------TGTTA-G----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1875  TTAGGTTATAAATGAA----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1879  -------------------------------TGAAAAGCATGTTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1894  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1907  TTGGGCTA-------------------------ATGTTACAGAGATACTC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1964  TTAGACTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1986  ------TACCCATGAGATTTGGTC-CGGTACGTGGAAAGCATGTTGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2030  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2055  TTAGGTTGTAAATA-T----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2069  TTAGGCTACAAATGAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2079  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2089  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2109  CTAGGCTGCAAATGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2122  CTAGGCTGCAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2128  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2151  CTAGGCTGGAAGTG-A----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2194  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2239  CTAAGCTGGAAGTT-G----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2250  ------------ACCCATGAGTTTAGTCTAGTGGAAAGCATGATGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2254  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2257  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2283  -------------------------------TGGAAAGCATGCTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2286  TTAGGCAACAAGTGTG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2310  TGAGACTA------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2324  TTAGGTTGTAAATGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2332  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2358  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2359  -------ACCCATAAGGT----TTGGTCCAGCGGTAAGCATGCTGAGTTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2390  CTAGGATGCAAGTA-A----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2403  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2434  TTATGCTACACTACAA--------------GTGG----------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2451  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2477  ------TACCCATGGGGTTTGGTCCAGTGGTAAGCATGTATGCTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2479  TTAGGTTGCAAGTGAA----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2490  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2494  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2519  CTAGACTACAAGTGAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2537  TTAGGCTGCAAGTGGA----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2538  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2543  CTAGATTGTAAGTG-G----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2556  -------------------------------TAGAAAATATGCTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2557  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2558  TTAAACTGTAAATG-A----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2559  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2566  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2569  CTAGGCTGCAAGTA-A----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2580  TTAGGCTGCAAGTGAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2584  CTAGGCTACAAGTGGA----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2587  GAAGCAAGCTAGGC------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2596  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2623  CTAAGCTGCAAGTG-A----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2643  CTAGGCCGCAAGTAAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2653  TTAGGCTGTAAGTGGA----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2657  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2667  CTAGGCTGTAAGTGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2706  -------------------------------TGGTAAGCATGCTGGGTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2709  TCAGGCTGCAAGTGGA----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2713  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2714  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2716  -------ACCCATG----AGGTTTGGTCAAATGGTAAGCATGTTGGATCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2720  TTAGGCTGGAAATT-A----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2727  TTATGATGTAAATG-T----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2746  TTAGACTGCA----------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2747  -----------ACCCATGAGGTTTGGTCCAGTTGGTAGCAGGCTGGTCCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2788  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2790  TTAGGCTGTAAATGAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2812  CTAGACTACAAATGGG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2840  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2841  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2853  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2868  CTAGGCTGCAAGTGAG----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2869  -------------------------------TGGAAAGCATACTGGGTTT
+
+GCA_000184155.1_FraVesHawaii_1.0_rm.out0     ---------------------------CTCCTGATA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out3     GC-GGACGCTGCAAG--------AATTCTCCTAGTA-ATATGAA---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out28    --------------------------------GGTA----ATACGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out44    GT-GAACGCTACAAG--------GATTCTCCTGATA-ATAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out49    GC-GGACGCTGCAAG--------GTCACTCTTGGTA-ATAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out50    -------------------------CACTCTTGGTG----ATAGGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out59    GGCAGACATTGTAAGGTT---------CTCTTGCTA----AAAGGAAG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out62    -----------------------------------A----ATAGAATG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out96    GC-AGACGCAGACGCTGT--AAATATTTTCCTAATA-ATAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out107   AC-GAACACTGTAAA--------GATTTTTCTGATA-ATATGAT---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out122   GTTTGTTAGACGAATGTTATAGTGATACTCTTGGTA-ATAGG--AGGT-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out123   ---------------------------CTTCCAGTA----ATAGGATG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out224   GC-GAACGCCGCAAG--------GATTCTCCTTGTA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out229   -TTTGTTGGGCGAATGTTACAGAGATACTCTTGGTA-ATAAGGAGGTC-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out246   GC-GGACGCTATAAA--------GATTCTCATGGTA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out250   GC-GGACGATGTAAG--------GATTCTCCTGATA-ATAATAG---A-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out266   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out270   GCTTGTTGGGCGAATGTTACAGTGATACTCCTAATA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out280   AC-GAACGATGTAAA--------GACACTCCTGATA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out303   GCATGTTGGGCGAACGCTGCTGTGATACTCCTGCTA-GTAAGGAGGTC-A
+GCA_000184155.1_FraVesHawaii_1.0_rm.out325   GGCGGACGCTGTAAG--------AATTCTCCTGGTA-ACAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out350   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out365   ---------------------------CTCCTGGTA-ATATAAG---A-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out387   -----ATGTTGTTGGG--------ATTCTCTCGATG-AGAGAAG---T-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out389   GCTTGTTGAACAAATGTTACAGTGGCACTCCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out419   GTTTATTAGGTGAATGTTACAGTGATACTTTTGGTA-ATAAG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out427   GTCAAACGTCGTAAG--------GATTCTCTTGGTA-ATAAGAG---A-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out431   AGCGGATGTTACATGA--------ATTCTCTCGGTA-ATAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out476   GGCAGATGCTGCAGTGAT--------TCTCCTAGTA----ATATGAAA-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out488   TACGGACGTTATAATGAT--------TTTTCTGGTA----ATATGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out503   ATTTGTTAGGCGAATGATAGT--GGCACTTCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out539   GCTTGTTGGGCGAATGTTACAGTGGCACTCCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out562   -CTTGTTGGACGAATGTTACAGGGACACTTCTGGTA-ATA-TGAGGTC-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out570   -GATTAATATTGTGGGTTGTGAGGACACTCCTGGTA----ATATGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out602   GC-GGACGCTGCAAG--------GATTCTCCTCGTA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out640   AC-GGACGTTGTAAA--------GATTATTTTGGTA-ATATGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out647   GC-GGACGTTGCAAG--------GATTCTCCTGGTA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out658   --------GACGGATATTGTCGGGGTTTTCTTGGTC----ATAGGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out717   GC-GGATGTTGTAAG--------GATTCTCTTAGTA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out742   GTTTGTTGGGCGAATGTTATAGTGGCACTCCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out766   GC-GGATGCTACAAA--------GATTCTTCTGGTA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out781   -----------------------GACTCTCCAGGTA----AAAGAAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out822   GGCAGAAGCTGCAGAGGT--------TAACCTGATA----TTAGGAAG-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out835   ------GGGCGAAAACTACAAGGATTCTTTTTGATA----ATAAGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out836   TGTTGTTGGGCGAATGTTACAGAGATACTCCTGGTA-ATAAGGAGGTC-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out840   AC-GGACGCTGCAAG--------GATTCTCTTGGTA-ATAGAAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out848   ATTTGTTGAGCGAATGTTACAGTGATACTCCTAGTA-ATAAG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out851   ---------------CTC--------CTGGTAATTA----ATATGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out871   GC-GGACGCTGCAAG--------GATTCTCCTGGTA-ATGGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out881   GCTTGTTGGGCGAATGTTATAGTGGCACTCCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out888   GCTTGTTGGGCGAATGTTACAGTGATACTCCTGGTA-ATAAG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out897   GACGAATGCTGTAAGT--------ATTTTCTTGGTA-ATTTGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out902   ------------------------------CTGGTA----ATAAAAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out943   GTTTATTGGGCGAATGTTATAATGACACTCCTGATA-ATAGA--AGGT-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1024  GCTTGTTGGACAAATGTTACAGTGACACTCCTGATA-ATAGA--AAGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1045  ---------------------------CTTTTGGTA----ACATGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1046  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1058  ATGGTATGCTTCAAG--------GATTTTCTTGGTG-ATAAAAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1080  AC-GGACGTTGTAAG--------AATTCTCATGGTA-ATAGGAG---A-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1086  GGTGTAAATTGAGAAAAC------GT--AAGTCGGA--CTAAAAGTGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1098  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1101  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1118  GCTTGTTAGGCGAATGTTACAATGATACTCTTGGTA-ACAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1131  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1141  CCTGATAGTTGGACGAAT------GTGAGTTCGATA--CTTAAAGAGA-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1165  ----------------------------------TA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1167  ----GGCGGATGCTACATGGATTCTCTTAAGACGTA----ATAAGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1189  GC-GGACACTGAGAA--------GATTCTCTTAGTA-TTAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1239  GGCGGATGCTGTAAG--------GATTCTCCTGCTT-ATAGGAG---A-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1282  --------CAGAT---GTGCAGAGGTTCTCCTGGTA---------ATA-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1286  -CTTGTTGGGCGAATGTTACAGAGATACTCCTGGTA-ATAAGA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1301  GCGGGACGCTGCAAA--------AATTCTCCTAGCA-ATAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1316  GC-GAACGCTGCAAA--------AGCACTCCTGGTA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1318  GGGAGGCTGCGACCTGCG------AGGATTCTAGTA----ATAAAATG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1357  GGGGGACGCTATAGAGAC--------TCTCCTGGTAATAGATAGATGA-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1361  GC-GGACGCTGCAAG--------GATTCTCCTGGTA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1370  GCTTGTTGGGCGAATGTTACAGTGGCACTCCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1383  AC-GGACGCTATAAG--------GATTCTCTTGATA-ATATGAG---A-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1391  ---------------------------CTCCTGATA----ATAAGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1416  GTTTGTTAGGTGAATGTTACAGTGACACTCCTGATA-ATAAG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1425  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1438  GCTTGTTGGGCGAATGTTACAATGACACTCCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1501  GACGGACGCTGTAAGGAT-----------TGTCTTG----ATAATAAG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1505  GCTGATGCTGCAAAT--------ATCACTCATGGTA-ATAGGAG---T-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1511  AGCGGACGCTACAAAGAT--------TCTCATAGTA----ATAGAATG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1518  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1522  GC-GGACGCTGCAAA--------AATTCTCCTAGCA-ATAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1526  ---------------------------------GCA-ATAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1557  GCTTGTTGGGCGAATGTTACAGTAATACTCTTGGTA-ATGACCACTAG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1560  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1564  GCTTGTTGGGCAAATGTTACAGTGACATCCCTGGTG-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1571  AT-AGACGCTGCCAT--------GATTCTCCTAACA-ATATAAC---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1601  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1605  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1616  ---------------------------------GTA----ATAGAAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1628  ------------------------------CTAGTA----ATAGGAAG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1629  GC-GAACGCTGCAAG--------GACACTACTCCTA-GTAATGGGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1654  ------------GCGGATGTTCAGGATTCTCCTGTA----ATAAAAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1661  GG-AGACGTTACAAG--------GATTCTCCTGATA-ATAGGAG---A-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1674  AC-GGACGCTGTAAT--------ATCACTCTTGGTA-ATATGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1713  GC-GGACGTTGCAAA--------GATTCTCCTAATA-ATAGGAG---A-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1714  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1718  AC-GGATGCTGTAAA--------AATTCTCTTAGTA-ATAGGAA---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1722  ----------------------------TTCTAGTA----ATAGGAGG-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1748  --------TAGGACAGCTGCTACCAAAATTTTCCTG----TTAAGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1795  ---------GCGGACATTATAAAAATTATCTTAATA----GTAGGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1809  AC-GGATGCTATAAAG-----ATTATTCTGGTAGTA-ATACGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1861  GCTGGACGTTGCAGAGGT--------TCTTTTGGTA----ATAAGAAG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1875  AC-GGACATTGTAAG--------GATTCTCCTAGTA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1879  GCTTGTTGGGCGAATGTTACAGTGGCACTCCTAGTA-ATAGGAGAGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1894  ----------------------------------------------TC-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1907  CTCGTAATAAGGAGTGTTACAGAGATACTTTTGGTA-ATAAGGAGGTC-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1964  AC-AGACGCTGCAAG--------GATTCTCCCGGTA-ATAGAAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1986  GTTTATTGGGCGAATATTACAGTGGCACTTCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2030  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2055  TGCGAACGTTATAAGGAGTCTGACAGTCTGCTGGAA----ATAAGAGG-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2069  GC-AGAAGCTGTAAA--------GATT-CTCTGATA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2079  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2089  ---------------------------CTTTCGGTA----ATAGGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2109  AC-GGACGCCGCAAC--------GATTCTCCTGGTA-TTAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2122  GC-AAACGCTGTA---------AAAATTTTCTAGTA-ATAAAAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2128  ----GTGGGGCGAACGCTGCAAAAACACTCCTGGTA----AT-AAGAA-G
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2151  GGCGAACGTTATAGGG--------ATCCTGCTGGTA-ATGGGAG---A-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2194  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2239  CATGGGGTGCACACTACT--------CCTCTTAATA----ATAGGAAG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2250  GCTTGTTGAGCGAATATTACAGTGGCACTTCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2254  -------------------------------TGGTA-ATATAAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2257  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2283  GCTTGTTGGGCGAATGTTATAGTGACACTCCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2286  AC-AGACGCTATAAT--------GATTCTTCTGGTA-ATAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2310  -CAAGTGAGACAAAACTTGCTGAGATTCGTTTGGTA----ATAGAAGA-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2324  GT-GGACTCTACAAG--------GATTCTCCTGGTA-ATAGAAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2332  ------------AATGTTACAGTGATACTCCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2358  ---------------------------CTTTTGGTA----ATAGGAAG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2359  GTTTGTTGAGCGAATGTTACAATGATACTCCTGGTA-ATAAG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2390  GGCAGAAGTTGCAGGG--------TTCTCCTAGT-----AATAGAAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2403  ---------------------------CTCCTGATA----ATATGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2434  GGCAAGTGGGGGGACGTTGCAAGGATTCTCTTGGTA----ATAGAAGA-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2451  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2477  GTTTGTTGGGCGAATGTTACAGTGATACTTTTGGTA-ATAAG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2479  GC-AAACGCTACAAA--------GATTCTCTTGGTA-ATAAGAA---G-A
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2490  -------------------------------TAGTA----ATATGAGA-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2494  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2519  AC-GAACGCTGGAAA--------TACACTTCTGGTA-ATAAGAG---A-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2537  GC-GGACGCTGCAAT--------GATTCTCCTGATA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2538  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2543  AGCGAACGCTGTAAAGAT--------TCTCCTGATA----ATAAGAGA-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2556  GCTTGTTGGGCGAATGTTACAGTGGCACTCCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2557  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2558  GATAGATACTGCAAGA--------GTTCTCCTTTTG-ATAGGAAG--G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2559  ----------------------------------TA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2566  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2569  AGCGGACGTTGCAGGG--------TTCTCCTGATTG-ATAATAGGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2580  GC-GAATGCTGTAAG--------AACACTCCTGGTA-ATTGGA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2584  GC-AAACGTTGCAAG--------GATGCTCCTGATA-ATAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2587  -ATAGTGGGGTGGACTCTGCATGAATTGTTTTGGTA----ATAAGAGTTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2596  GGTGGACGTAGCAAGG--------ATTCTCCTGGTA-ATAGGAG---T-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2623  GACGGACACTATAAAGAT--------TCTTCTAGTA----ATAAAAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2643  GC-GAACGCTGCAAG--------GATTTTCCTAGTA-ATAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2653  AC-GGACGCTACAAA--------GATTCTCATGGTA-ATAGGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2657  -----------------------------------A----ATAAAAAG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2667  GC-GAACGTTGTAAG--------AATCCTCTCGGTA-ATAGAAG---A-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2706  GCTTGTTGGGCGAATGTTACAGTGATACTCCTGGTA-ATAGG--AGGT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2709  GC-GGACACTGCAAG--------GATTCTACTGGTA-ATAGGAA---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2713  -----------------------TGCTGCATTAACT----CTCTTGGT-G
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2714  ---------------GCTATATTGACTCTCTTGGTA----ATATGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2716  GTTTGTTGGACGAATGTTACAGTGATACTCTTGGTA-ATAGG--AGAT-C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2720  GGCTGACGTTAGATATGT------TCATCTAGTATA----ATAGGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2727  GACAAACGTTGTAGGCTT-----------CCTGA------TAATAAGA-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2746  ---------TGAGAGGCGGATGAGATTCTCTTGGTA----ATAGGAGG-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2747  GCATGTTGGGCGAACGCTGCTGTGATACTCCTGGTA-GTAAGGAGGTC-A
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2788  ---------------------------CTATTAGTA-ACAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2790  GC-AGACGCTGCAAT--------GATTCTCCTGGTA-ATAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2812  GC-AGACGTTGTAAG--------GATTCTCCTCGTA-ATAGAAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2840  --------GGTGAACGATGTATGGATACTCCTAATA----AAAGAAGA-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2841  ---------------------------------GTA-ATATGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2853  ------------AGTG--------ATTCGCGTAGCA-ATAAGAG---G-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2868  GC-AGGCGTTGCGAG--------GATTTTCCTGATA-ATAGGAG---A-T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2869  ----GCTTGGTGAATGTTACAGTGGCACTCCTGGTA-ATAGG--AGGT-C
+
+GCA_000184155.1_FraVesHawaii_1.0_rm.out0     CC----T----TGGTTCGA--ACCTC-AGCTTGTGA-AAA--ACATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out3     AC----T----TGGTTCGA--ACTCC-AGCTTGTGA-AAA--ACATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out28    CT----T----TGGTTCAA--ACATC-AGCTTGTGA-AAA--ATATCCGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out44    CA----T----TGGTTCGA--ACCTC-AGCTTGTGA-AAA--ACATT-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out49    CC----T----TGGTTCGA--ACCCC-GACTTATGA-AAA--ACATC-TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out50    CC----T----TGGTTCGA--ACTCC-GGCTTATGA-AAA--ACATCTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out59    TA----T----TAGTTCGA--ACCTT-ACTGTGAAA-AAT--ATCT----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out62    CA----T----TAGTTTGA--ACTTT-AATTTGTGA-AAA--ACATCTTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out96    CA----T----TTGTTCGA--ACCTC-AGCTTGTGA-AAA--ACATTATT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out107   CC----T----TGGTTCAA--ACCTC-ATCTTATGA-AAA--ACATT-CA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out122   AT---------TGGTTCG-A-TCTTC-CGCAAGTGA-AAA--ACACCCTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out123   CT----T----TGATTCGA--ATCTC-AACTTGTAA-AAA--ATATCC--
+GCA_000184155.1_FraVesHawaii_1.0_rm.out224   CA----T----TAGTTCGA--AACCCA-ACTTGCAA-AAA--ACATC-CA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out229   -----------CCGGTTCGA-TTCTC-CGCAAGTGA-AAA--ACACTCGA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out246   CC----TTAATTGGTTCGA--ACCCC-AGCTTGTGA-AAA--ACATC-CT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out250   CC----T----TGGTTCGA--ACCCC-AGCTTGTAA-AAA--ACATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out266   -----------TGATTCA-A-TCATC-CGCAAGTGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out270   AC---------TGGTTCG-A-TCCTC-CGCAAGTGA-AAA--ACACTTTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out280   CT----T----TAGTTCAA--ACCCCAGCTTGTGAG--------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out303   -----------CAGGTTTGA-TCATC-CGCATGTGA-AAA---AATCTTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out325   CT----T----TGGTTCGA--ATCCC-AACTTGTAA-AAA--ACATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out350   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out365   CA----T----TGGTTCAA--ACCTC-AGCTTGTGA-AAA--ACATC-TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out387   TT----T----TGGTTCGA--ATCCT-AGCCTGTCA-AAA--ACA---TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out389   AC---------TGGTTCG-A-TCCTC-CGCAAATGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out419   AC---------TGGTTCG-A-TCTTC-CGTAAGTGA-AAA--ACACTTTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out427   TT----T----TGGTTCCA--ACCTC-AGCTTTTGA-AAA---CATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out431   CT----T----TAGCTTGAATATCTC-AACTTGTGA-AAA--ACA---TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out476   CT----C----TTATTCGA--ACATC-AACTTGTGA-AAA--CCATTAAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out488   GT----A----TGGTTCAA--ACCGC-AGCTTGTGA-AAA--ACATCGTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out503   A----------TTGGTTCGA-TCCTC-CGTAAGTGA-AAA--ACATCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out539   AC---------TGGTTCG-A-TCCTC-CGCAAGTGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out562   -----------CTGGTTCGA-TCCTC-CGTAAGTGA-AAA--ACACCCGA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out570   AT----T----TAGTTCGA--ACTTT-AATTTATGA-AAA--ACACCCCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out602   CA----T----TAGTTCGA--ACCCC-AACTTGTGA-ATA--ACATC-AC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out640   TC----T----TGGTTCGA--ACCTC-AATTTGTGA-AAA--ACATC-GT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out647   CC----T----TAGTTCGA--ACCCT-AGCTTTTGA-AAA--ACATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out658   CT----C----AGTTTAAA---CCCT-AACTTGTCA-AAA--ACATCA--
+GCA_000184155.1_FraVesHawaii_1.0_rm.out717   CA----T----TGGTTCAA--ACCT--AGCTTGTGC-AAA--ACATC-CT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out742   AC---------TGGTTCG-A-TCCTC-CACAAGTGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out766   AT----T----TAATTTAA--ACCCC-AGCTTATGA-AAA--ACATC-TT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out781   CT----T----TAGTTCGA--ATCTC-AACTTGTGA-AAA--ACATCTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out822   CT----C----TCGTTTGA--ACTCA-GAGCGTGTG---A--AAA-----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out835   CC----C----TAGTTCGA--ACCAC-AACTTGCAA-AAA--ACATTCCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out836   -----------CTGGTTCGA-TCCTC-TGCAAGTGA-AAA--ACATTCGA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out840   CT----T----TGGTTCGA--ACCCA-GC--TTGTG-AAA--ACATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out848   AC---------TGTTTCG-A-TCTTC-CGCAAGTGA-AAA--ACACCCTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out851   CT----T----TGGTTC-----------------TT---A--TAA-----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out871   CC----T----TGGTTTGA--ACCCC-AACTTGTGA-AAA--ACATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out881   AC---------TAGTTCG-A-TCATC-TGCAAGTGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out888   AC---------TGGTTCG-A-TCCTC-CGCAAGTGA-AAA--ACACCATA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out897   CT----T----TAGTTTAA--ACCTC-AACTTGTGA-AAA--CCAACGTC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out902   TT----A----TAGTTCGA--GTCTC-AGCTTGTGA-TAA--ACATCTTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out943   AT---------TGATTCG-A-TCCTC-CGTAAGTGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1024  AT---------TGGTTCG-A-TTCTC-CGCAAGTGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1045  AT----T----TGGTTTAA--ACCTC-AGTTTGTGG-AAA--ATA-----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1046  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1058  TA----T----TGGTTCAA--ACCCC-AGTTTATGA-AAA--ATATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1080  CT----T----TGGTTCGA--ACCTCAGTTTATG-A-AAA--ATATT-TA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1086  CC----A----TCGTTCGA--TCATC-TGCTTGTGA-AAA--ATACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1098  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1101  --------------------------------GTGC-AAA--ACG---CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1118  AC---------TCGTTCGAT-CCCTC-CACATGTGA-AAA--ACACCTTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1131  ---------------TTGA--ACCCC-AGCTTGTGA-AAA--ACATCTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1141  CC----A----GCACTCAA--TCATC-TGGTTGTGA-AAA--ATACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1165  CA----T----ACGTTCGA--ACCTA-AACTTGTGA-AAA--ACA---TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1167  TA----C----CGGTTCGA--ACCTC-AGCTTGTCC-AAA--ATATCTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1189  TA----T----TGGTTCGA--GCCCG-AGCTTCTGA-AAA--ACATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1239  CC----T----TGGTTCAA--ACCCA-AACTTGTGA-AAA--CCATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1282  CT----C----TGGTTCGA--AC-------CCCAGA-AAA--AAAATCCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1286  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1301  CC----T----TGGTTCGA--ACCCC-AGCTTCTGA-AAA--ACATC-TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1316  CA----T----TGGTCCGA--ACCCC-AACTTATGA-AAA--ATATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1318  CC----A----TAGTTTGA--ACTCC-AACTTGTGA-AAA--ACA-----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1357  CT----A----TGTTTCGG--ACCCC-AACTTGTAA-AAA--ACTTTCCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1361  CC----T----TGGTTCGA--ACCCC-AGCTTGTGA-AAA--ACATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1370  AC---------TGGTTCG-A-TCCTC-CGCAAGTGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1383  TC----T----TGGTTCGA--ACCTC-AGCTTGTAA-AAA--ACAAC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1391  TT----T----TGGTTCGA--ACCTC-AATTTATGA-AAA--ACATTTTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1416  AC---------TGGTTCG-A-TCCTC-CGCAAGTGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1425  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1438  AC---------TGGTTTG-A-TCCTC-CGCAAGTAA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1501  TA----T----CGGTTTAA--ACCCT-ATCTGGTAA-AAA--ACATC---
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1505  CC----T----TGGTTCGA--ACTCC-AACTTGTGA-AAA--ACATC-TT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1511  CT----T----TGGGTCGA--ACCCA-CATCTC-----------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1518  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1522  CC----T----TGGTTCGA--ACCCC-AGCTTCTGA-AAA--ACATC-TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1526  CC----A----TAGTTCAA--AACTC-AACTAGTGA-AAA--ACA---TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1557  TGCTCCCATGTTGCTCCCAT-GATGT-TACAAGTGA-AAA--ACATCATA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1560  --------------------------------------AA--ACATCCAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1564  AC---------TGGTTCG-A-TCCTC-CGCAAGTGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1571  CC----T----TGGTTCGA--ATCCC-AGCTTGTGA-GAAAAACATCATT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1601  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1605  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1616  TG----T----TGGTTGAA--GCCCA-AGTTTGTGA-ATG--AAT-----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1628  CC----T----TGGTTTGA--AAACT-AACTTGTGA---A--AAT-----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1629  CC----T----TGATTCGA--ACCCTAACTTAT-AA-AAA----AT----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1654  TC----T----TGGTTCGA--GCACT-AGCATGTGA-AAA--ATATA---
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1661  TC----T----TGGTTCGA--ACCCC-AGCTTGTGA-AAA--ACATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1674  TA----T----TGGTTCGA--ACCTCAGTTTGT-GA-AAA--ACATC-AG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1713  CA----T----TGATTCGA--ACCCC-AGCTTGTGA-AAA--GACCC-CA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1714  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1718  CC----T----TGGTTTGA--ACCCC-AGCTTATGA-AAA--ACATC-CG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1722  CA----T----TATTTCGA--ACCTC-AGCTTGTGA-AAA--ACATCTTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1748  CC----T----TGGTTCGA--ATCTT-AGTTTGTGA-AAC--ATGCTT--
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1795  TA----T----TGGTTAGA--ACACC-AGCTTATGA-AAA--ATATT---
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1809  TA----T----TGGTTCGA--ACCCC-AGCTTGTGA-AAA--ACATC-TA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1861  CT----C----CGGTTCGA--ACCCT-AATTTGTGG-AAA--AACATCTC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1875  TC----T----TGGTTTGA--ACCCC-AGTTTATGA-AAA--GCATC-CT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1879  AC---------TGGTTCG-A-TCCTC-CACAAGTGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1894  -----------CTGGTTCGA-TCCTC-TGTAAGTGA-AAA--ACACCCAA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1907  -----------CTGGTTCGA-TTCTC-CGCAAGTGA-AAA--ACACTCGA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1964  TC----T----TGTTTCGA--ACCTC-AGCTTGTGA-AAA--ACATC-TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1986  AC---------TGATTCG-A-TCCTC-TGCAAGTGA-AGA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2030  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2055  AC----T----TGGTTTGA--ACCTC-GTCTTGTAA-AAA--CCGCCTTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2069  CT----T----TGGTTCGA--ACCCT-AATTTGTGA-AAA--ACATC-AT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2079  --------------------------------GTGA-AAA--ATATGT--
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2089  AC----T----TGGTTCGA--ATCTT-ACTTTGTGA-AAA--GCCTTCTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2109  CT----T----TGGTTCGA--ACCCC-AGCTTGTGA-AAA--ACATC-TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2122  CA----T----TTGTTCGA--ACCTC-AGCTTGTGA-AAA--AAATCCTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2128  TC----T----TTAATCGA--ACCTC-AGCTTGTGA-AAA--ACATCTTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2151  CT----A----TGTTTGAA---CTTC-AACTTGTAA-AAA--ACA---TT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2194  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2239  TC----T----TAGTTTGA--ACATC-TCGGTTTGT-AAA--GAACA---
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2250  AC---------TGGTTCG-A-TCCTC---CACAAGT-AAA--ACATCTTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2254  TC----T----TTATTCGA--ACCCC-AGCTTGTGA-AAA--AAATC-TT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2257  -------------------------------------------CATCTCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2283  AC---------TGATTTG-A-TCCTC-CGCAAGTGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2286  CA----T----TGGTTTGA--ACTTT-AGGTTGTGA-AAA--ACATC-T-
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2310  CT----A----TAGTTTGA--ACTCT-CGCTCGTAA-AAA--AATCATTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2324  CC----T----TGATTCGA--ACCTC-AGCTTGTGA-AAA--ATATC-TT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2332  AC---------TGGTTCG-A-TCCTC-CGCAAGTGA-AAA--ACACCCTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2358  CA----T----TGGTTC-------TC-GGCATGTGAAAAA--ACATTCAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2359  AC---------TGGTTCG-A-TATTC-CGCAAGTGA-AA---ACACCCTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2390  CT----T----TTGTTCAA--ACCCT-AGCTTTTGA-AAA--ACA-TATC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2403  TC----T----TGGTTTGA--ATCCC-AGCTTGTGA-AAA--ACATCATT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2434  TT----T----TGGTTCAA--ATCCT-AGCTTATAA-AAA--ACATACAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2451  ----------------------------------TG-AAA--GATCCCGA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2477  AC---------TGGTTCG-A-TCTTC-CGCAAGTGA-AAA--ACACCCTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2479  TC----C----TGGTTCGA--ACCCG-CA---------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2490  TT----T----TGGTTCGA--ATGAC-AGCTTATGA-AAA--ACATC--A
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2494  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2519  TA----T----TAATTTGG--CCCCTCAGCTTGTGA-AAA--ACATC-TA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2537  CC----T----TTGTTCGA--ACCCC-AACTTGTGA-AAA--ACATC-TA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2538  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2543  AT----T----TGGTTCGA--ACCCT-AACTTGTGA---A--AAC-----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2556  AC---------TGGTTTG-A-TCCTC-CTCA-------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2557  ----------------------CCTC-CACAAGTGA-AAA--ACACCTCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2558  CA----T----TGGTTCGA--ACTAA-AACTTGTGA-AAA--ACA-TCAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2559  CT----G----TAGTTTGA--ACCTC-ATATTGTGA-AAA--GCA---TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2566  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2569  CT----A----TGATTCGA--ACCTC-AATTTATGA-AAA--ACA-TCTC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2580  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2584  CT----A----AGGTTCGA--ACGTC-AATTTGTGA-AAA--ACATT-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2587  TT----A----TTCAAACC--TTATT-AGCTTGTGA-AAA--ATATCCCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2596  CT----T----TGGTTCGA--ACCGC-AACCTATGA-AAA--ACA---CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2623  CT----T----TGGTTCGA--ACCCA-TTTCAGGGA--------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2643  CC----T----TGGTTCGA--ACCACAACTTTATGA-AAA--ACATC-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2653  CC----T----TGGTTCGA--ATCTC-AGCTTGTGA-AAA--ACATC-CT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2657  CC----T----TGATTCAA--ACCTC-GGTTTGTGA-AAA--ATATCCCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2667  TC----T----TGGTTCGA--ACCTC-AGCTTGTGA-AAA--ACATT-TG
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2706  AC---------TGGTTCG-A-TCTTC-CACAAGTGA-AAA--ACACCCTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2709  TT----T----TGGTTCGA--ACCCT-AGCTTGTGA-AAA--ACATA-TA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2713  AT----A----TGGTTCGA--ACTCT-AGCTCTCGT-GAA--AAACATTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2714  CT----C----TGGTTCAA--ACTCT-AACTCTTGA-AAA--ATATTCCT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2716  AC---------TCGTTCG-A-TCTTC-CATAAGTGA-AAA--ACACCCTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2720  TT----A----TGATTCGA--ACCCC-AACTTGTGA---A--AAA-----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2727  AT----T----TGGTTCGA--ACCTC-AATTTATGG-AAA--TACATCCC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2746  TT----C----TGATTCGA--ATCCC-AGCTTATGA-ATA--CATATT--
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2747  -----------CAGGTTCGA-TCATC-CGCATGTGA-AAA--ACATCTTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2788  TA----T----AAGTTTGA--ACCAT-AACCTGTGA-AAA--ACA---TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2790  CA----T----TAGTTCGA--ACCTC-AGCTTGTAA-AAA--ACATC-AC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2812  CA----T----TGGTTCGA--ATCCC-AGCTTGTGA-AAA--ACATA-CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2840  TT----T----TTGTTCGA--ACCCC-AACTTGTGA-AAA--AACATAG-
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2841  GT----C----TGGTTAGA--TTCTC-AGCTTATGA-AAA--ACA---TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2853  CT----T----TAGTTCGA--ACCTT-ATCTTGTAG-ATA--ACA---TC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2868  CC----T----TGATTCGA--ACCCC-AACTTGTGA-CAA--ACATC-CT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2869  AC---------TGGTTCG-A-TCCTC-CGCAAGTGA-AAA--ACACCTCA
+
+GCA_000184155.1_FraVesHawaii_1.0_rm.out0     TTG-----------------------------AGGAGGGGT-CATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out3     TTA-----------------------------GAGAGAGGT-CATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out28    CG------------------------------ATGAGGGAC-ACAT--AA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out44    TTG-----------------------------AGAATGAGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out49    TTA-----------------------------AGGATAGTT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out50    TG------------------------------AGGATGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out59    -----------------CTTAAA---------AAAAGACCG-CATC---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out62    AA------------------------------GGAATGGAT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out96    TTTT----------------------------AAAATGGAT-CATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out107   TTA-----------------------------AGAAGGGGG-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out122   TG------------------------------AGGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out123   ATTAAG----------------------------GAGGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out224   TTG-----------------------------GGGAGGGTT-TATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out229   TG------------------------------GGGAGGGG--TCCTGACC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out246   TTG-----------------------------GGGAAAGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out250   TTG-----------------------------AGGAAGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out266   TG------------------------------GGGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out270   TG------------------------------GGGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out280   ---------------------------------------GT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out303   TG------------------------------GGGAGGGG-----TCTTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out325   TTG-----------------------------GGGAGAGTT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out350   --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out365   TTG-----------------------------GGAAAAGGC-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out387   CCTTG---------------------------AGGATGGAC-TATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out389   TG------------------------------GGGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out419   AG------------------------------AGGAGGGG----TCATAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out427   ATG-----------------------------GGGAGGGAT-CTTA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out431   CCTCG---------------------------AGCATAAGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out476   TTG-------------------------------GAAAGGG-CCAA---A
+GCA_000184155.1_FraVesHawaii_1.0_rm.out488   TGAA-------------G----------------ACCTAAT-TATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out503   TG------------------------------GGGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out539   TG------------------------------GGGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out562   TG------------------------------GGAAGGGG--TCTTGACC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out570   TA------------------------------AAAATTGGT-CGACATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out602   TTG-----------------------------AAGACGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out640   TTG-----------------------------AAAAAGGGC-TATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out647   TTA-----------------------------AGGAGGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out658   -----------------------------------AGGGGT-TATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out717   TTA-----------------------------GAAAAAGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out742   TG------------------------------GGGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out766   TAG------------------------------GGAGGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out781   T--GAA----------------------------AATGAGT-CATT---A
+GCA_000184155.1_FraVesHawaii_1.0_rm.out822   TCGT-------------CTTTTA---------AGGATGAGC-TATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out835   TA------------------------------AGGAGAGGT-TATATCCC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out836   TG------------------------------GGGAGGGG--TCTTGACC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out840   TTG-----------------------------GGGAGGGGC-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out848   TG------------------------------AGGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out851   AAAA-------------CATCCC---------TTAAGGAGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out871   TTG-----------------------------GGGAGGAGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out881   TG------------------------------GGGAGAGG----TCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out888   TG------------------------------GGGAGAGG----CTATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out897   ATTTG---------------------------TGAAGAGTC-CACA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out902   ACAT-------------CTTTTG---------AAGATGAGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out943   TG------------------------------GGGAGAGA----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1024  TG------------------------------GGAAGAGA----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1045  TCC--------------CTTGGA----------------CG-GAGG---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1046  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1058  TTG-----------------------------GGGAGAGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1080  TTA-----------------------------GGAATGAGT-TATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1086  TG-------------------A------------AAAGAGC-TTTA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1098  -------------------TGGG---------GAGAGGTCA-TACC---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1101  CCTTG-----------------------------AAGATGG-GGCA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1118  TG------------------------------GGTAGAGG----CTATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1131  TG------------------------------AGGAGGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1141  TA-------------------G------------GAAGAGT-TTTA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1165  TCTTA---------------------------GAGAGGGGC-AACA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1167  TG------------------------------AGGAGACGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1189  TTA-----------------------------AAATAGGCC-ATGC---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1239  TTA-----------------------------AGGAGGAGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1282  TTGGCA----------------------------GAGGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1286  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1301  TTG-----------------------------GGG---------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1316  TCA-----------------------------GAGAGGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1318  TCT--------------TTTAAG---------GAGGGAGGA-CTTT---A
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1357  GC---------------CCTTGA-----------GAGAGA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1361  TTG-----------------------------GGGAGGGAT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1370  TG------------------------------GAGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1383  TTA-----------------------------GGGAGGGGT-CATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1391  AAAAAA----------------------------AAAAAAT-CATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1416  TG------------------------------GGA-GAGA----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1425  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1438  TG------------------------------GGGAGAGG----CTATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1501  -------------------TTTG---------AGGAGAGGA-TATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1505  TTA-----------------------------AGGAGGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1511  -------------------TTAA---------GAGGGGTCA-TACC---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1518  -------------------TGGG---------AAGAGGTAA-TATC---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1522  TTG-----------------------------GGG---------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1526  CTTCA---------------------------AGGATGAGT-CATC---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1557  TA------------------------------GGGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1560  GA------------------------------G-GAGGGGC-CAAT---A
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1564  TG------------------------------GGGAGAGA----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1571  TTT-----------------------------GGGTGGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1601  --TGGG----------------------------GAGAGAT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1605  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1616  ATAT-------------TTTTTG---------AAGAGGAGC-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1628  TAG--------------CGTTTA---------AGAAGGAGC-GATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1629  ---------------------------------------CT-ATTA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1654  CCCTGA----------------------------GAAAGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1661  TTG-----------------------------AAGAGGGGG-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1674  AAG-----------------------------------AGT-TATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1713  TGG-----------------------------GGAG--------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1714  --TGGG----------------------------GAGGGGC-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1718  TTA-----------------------------AAGAAGGGT-CATA---G
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1722  T-TGAA----------------------------AAGAGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1748  TTGGGA----------------------------GGGGCCA-TACA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1795  TTTGAG----------------------------AATAGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1809  TTT-----------------------------AAAAATGGG-TCAT---A
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1861  TT------------------TAC-----------AAAGGGC-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1875  TTG-----------------------------AAAAGGGGT-TATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1879  TG------------------------------GGGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1894  TG------------------------------AAGAGGGG--TCTTGACC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1907  TG------------------------------GGGAGGGG--TCTTGACC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1964  TTA-----------------------------GGAAAGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1986  TG------------------------------AGGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2030  --------------------------------GGGAGGGG--TCTTGACC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2055  AGGGAAGAAGAGTCCGTCGTTGAGTGACATTTTACGTTTTG-TATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2069  TTG-----------------------------AGGAGAGGC-CACC---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2079  CTTAGA----------------------------GATGAGT-CGTA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2089  T------------------------------------AAGA-GGGA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2109  TTA-----------------------------AAGAGAGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2122  TAGA----------------------------AATGGATGC-TTCG---A
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2128  TG------------------------------AGAAGGGAT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2151  TCTTA---------------------------AAAAATGAT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2194  ---GGC----------------------------AAAAGGT-ACCA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2239  TC-----------------TCTT---------AAGAATGAA-CGTA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2250  TG------------------------------GGGAGAGA----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2254  TTG-----------------------------AGGAGCGGT-CGTA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2257  TA------------------------------GGGAGGGGT-CATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2283  TA------------------------------AGGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2286  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2310  TA------------------------------AGTATGAGC-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2324  TTT-----------------------------GGAAGGGGT-CATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2332  TG------------------------------GGGAGAGG----CTATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2358  TG------------------------------AATAAGGGC-CATG---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2359  TG------------------------------GAGAGAGG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2390  TCTTA---------------------------AAGAAGAGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2403  TGGAGA----------------------------GAGAGGT-CGTA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2434  ACCTAA----------------------------AA--------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2451  TG------------------------------GGGAGGGG--TCTTGACC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2477  TG------------------------------GGG---------ACATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2479  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2490  TTTGAG----------------------------AATGGGT-TATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2494  --------------------------------------GG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2519  TTA-----------------------------AGGAAATGT-CATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2537  TTA-----------------------------AGGAGAG-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2538  --------------------------------------GGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2543  ATCC-------------TTCAAA---------AAGAGGTCA-TACA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2556  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2557  TG------------------------------GGGAGAGGCCATATATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2558  TTTAG---------------------------GAAAGAGGC-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2559  ACTTA---------------------------GGGAGAAGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2566  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2569  TTGAA---------------------------AACAAGGAT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2580  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2584  TTA-----------------------------AGGAGGGGC-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2587  TA------------------------------AGGAGGGGT-CATATCTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2596  CATTG---------------------------AGGAGGGAC-CATA---A
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2623  ---------------------------------------GC-GTAC---A
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2643  TTA-----------------------------AAGAAATGC-AATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2653  TTT-----------------------------GGGAGGGGT-CATA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2657  T--AAA----------------------------GAAGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2667  TTG-----------------------------AGGAGAGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2706  TG------------------------------GGGACAAG----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2709  TTG-----------------------------AGGAGGGGT-CAAA---T
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2713  CA------------------------------GGGAGGCCC-ATAC----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2714  TA------------------------------AGGAGGCTC-ATAC----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2716  TA------------------------------AGAAGAGA----CCATAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2720  TATC-------------CTCTTG---------AAAAAGGGT-TATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2727  TT---------------A-GTGA-------------GAGG----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2746  -TTAAG----------------------------GATGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2747  TG------------------------------GGGAGGGG-----TCTTA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2788  CCTTA---------------------------ATAAGTGGT-TATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2790  TTA-----------------------------AAGAGGG-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2812  TTG-----------------------------AAGAGGGGT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2840  -------------------------------------------GTTATAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2841  CCTTA---------------------------AGGATGGGA-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2853  TTTTG---------------------------TGAAGGGAC-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2868  TTG-----------------------------GGAAGAGAT-CATA---C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2869  TG------------------------------GGGAGAGG----CCATAC
+
+GCA_000184155.1_FraVesHawaii_1.0_rm.out0     CTACA--AATTGCTCCAGG-----GTCGG-------TAGCTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out3     ACCTA--AAATTGCTTCCG-----GCCCGGGAGTGGTAGCTCAC-GTGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out28    CATAA--ATTGCTCCTGCCCTT-GGAGTCGTACCGGTAGCT-CATTCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out44    CTTAT--AAATTGCTCCCG-----ACCCCGAAGTGATAACTCAC-TCGAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out49    CTTAA--ATTGCTCAACTA-----CCCCGGAGTGGTAGTCACTC---AGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out50    CTTAA--ATTGCT-----CAAC-TACCTCGAAGTGGTAGTT-CACTCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out59    AAAT---TGCGTTGGAAGTT-------GTAGGCTTGTAGCTCAC-TCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out62    CTTAA--TTTGCT-----CAAT-AATTTTAGAATGGTAGCT-CACTCAAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out96    CTAAA--ATTACTCCAG-A-----CTCCAGA-TTGAAAGCTCA-----CC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out107   CTTAA--ATTGCTCTCGAC-----CCCGAAATG--GTAACTCAT-CCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out122   TCAT---GTTTTTCCCGGT-------TTCGGAGTGGTAGTCTCACTCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out123   CTAAA--ATTGCTCTTGGC-------TCCGGAGTAATAACTCAC-CCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out224   CTAAA--ATTGCTCCCGGCCG--GTCTCGGAGTGGTAG------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out229   TTGA---CATGCTCTAGGC-------CCCGGAGTGGTAGTCCACACCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out246   CCACA--TATTGCTTCTGA-----CCCCGGAGTGGA-AGCTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out250   ATACA--TATTGCTCCGAC-----C-CTGGA-GTAGTAGCCCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out266   CCAT---GTTGCTCCCGGC-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out270   CCAT---GTTGCTCCCGGC-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out280   CTTAA--ATTGCTTAACA------GCTCCACAGTGGTAGCTCAC-TCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out303   CCCA---AGTGCTCTCGGC-------CCCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out325   CTACA--AATTGCTCCTGA-----CCTCGGAGTGGTA-GCTTAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out350   -----------TC-----CCGG-GGTCCTGGAATGGTAGCT-CACCCGGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out365   CTAAA--ATTGCTTCCACC-----CCCGGAGTG--GTAGCTCAT-TCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out387   CTAA---ATTGCTCCAAACA-------ACAGACTGACTGATA-GCTCACT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out389   CCAT---GTTGCCGAC----------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out419   CCAT---GTTGCTCCCGGT-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out427   CTAAA--ATTGCTCCCGGC-----CCTGGAAT--GGTAGCTTAC-TCCGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out431   CTAA---ATTTTTTTTGGCC-------TATCCAGAGTGGTAA-TTCATTC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out476   CCAA---ATTGCTCCGTGCT-------CCAGAGAGGT-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out488   CTAT---ATTGTTCGCTGCC-------CCAAAGT----------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out503   CCAT---GTTGCTCCCGGC-------CTCGGAGTGGTAGTCCCCACCTGA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out539   CCAT---GTTGCTCTCGGC-------CTCGGAGTAGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out562   TTGA---CATACTCTAGGC-------CCCGAAGTGGTGATCCACCCTGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out570   CTTAA--ATTGCTCAAACAGCT-AGTCTTATAGTGGTAACT-CAATTAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out602   CTACA--AATTGCTCCAGA-----CTCCAGA-GTGGTAGCTTAC-TTGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out640   CTGAA--ATTGCTCCCGGT-----CCCGGAGTA--ATATCTCAC-TCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out647   CTACA--AATTGCTCCCGA-----CCCCAGA-GTGATAGCTCAC-TCAAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out658   CCAAT--GGTATTCTTGAC-------GTCGGAGTAATAGCTCAC-TCGTC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out717   CTAAT---ATTGCTCCTGG-----CCCCGGA-GTGGTAGCTCAC-CCTGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out742   CCAT---GTTGCTCCCGGC-------CTCAGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out766   CTAAA--ATTGCTCTCGAC-----CCCAGAAT--GGTAGCTCAT-CCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out781   CTTAA--ATTGTTTTCAGC-------CCCGTAATAGTAATTCAC-TCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out822   CTAA---ATTGCTCCCGGCT-------TTGGAATGATAGCTCAC-TCAAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out835   TCGAG--GATATG-----------------------TTGCT-C-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out836   TTAA---CCTGCTCTAGGC-------CCCGGAGTGGCAGTCCACCCTGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out840   CTAAA--ATTGCTCTCAAA-----CCCGAAAT--GATAGCTCAC-CCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out848   CCAT---GTTGCTCCCGGT-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out851   GTAA---ATTGCTCTCAATT-------CCGGAGTGATAGTTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out871   CTACA--AATTGCTCCCTA-----ACCCTGAAGTGGTAGCTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out881   CCAT---GTTGCTCCCGGC-------CTCGGAGTGGTAGTCTCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out888   CCAT---GTTGCTCCCGGC-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out897   CTAA---GTGGCTCTCAGCT-------CCGAAATAATAACTC-ACCCGTT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out902   CTAA---ATTGTTCTTAGAG-------CCGAAATGGTAGCCGGC-TAGCC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out943   CCAT---GTTGCTCCCGGC-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1024  CCAT---GTTGTTCCAAGC-------CTTGGAGTAGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1045  CATG---TCTGTTCTTGACG-------CTTGAGTGGTAGCTCAC-TCAAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1046  --------TTGCTCCCGGCT-------CTGAAGTGGTAACCCAC-TTAAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1058  CTACA--CATTGCTCCCAA-----CCCCATAGTGGT-TACTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1080  CTAAT--TGCTCTC-------------------GGTTAACTCAC-CCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1086  CCAAA--TTAGATGCCGTCAACCCGACTCGGAACAGAAACA-CACTTTGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1098  ACAA---ATTGCTCCCGACT-------CCGAAATGGTAGCTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1101  CTAA---ATTGCTCTAGTCT-------CTAAAGTGATAGCTC-ACTTGGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1118  CCAT---GTTGCTCCCAAC-------CTCGGAGTGATAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1131  CTTAA--ATTGCT-----GAAC-AGCTCCGGAGTGGCAGCT-CACTCAAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1141  TCAAG--TTAGGCCTTGCCTTGTAGGAGTACACTTTAGCC----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1165  CTAA---AGTGCTCCTGGTC-------CTAGAACGGTAGCGC-ACCCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1167  CTAAA--TTTCTC-----CCAG-TCCT--AGAGTGATAACT-CACTCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1189  TAAAT--TGCTTCCGGC---------CCAAA-ATGACAGCTCAC-TCGGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1239  CTACA--AATTGCTCCCGA-----CCCTAAAGTGGTA-GCTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1282  CTAA---CTTGCTCCCAGT-------CTCGAAGTGGTAGCTCAC-TCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1286  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1301  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1316  C-------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1318  CCTA---ATTGCTTCTAGAC-------CCATAATGATATCTCGC-TTAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1357  --AC---ATACCTAAAATTG-------CACTACGGATAGCTCAC-ATGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1361  CTAAA--ATTTATCCCAAC-----C--CCGGAGTGTTAGCTCGC-CCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1370  CCAT---GTTGCTCCCGGC-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1383  CTACA--AATTGCTCCCGA-----CACTGGA-ATAGTAACTTAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1391  TTAAA--ATTGCTCTGAAC-------TCCGGTGTGGTTGCTCGC-CTGGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1416  CCAT---GTTGTTCTCGGC-------CTCGGAGT----------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1425  -----------GCTGCCGAA-------CCCGAGTGGTAGCTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1438  CCAT---GTTGCTCCCCGC-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1501  CTAA---ATTACTTCCGGTC-------CCGAATG-ATA------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1505  CTTAA--ATTGCTCAACAG-----TCCAGAGTG--GTAGCTCAT-TCAGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1511  ACAA---ATTGTTTTTGATC-------TCGGAATGGTAGTTCAC-TCAAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1518  ACAA---ATTGCTCCCGACT-------CCAGAATGATAGTTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1522  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1526  CTAA---GTTGTTTTCGGTC-------TCAAAGTGGTAACTC-ACTTAAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1557  CCAT---GTTGCTCCCGGC-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1560  CTTAA---ATTGC-----TCAC-AGTCTCGAAGTGGTAACT-CATTTAAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1564  CCAT---GTTGCTCCCGAT-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1571  CTAAA--ATTGCTTTCGAT-----TTCGGA--GAGGTAGCTCAC-CCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1601  CTAAA--ATTGATCTCAAT-------CCCGGAGTGGTAGCTCAC-TCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1605  ----------TGC-----TTCC-AGTCCCGGAGTGGTAGCT-CACCCGGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1616  CTAA---ATTGTTTACGGTC-------CCGAAGTGGTAGCTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1628  CTGA---TTTGATTCCGACC-------CCAAAGTTGTAACTCAC-TCATC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1629  CTTAA--ATTGATCAACA------TCCCTGGAATGGTAGCTCAC-TCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1654  TTAAA--ATTGCTCCCGAC-------TCCGGAGTGGTAGCTCAC-CCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1661  CTAAA--ATTGCTCTCGGC-----CCCAGTGGTAGCTCACCCGG-C----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1674  CTTAA--ATTATTTAAC-------AACCCAGAGTGGTAGCTCAC-TCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1713  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1714  CTAAA--ATTACTCCCGGC-------CTCAGAGTAGTAACTCAT-CCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1718  CTAAA--ATTGCTCTCG-G-----CCCTAGA-GTGACAGCTCAC-TCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1722  CTAAG--ATTGCTCCCGACC-C-CACCCGAGAGTGGTAGCTCAT-ATGGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1748  CTAAA--ATTGCTCCTGGC-------TCTAGAGTGGTAGCTGAC-CCGGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1795  CTAAA--ATTACTCCCGACC-A------TAGAG-GGTAGCTCACCCCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1809  CTTAA--AATTGCTCTCGG-----CTCTAGA-GTGGTAGCTCAC-CCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1861  CTAA---ATTGCACCACC---------TCGGAGTGGTAG-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1875  TTACA--AAGTGTTCCCGA-----TCTCAGA-GTGGTAGCTTAC-TCGAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1879  CCAC---ATTGCTCCTGGC-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1894  TTAA---CCTGATCTAGGC-------TCCGGAGTGGTAGTCCACCCTGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1907  TTAA---CCTGCTCTAGGC-------CCCGGAGCGGTAGTCCACCCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1964  CAAAA--ATTGCTCCCGGC-----CCCAGAGTGAGCTCATCTAG-----C
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1986  CGAT---GTTGCTCCCGGC-------CTCGGAGTGGTAGTCCCACCCGCC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2030  TTGA---CATGCTCTAGGT-------CCCGGAGTGGTAGTACATCCTGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2055  CTAA---ATTGCTCCCTACC----TCGGTGAGCAGTGAGCTCAC-CCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2069  AAAAT--TGC--TCCGGTT-----CCAGA---ATGGTAGCTCTC-CCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2079  CTAAATTATTGCTCCCGG--------CCGGAAATGGTAGCTGAC-CAGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2089  ATGT---ATTGCTCTCGTCC-------TTGAAGTGCTAGCTTGC-TCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2109  CTAAA--ATTGCTCCTGAC-----C--CTGAAGTGATAACTTAT-CCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2122  C--------------TG-C-----AGAGTGA-TAGCTCACCCT-----GC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2128  CTTGA--ATTTCT-----CGAC-AACCCTGGAATAGTAGCT-CTCTTATC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2151  TAAA---ATTGTTCCCGGTC-------CTGATGGTAACTCAC-TCCGCCC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2194  ACCTAA-ATTGCTCCCGAT-------CGTGAAATGGTAGCTAACACCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2239  ATGA---ATTGC--TCGGCT-------CACAAATAATAGCTGAC-TCTGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2250  CCAT---GTTGCTCCCGGC-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2254  CTAAA--TTGCTCCAGGTC-----TAGGAATAG-----------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2257  CTTAA--ATTGCT-----CAAC-AACTCCAGAGTGGTAGCT-AACTTAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2283  CCAT---GTTGCTCCTGGC-------CTCGGAGTGATAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2286  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2310  CC-GA--ATTGCA-----CCCA-GCCTTGGGAATGATAGCT-TAATTAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2324  CTACA--AATTACTCCCGA-----CCTTAAA-ATGGTAGCTTAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2332  CCAT---GTTGCTCCCGGC-------CTCGGAGTGGTAGTCCCATCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2358  CTAAA--ATTGCTCTCGCCTCA-TAA-------CCGTAG-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2359  CCAT---GTTGCTCCTGAC-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2390  CTAA---GTTTCTCCCGGCC-------TAGAACGGGGTAGGTCACTCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2403  CTAAA--ATTGCTCCATGC-------CCCGGAGTACTC----AC-CCGGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2434  --------TTGCTCTCGGT-------TCTAGAGTGGTAGCTCACCC----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2451  TTAA---CATGCTCTAGGC-------CCCGGAGTGGTGATCCACCCTGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2477  CCAT---GTTGCTCCCGAC-------CTCGGAGTGATAGTCTCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2479  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2490  TTAAA--ATTGCTCTCGAT-------CCCGGAATGGTAGCTCAC-TCGGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2494  CCAT---GTTGCTCCCGGC-------CTCTGAATGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2519  CTTAA--ATTGCTCAATAACC--CTAGAGTGCATGGTAGCTCAC-TCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2537  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2538  CTAAA--ATTGCTCCCGAC-------CCCGAGATGGTAGCTCAC-CCGGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2543  ACAA---ATTGCTTCCGACC-------CTA-AAAAATAGCTCAC-TAGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2556  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2557  CCAT---GTTGCTCCCGGC-------CTCGAAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2558  GTAA---ATTGTTTTCGGCC-------CCAAAGT----------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2559  TTAG---ATTGTTCTCGGTT-------CCAAAGGGTAAT-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2566  --------TTGCTTCTAACC-------CCAGAGTGGAAGCTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2569  ATGA---ATTGATCCCAATC-------CCCGGGTGGTTAGCTCACTCAGT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2580  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2584  TAAAA--TTGCTCCTGGCT-----CCGAA---GTGATAGCTCAC-TTGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2587  AA------TTGCT------CGT-AGCTCCGGAGTGGTAGCTTCACTCAAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2596  CTAA---ATTACTCTCGGTC-------TTAGACTGGTAGCTC-ACTTAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2623  TAAA---ATTGCTCTTAGTC-------TCGGAATAATAGCTCCC-CGGCA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2643  CTAAA--ATTGCTCTCGGT-----CCCGGAAT--GGTAGCTCAC-CCGGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2653  CTACA--AATTGCTCCCGA-----CCCCGGA-GTGATAACTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2657  CTATAA-ATTGCTCCCAAC-------CTCAGAGCAGTAGCTCAC-TCGAT
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2667  CTAAA--ACTACTTCTAGC-----TTCCTCAGCCGCCATTTTT-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2706  CCAT---GTTGCTCCCGGC-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2709  CTACA--AATTGCTCCTGA-----TCCTGGA-GTGGTAGCTCAC-TCAAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2713  -TTGA--ATTGCT------CTT-AGCTTTGGAGTGGCAGTC-CACCTAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2714  -TTGA--ATTGCT------CTC-AGCTCTGGAGTGGCAGTC-CACCCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2716  CCAT---GTTACTCCCGAC-------CTCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2720  CTAA---ATTGCTCTCTATC-------CTAAAGTGGTAGCTTAC-TCAAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2727  --CC---ATACACCCCCAAC-------TACGAGTGGTAACTCAC-TCAGC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2746  CTAAA---TTACTCCCACCC-T-CG-------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2747  CCTA---AGTGCTCTCGGC-------CCCGGAGTGGTAGTCCCACCCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2788  CTAA---ATTGCTCTTAACC-------CTAAATTGTAGCTCA-CCCTGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2790  --------------------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2812  CTACA--AATGTTTTCCGA-----CCCCGGA-GTGGTAGCTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2840  CTTAA--ATTGCT-----CGAC-AGCCTTAAAGTGGTAGTT-CACTCGCC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2841  CTAA---ATTGCTCATGGTC-------TCAGAATGGTAGCTC-AACCACC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2853  CTAA---ATTGCTGTCGGTC-------TCATAATGGAAACTC-ACGCATC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2868  CTACA--AATTGCTCTTGA-----CCCCGGAGTTGTA-GCTCAC-TCGAC
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2869  CCAT---GTTGCTCCCGGC-------CTCGAAGTGGTAGTCCCACCCGAC
+
+GCA_000184155.1_FraVesHawaii_1.0_rm.out0     TAC-----CATTTTGTAACAAAAAAA------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out3     CAT-----CATTTACTATAATTAAGAAAAAA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out28    CAC-----CAT---------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out44    TAA-----TATTGTAATCACAAA---------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out49    CAC-----CATTTGTAACCAAAAAACAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out50    CAC-----CATTTGTAACAAAAAAAAA-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out59    TAC-----TATTTCTTTCTGTAACAAAACAAAA-----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out62    CAT-----CATTTTTG----------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out96    CAC-----TGCTTTTTAATGTAACCAAAAAAA------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out107   CAC-----CATTTT------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out122   CAC-----CATTTT------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out123   CAT-----CATTTTGTTGATCAAAAA------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out224   --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out229   CAC-----CATTTTTATAACCAGAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out246   CAC-----CATTTATTGTAACAAAAAAAAAA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out250   TAC-----CATTATTGTAACAAAAAAA-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out266   CAC-----CATTTTATGAACCAAAAAAAGA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out270   CAC-----CATTTTTGTCACCAAAAAGAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out280   CAC-----TATTTTTATGTATCCAAAAAAAAA------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out303   CAC-----CATTTTTTTTTATCAAAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out325   TAC-----CATTTTTTGTAACCAAAAAGAAA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out350   CAC-----CGTTTTTACTAACCAAAAAAAAA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out365   CAC-----CATTT-------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out387   CACCCATCATTTT-------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out389   CAC-----CATTTTTTTGTAACCGAAAAAAAA------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out419   CAC-----TATTTTTGTAACCAAAAAAAGA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out427   CAT-----CATTTTCGATTCTGTCCAAGAAAAA-----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out431   AGC-----CAC---------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out476   --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out488   --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out503   CCA-----CCATTTTCGGAATCAAAA------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out539   CAC-----CATTTTTGTAACCAAAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out562   CAC-----CATTTTTGTAACCAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out570   CAT-----TAATTTGTGTAACAAAAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out602   TAC-----CATTTTCTCCAACTAAAA------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out640   CAC-----CATTTTTGCAGC------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out647   TAC-----CATTTTTGTAACCAAAAAGAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out658   CAC-----CGTTTTTTTTTTCACCAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out717   CAC-----CATTTTCTCAACCAAA--------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out742   CAT-----CATTTT------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out766   CAC-----CATTTTT-----------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out781   CGT-----CATTTTTGTAATAAAAAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out822   ACC-----ATTTTTTGTATAAAAAAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out835   --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out836   CAC-----CATTTTGATGACCAAAA-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out840   CAC-----CATTTTTGCATCAAAGAA------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out848   CAC-----CATTATTTAGACAAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out851   CAT-----CATTTTTATAAC------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out871   TAC-----TATCTTTATAACCAAAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out881   CAC-----CATTTTTTATGGAACAAAGAAAA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out888   CAC-----CATTTTTGTAACCAAAAAA-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out897   CGCCA---------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out902   ACC-----GTTT--------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out943   CAC-----CATTTTTGTAACCAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1024  CAT-----ATTTTTGTAACCAAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1045  CAC-----TATACTGAGACAAAAAAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1046  AAC-----CATTTTTCTTAAAAAAAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1058  TAC-----CAATTTTAGTAAAAAAAAAAAAA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1080  CAG-----TATTTTGTATAACCA---------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1086  CAC-----TATTATTTCAGACAAAAAGA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1098  TAC-----CATTTTTGTAACCAAAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1101  CAC-----CGATTTTATAACCAAAAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1118  CAC-----CATTTTTGTAACAAAAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1131  CAC-----CATTTTATATAAAAAAATAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1141  -AC-----CATTT-TTATAACAATAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1165  CAC-----ATTTTTTATCCGAAAAGAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1167  CAC-----CACTTTATTTGACCAAAAAAAAA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1189  CAT-----CA----------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1239  TAC-----CATTTTCTGTAACAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1282  CAC-----CATTTT------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1286  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1301  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1316  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1318  CAC-----AATTTTGTTCACCAGAAAA-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1357  CAC-----CATTTTTTGTATCCAAAA------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1361  CAC-----CATTTTTGTAATAAAAAA------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1370  CAC-----CATTTTTGTAACTTAAA-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1383  TAC-----AATTTTTGTAACAAAATAAAGA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1391  CAC-----TATTTTTGTTAAAATAAAAATAAA------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1416  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1425  TAC-----CATTTTTTGTAACCAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1438  CAC-----CATTTTTTTGTAACCAAAAAAAAA------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1501  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1505  CAT-----CATTTTTGTAAAAATAAAA-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1511  TAC-----TATTTTAAATGTAACCAAAAAAAAA-----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1518  TAT-----CATTTTTTTGTAACAAAAAAAAAA------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1522  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1526  CAC-----CATTTTT-----------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1557  CAC-----CATTTTTTGACTAAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1560  CAT-----CATTTTATTTTAAAAAAGAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1564  CAC-----CATTTTATGTAACCCAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1571  CAC-----CATTTTTCTATCCAAAGAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1601  CAT-----CATTTTTCTATCCAAAA-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1605  CAT-----TATTTTTTTTATTAAAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1616  CAC-----TTTTAGAGTAACAACAAATAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1628  TTG-----CATTTTTTGTAACAAAAGAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1629  CAC-----TATTTTGTATCCAAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1654  CAT-----CATTTTTGTAACCAAAA-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1661  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1674  CAT-----CATTTTAAATCAAAA---------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1713  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1714  CAT-----CATTTTCTATCCAAAAAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1718  CAC-----CATTTTT-----------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1722  CAC-----CATTTTCTTAATAAAAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1748  CAC-----CATTTTTTACATTTTGTAACCGAAAAAAAA
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1795  CAC-----CATTTTCAGAAAAAAAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1809  CAC-----CATTTTCTATCCAAAGAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1861  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1875  TAT-----CATTTTT-----------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1879  CAC-----CATTTTTGTAACAAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1894  CAC-----CATTTTGACGAAAACCAGAAAAAA------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1907  TAC-----CATTTTATAACCAAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1964  CAC-----AATTGTTGTAACAAAAAAGAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out1986  CAC-----CATTTTTTGTAACCATAAAAAAA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2030  CAC-----CATTTTATGTAACCAAAAAAAAA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2055  CAC-----TATTTTAAACAACAAAAA------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2069  CAT-----CATTTTGTAACCAAAAAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2079  AAC-----CATTTTCGTAACAAGAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2089  CAC-----CAATTTATGTACATAAAAGAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2109  CAA-----CATTTTCTATCCCAAAAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2122  CAT-----TGCTTTTTAATGTAACCAAAAAAA------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2128  CAC-----CATTTTGGTAA-------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2151  CAC-----CA----------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2194  CAC-----CACTTTTTGTATCAAAACAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2239  CAT-----CATTTTTGTAACACAAAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2250  CAC-----CATTTCTTGTAACCGAAAAAAAA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2254  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2257  CAC-----CATTTTTGTATATATAAAAAAAAAA-----
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2283  CAC-----ATTTTTACCACCA-----------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2286  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2310  CAC-----CATATTTACGATTAAAAA------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2324  TAC-----CATTTGATTGTAACCAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2332  CAC-----CATTTTGTTGTAACAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2358  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2359  CAC-----CATTT-------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2390  CAC-----CATT--------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2403  CAC-----CATTTTTATAACACAAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2434  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2451  CAC-----CATTTTTGTAACTAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2477  CAC-----TATTT-------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2479  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2490  CAT-----CGTTTT------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2494  CAC-----CATTTTGAAACCAAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2519  CAC-----TATTTTGTGGATAAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2537  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2538  CAC-----CATTTTATGTA-------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2543  TAC-----CGTTTTTGAAAACAAGAAA-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2556  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2557  CAC-----CATTTTTTGTAACTAAAA------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2558  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2559  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2566  TAT-----CATTTTTTTGACTGAAAAA-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2569  CAC-----------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2580  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2584  CAC-----CATTTTTTTGTAATAAAAAAAAA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2587  CAC-----CATTTTTAT---------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2596  CAC-----CAATTTTTTAATCAAGAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2623  ACC-----ATTTTTAAACAAAAAA--------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2643  CAC-----CATTTTATGGAACAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2653  TAC-----CATTTTTGTAACCCAAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2657  TAC-----TATTTTTTTTAACC----------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2667  ---------------CTATAAAAAAAAA----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2706  CAC-----CATTTTTTGACAAAAAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2709  TAC-----CATTTTATAACAAATAAAAAA---------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2713  CAC-----CA----------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2714  CAT-----C-----------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2716  CAC-----CATTTTACGACAAAAAAAA-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2720  CAC-----TATATTTTGTAACAACATAAAAAA------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2727  CAC-----CAT---------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2746  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2747  CAC-----CATTTTTGTAACCAAAAAAAAA--------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2788  ACGGCTACCATTTTCTGGAACAAAAGAAAAA-------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2790  --------------------------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2812  TAC-----CATTTTGTAACCAAAAA-------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2840  TAC-----ATTTTTGTATAAAAAACAA-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2841  ATC-----ATTTCTTTAAATCAAAGAA-----------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2853  CAT-----CATTAACCAAAA------------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2868  TAC-----TATTTTAATACCAAA---------------
+GCA_000184155.1_FraVesHawaii_1.0_rm.out2869  CAC-----CATTTTTGTAACAAAAAAAA----------
+//

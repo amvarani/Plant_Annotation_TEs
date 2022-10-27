@@ -1,0 +1,44 @@
+function package-install() {
+bash <<+END
+	sudo apt-get install $@;
+	exit $?
++END
+	return $?
+
+}
+function package-update() {
+	sudo apt-get update
+	return $?
+}
+package-update
+package-install python-virtualenv python-dev make git gcc g++ -y
+package-install libopenmpi-dev openmpi-bin -y
+package-install hmmer2 -y
+cat <<EOF > $HOME/.mgescanrc
+export MGESCAN_HOME=\$HOME/mgescan3
+export MGESCAN_SRC=\$MGESCAN_HOME/src
+export GALAXY_HOME=\$MGESCAN_HOME/galaxy
+export TRF_HOME=\$MGESCAN_HOME/trf
+export RM_HOME=\$MGESCAN_HOME/RepeatMasker
+export MGESCAN_VENV=\$MGESCAN_HOME/virtualenv/mgescan
+EOF
+echo "source ~/.mgescanrc" >> $HOME/.bash_profile
+source ~/.mgescanrc
+mkdir $MGESCAN_HOME
+cd $MGESCAN_HOME
+git clone https://github.com/galaxyproject/galaxy/
+package-install hmmer emboss -y
+mkdir -p $MGESCAN_VENV
+virtualenv $MGESCAN_VENV
+source $MGESCAN_VENV/bin/activate
+echo "source $MGESCAN_VENV/bin/activate" >> ~/.bash_profile
+mkdir -p $TRF_HOME
+wget http://tandem.bu.edu/trf/downloads/trf407b.linux64 -P $TRF_HOME
+cd $MGESCAN_HOME
+git clone https://github.com/MGEScan/mgescan.git
+ln -sf mgescan src
+cd $MGESCAN_SRC
+python setup.py install
+cp -pr $MGESCAN_SRC/galaxy-modified/* $GALAXY_HOME
+ln -sf $TRF_HOME/trf407b.linux64 $MGESCAN_VENV/bin/trf
+chmod 700 $MGESCAN_VENV/bin/trf

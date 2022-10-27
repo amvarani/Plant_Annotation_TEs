@@ -1,0 +1,36 @@
+1.GAG
+2.1 Retrotransposon gag protein: PF03732
+2.2 Zinc knuckle: PF00098
+
+2.Protease
+2.1 Retroviral aspartyl protease (RVP) :PF00077
+2.2 Retroviral aspartyl protease (RVP_2): PF08284
+
+
+
+3.Pol
+
+3.1 RT(Reverse Transcriptase)
+3.1.1 RVT-1 PF00078
+3.1.2 RVT-2 PF07727
+
+3.2 RNaseH
+3.2.1 RNaseH PF00075
+
+3.3 IN (Integrase)
+3.3.1 Zinc binding domain (amino-terminal domain) : PF02022
+3.3.2 DNA binding domain (carboxyl terminal domain) : PF00552
+3.3.3 Core domain rve (catalytic domain) : PF00665
+
+
+
+3.4 EN(Endonuclease)
+3.4.1 PF03372
+
+4.ENV
+
+
+
+
+
+Pao retrotransposon peptidase (aspartic proteinases) :PF05380

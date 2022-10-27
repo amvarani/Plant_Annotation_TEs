@@ -1,0 +1,12 @@
+my ($logfile, $logpath);
+$logpath = "./";
+$logfile = "$logpath/log.txt";
+open (LOG,">>","$logfile") || die ("Error : cant open log file");
+
+sub my_system {
+
+  my @command = @_;
+  print LOG join " ", @command;
+  system (@command);
+
+}

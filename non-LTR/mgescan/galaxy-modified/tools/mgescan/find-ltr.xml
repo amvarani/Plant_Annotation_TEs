@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+
+<tool name="Step 3: Finding ltr" id="find-ltr" version="0.0.1">
+	<description>
+		Step 3 of 4: Finding LTR is de novo identification of LTR retroelements
+	</description>
+	<command interpreter="bash">
+		#if $rm_yn.rm_select=="no_rm"
+			find_ltr.sh $input '$input.name' $output $min_dist $max_dist $min_len_ltr $max_len_ltr $ltr_sim_condition $cluster_sim_condition $len_condition $mpi_yn.nmpi $rm_yn.input2
+		#else
+			find_ltr.sh $input '$input.name' $output $min_dist $max_dist $min_len_ltr $max_len_ltr $ltr_sim_condition $cluster_sim_condition $len_condition $mpi_yn.nmpi $rm_yn.input2
+		#end if
+	</command>
+	<inputs>
+		<param format="txt" name="input" type="data" label="genome sequences"/>
+		<conditional name="rm_yn">
+			<param name="rm_select" type="select" label="Results from RepeatMasker">
+				<option value="no_rm">No RepeatMasker</option>
+				<option value="yes_rm">RepeatMasker</option>
+			</param>
+			<when value="yes_rm">
+				<param format="txt" name="input2" type="data" label="repeatmasker results"/>
+			</when>
+			<when value="no_rm">
+				<param name="input2" type="hidden"/>
+			</when>
+		</conditional> 
+		<!-- value.conf -->
+		<param name="min_dist" type="text" value="2000" label="minimum distance(bp) between LTRs" />
+		<param name="max_dist" type="text" value="20000" label="maximum distance(bp) between LTRs" />
+		<param name="min_len_ltr" type="text" value="130" label="minimum length(bp) of LTR"/>
+		<param name="max_len_ltr" type="text" value="2000" label="maximum length(bp) of LTR"/>
+		<param name="ltr_sim_condition" type="text" value="70" label="minimum similarity(%) for LTRs in an element"/>
+		<param name="cluster_sim_condition" type="text" value="70" label="inimum similarity(%) for LTRs in a cluster"/>
+		<param name="len_condition" type="text" value="70" label="minimum length(bp) for LTRs aligned in local alignment"/>
+		<conditional name="mpi_yn">
+			<param name="mpi_select" type="select" label="Enable MPI">
+				<option value="no_mpi">No</option>
+				<option value="yes_mpi">Yes</option>
+			</param>
+			<when value="yes_mpi">
+				<param name="nmpi" format="txt" type="text" value="1" label="Number of MPI Processes"/>
+			</when>
+			<when value="no_mpi">
+				<param name="nmpi" type="hidden" value="0"/>
+			</when>
+		</conditional>
+	</inputs>
+	<outputs>
+		<data format="txt" name="output" />
+	</outputs>
+	<help>
+Running the program
+===================
+
+To run find_ltr, follow the steps below,
+
+1. Update values:
+
+   * min_dist: minimum distance(bp) between LTRs.
+   * max_dist: maximum distance(bp) between LTRS
+   * min_len_ltr: minimum length(bp) of LTR.
+   * max_len_ltr: maximum length(bp) of LTR.
+   * ltr_sim_condition: minimum similarity(%) for LTRs in an element.
+   * cluster_sim_condition: minimum similarity(%) for LTRs in a cluster
+   * len_condition: minimum length(bp) for LTRs aligned in local alignment.
+   * MPI will be enabled depending on your system support.
+
+4. Click 'Execute'
+
+   * mask known repeats other than LTR retrotransposons
+   * identify LTRs
+
+Output
+======
+
+Upon completion, MGEScan-LTR generates a file ltr.out. This output file has information
+about clusters and coordinates of LTR retrotransposons identified. Each cluster of LTR
+retrotransposons starts with the head line of [cluster_number]---------, followed by
+the information of LTR retrotransposons in the cluster. The columns for LTR
+retrotransposons are as follows.
+
+1. LTR_id: unique id of LTRs identified. It consist of two components, sequence file name and id in the file. For example, chr1_2 is the second LTR retrotransposon in the chr1 file.
+2. start position of 5 LTR.
+3. end position of 5 LTR.
+4. start position of 3 LTR.
+5. end position of 3 LTR.
+6. strand: + or -.
+7. length of 5 LTR.
+8. length of 3 LTR.
+9. length of the LTR retrotransposon.
+10. TSD on the left side of the LTR retotransposons.
+11. TSD on the right side of the LTR retrotransposons.
+12. di(tri)nucleotide on the left side of 5LTR
+13. di(tri)nucleotide on the right side of 5LTR
+14. di(tri)nucleotide on the left side of 3LTR
+15. di(tri)nucleotide on the right side of 3LTR 
+
+License
+============
+
+Copyright 2015.
+You may redistribute this software under the terms of the GNU General Public License.
+</help>
+</tool>

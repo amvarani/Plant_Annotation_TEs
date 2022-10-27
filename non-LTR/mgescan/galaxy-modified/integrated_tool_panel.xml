@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<toolbox>
+    <label id="mgescan_tools" text="MGEScan Tools" version="" />
+    <section id="getext" name="Get Data" version="">
+        <tool id="upload1" />
+        <tool id="ucsc_table_direct1" />
+        <tool id="ebi_sra_main" />
+    </section>
+    <section id="mgescan" name="MGEScan" version="">
+        <tool id="mgescan" />
+    </section>
+    <section id="mgescan-nonltr" name="nonLTR" version="">
+        <tool id="mgescan-nonltr" />
+        <tool id="nonltr-forward-strand" />
+        <tool id="nonltr-reverseq" />
+        <tool id="nonltr-backward-strand" />
+        <tool id="nonltr-post-processing2" />
+        <tool id="nonltr-gff" />
+    </section>
+    <section id="mgescan-ltr" name="LTR" version="">
+        <tool id="mgescan-ltr" />
+        <tool id="ltr-preprocessing-scaffold" />
+        <tool id="repeatmasker" />
+        <tool id="find-ltr" />
+        <tool id="ltr-gff" />
+    </section>
+    <label id="basic_tools" text="Galaxy Tools" version="" />
+    <section id="send" name="Send Data" version="">
+    </section>
+    <section id="EncodeTools" name="ENCODE Tools" version="">
+    </section>
+    <section id="liftOver" name="Lift-Over" version="">
+    </section>
+    <section id="textutil" name="Text Manipulation" version="">
+        <tool id="addValue" />
+        <tool id="Add_a_column1" />
+        <tool id="cat1" />
+        <tool id="Cut1" />
+        <tool id="mergeCols1" />
+        <tool id="Convert characters1" />
+        <tool id="createInterval" />
+        <tool id="ChangeCase" />
+        <tool id="Paste1" />
+        <tool id="Remove beginning1" />
+        <tool id="random_lines1" />
+        <tool id="Show beginning1" />
+        <tool id="Show tail1" />
+        <tool id="trimmer" />
+        <tool id="wc_gnu" />
+        <tool id="dna_filter" />
+        <tool id="secure_hash_message_digest" />
+        <tool id="tables_arithmetic_operations" />
+    </section>
+    <section id="filter" name="Filter and Sort" version="">
+    </section>
+    <section id="group" name="Join, Subtract and Group" version="">
+    </section>
+    <section id="convert" name="Convert Formats" version="">
+        <tool id="axt_to_concat_fasta" />
+        <tool id="axt_to_fasta" />
+        <tool id="axt_to_lav_1" />
+        <tool id="bed2gff1" />
+        <tool id="fasta2tab" />
+        <tool id="gff2bed1" />
+        <tool id="lav_to_bed1" />
+        <tool id="MAF_To_BED1" />
+        <tool id="MAF_To_Interval1" />
+        <tool id="MAF_To_Fasta1" />
+        <tool id="tab2fasta" />
+        <tool id="fastq_to_fasta_python" />
+        <tool id="wiggle2simple1" />
+        <tool id="Sff_extractor" />
+        <tool id="gtf2bedgraph" />
+        <tool id="wig_to_bigWig" />
+        <tool id="bed_to_bigBed" />
+    </section>
+    <section id="features" name="Extract Features" version="">
+    </section>
+    <section id="fetchSeq" name="Fetch Sequences" version="">
+    </section>
+    <section id="fetchAlign" name="Fetch Alignments" version="">
+    </section>
+    <section id="scores" name="Get Genomic Scores" version="">
+    </section>
+    <section id="bxops" name="Operate on Genomic Intervals" version="">
+    </section>
+    <section id="stats" name="Statistics" version="">
+    </section>
+    <section id="dwt" name="Wavelet Analysis" version="">
+    </section>
+    <section id="plots" name="Graph/Display Data" version="">
+    </section>
+    <section id="regVar" name="Regional Variation" version="">
+    </section>
+    <section id="multReg" name="Multiple regression" version="">
+    </section>
+    <section id="multVar" name="Multivariate Analysis" version="">
+    </section>
+    <section id="hyphy" name="Evolution" version="">
+    </section>
+    <section id="motifs" name="Motif Tools" version="">
+    </section>
+    <section id="clustal" name="Multiple Alignments" version="">
+        <tool id="clustalw" />
+    </section>
+    <section id="tax_manipulation" name="Metagenomic analyses" version="">
+        <tool id="Fetch Taxonomic Ranks" />
+        <tool id="t2t_report" />
+        <tool id="Draw_phylogram" />
+        <tool id="find_diag_hits" />
+        <tool id="lca1" />
+        <tool id="poisson2test" />
+    </section>
+    <section id="fasta_manipulation" name="FASTA manipulation" version="">
+        <tool id="fasta_compute_length" />
+        <tool id="fasta_filter_by_length" />
+        <tool id="fasta_concatenate0" />
+        <tool id="fasta2tab" />
+        <tool id="tab2fasta" />
+    </section>
+    <section id="NGS_QC" name="NGS: QC and manipulation" version="">
+        <label id="fastqcsambam" text="FastQC: fastq/sam/bam" version="" />
+        <tool id="fastqc" />
+        <label id="illumina" text="Illumina fastq" version="" />
+        <tool id="fastq_groomer" />
+        <tool id="fastq_paired_end_splitter" />
+        <tool id="fastq_paired_end_joiner" />
+        <tool id="fastq_stats" />
+        <label id="454" text="Roche-454 data" version="" />
+        <tool id="quality_score_distribution" />
+        <tool id="trim_reads" />
+        <tool id="fastq_combiner" />
+        <label id="solid" text="AB-SOLiD data" version="" />
+        <tool id="solid2fastq" />
+        <tool id="solid_qual_stats" />
+        <tool id="solid_qual_boxplot" />
+        <label id="generic_fastq" text="Generic FASTQ manipulation" version="" />
+        <tool id="fastq_filter" />
+        <tool id="fastq_trimmer" />
+        <tool id="fastq_quality_trimmer" />
+        <tool id="fastq_masker_by_quality" />
+        <tool id="fastq_paired_end_interlacer" />
+        <tool id="fastq_paired_end_deinterlacer" />
+        <tool id="fastq_manipulation" />
+        <tool id="fastq_to_fasta_python" />
+        <tool id="fastq_to_tabular" />
+        <tool id="tabular_to_fastq" />
+        <label id="fastx_toolkit" text="FASTX-Toolkit for FASTQ data" version="" />
+    </section>
+    <section id="solexa_tools" name="NGS: Mapping" version="">
+        <tool id="bowtie2" />
+        <tool id="bfast_wrapper" />
+        <tool id="megablast_wrapper" />
+        <tool id="megablast_xml_parser" />
+        <tool id="PerM" />
+        <tool id="srma_wrapper" />
+        <tool id="mosaik_wrapper" />
+    </section>
+    <section id="indel_analysis" name="NGS: Indel Analysis" version="">
+        <tool id="sam_indel_filter" />
+        <tool id="indel_table" />
+        <tool id="indel_analysis" />
+    </section>
+    <section id="ngs-rna-tools" name="NGS: RNA Analysis" version="">
+        <label id="rna_seq" text="RNA-seq" version="" />
+        <tool id="tophat" />
+        <tool id="tophat2" />
+        <tool id="tophat_color" />
+        <tool id="express" />
+        <label id="filtering" text="Filtering" version="" />
+        <tool id="filter_combined_via_tracking" />
+    </section>
+    <section id="samtools" name="NGS: SAM Tools" version="">
+    </section>
+    <section id="gatk" name="NGS: GATK Tools (beta)" version="">
+        <label id="gatk_bam_utilities" text="Alignment Utilities" version="" />
+        <tool id="gatk_depth_of_coverage" />
+        <tool id="gatk_print_reads" />
+        <label id="gatk_realignment" text="Realignment" version="" />
+        <tool id="gatk_realigner_target_creator" />
+        <tool id="gatk_indel_realigner" />
+        <label id="gatk_recalibration" text="Base Recalibration" version="" />
+        <tool id="gatk_count_covariates" />
+        <tool id="gatk_table_recalibration" />
+        <tool id="gatk_analyze_covariates" />
+        <label id="gatk_genotyping" text="Genotyping" version="" />
+        <tool id="gatk_unified_genotyper" />
+        <label id="gatk_annotation" text="Annotation" version="" />
+        <tool id="gatk_variant_annotator" />
+        <label id="gatk_filtration" text="Filtration" version="" />
+        <tool id="gatk_variant_filtration" />
+        <tool id="gatk_variant_select" />
+        <label id="gatk_variant_quality_score_recalibration" text="Variant Quality Score Recalibration" version="" />
+        <tool id="gatk_variant_recalibrator" />
+        <tool id="gatk_variant_apply_recalibration" />
+        <label id="gatk_variant_utilities" text="Variant Utilities" version="" />
+        <tool id="gatk_validate_variants" />
+        <tool id="gatk_variant_eval" />
+        <tool id="gatk_variant_combine" />
+    </section>
+    <section id="peak_calling" name="NGS: Peak Calling" version="">
+        <tool id="peakcalling_macs" />
+        <tool id="peakcalling_sicer" />
+        <tool id="peakcalling_ccat" />
+    </section>
+    <section id="ngs-simulation" name="NGS: Simulation" version="">
+        <tool id="ngs_simulation" />
+    </section>
+    <section id="hgv" name="Phenotype Association" version="">
+    </section>
+    <section id="vcf_tools" name="VCF Tools" version="">
+    </section>
+    <section id="emboss" name="EMBOSS" version="">
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: pepwindow73/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: pepwindowall74/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: degapseq20/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: infoseq46/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: needle56/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: patmatdb67/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: marscan49/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: oddcomp64/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: fuzztran39/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: helixturnhelix43/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: merger54/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: newcpgseek58/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: extractseq35/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: maskfeat50/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: codcmp12/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: supermatcher95/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: equicktandem31/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: cutseq18/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: tranalign100/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: cai_custom6/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: newcpgreport57/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: noreturn60/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: sigcleave88/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: union105/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: preg78/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: msbar55/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: pepinfo69/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: pepstats71/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: digest23/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: extractfeat34/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: revseq82/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: skipseq91/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: splitter92/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: iep45/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: transeq101/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: tcode97/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: octanol63/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: banana3/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: maskseq51/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: geecee41/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: pepwheel72/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: cpgplot15/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: notseq61/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: water107/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: seqret84/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: getorf42/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: megamerger53/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: trimseq103/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: showfeat85/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: palindrome65/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: pasteseq66/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: lindna48/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: vectorstrip106/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: etandem33/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: cai6/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: dreg27/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: twofeat104/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: compseq14/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: sixpack90/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: btwisted5/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: prettyseq80/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: diffseq22/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: newseq59/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: pepnet70/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: plotcon75/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: dottup26/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: chaos7/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: textsearch98/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: chips10/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: prettyplot79/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: fuzzpro38/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: primersearch81/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: wobble108/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: plotorf76/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: seqmatchall83/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: wordcount109/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: shuffleseq87/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: garnier40/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: trimest102/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: cusp17/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: dotpath25/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: matcher52/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: descseq21/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: hmoment44/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: einverted28/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: cirdna11/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: tmap99/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: nthseq62/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: checktrans9/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: cpgreport16/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: polydot77/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: dan19/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: sirna89/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: syco96/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: pepcoil68/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: isochore47/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: est2genome32/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: epestfind29/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: fuzznuc37/5.0.1" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: charge8/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: freak36/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: biosed4/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: wordmatch110/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: backtranseq2/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: antigenic1/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: dotmatcher24/5.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/emboss_5/EMBOSS: coderet13/5.0.0" />
+    </section>
+    <section id="repeatmasker" name="RepeatMasker" version="">
+        <tool id="toolshed.g2.bx.psu.edu/repos/bgruening/repeat_masker/repeatmasker_wrapper/0.1.2" />
+    </section>
+</toolbox>

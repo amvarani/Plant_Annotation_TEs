@@ -1,0 +1,349 @@
+APP=ltr
+SOURCES= File.cpp StringEx.cpp \
+        MER.cpp MERSuffixArray.cpp MempSeed.cpp SuffixArray.cpp Larsson.cpp Kasai.cpp \
+        BioFile.cpp FastaFile.cpp FastaLikeFile.cpp MultipleSequence.cpp SequenceFactory.cpp \
+        Reverse.cpp Complement.cpp ReverseComplement.cpp Translation.cpp \
+		  Position.cpp Position2D.cpp Interval.cpp \
+        ltr.cpp
+
+OBJECTS= $(SOURCES:.cpp=.o)
+
+CC=g++
+#CFLAGS= -g
+CFLAGS= -O3
+
+DEPEND= makedepend
+DEPEND_SRCS= $(SOURCES)
+
+.PHONY : all clean
+
+all: $(APP)
+
+$(APP): $(OBJECTS)
+	$(CC) -o $@ $(LFLAGS) $(INCLUDE) $^
+
+%.o:%.cpp
+	$(CC) -o $@ -c $(CFLAGS) $(INCLUDE) $<
+
+clean:
+	rm -rf $(OBJECTS)
+
+depend:
+	$(DEPEND) -s "# DO NOT DELETE THIS LINE"  \
+	-- $(ALLDEFINES) $(CFLAGS) $(INCLUDE) -- $(SOURCES)
+
+# DO NOT DELETE THIS LINE
+
+File.o: /usr/include/string.h /usr/include/features.h
+File.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+File.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h lib.h
+File.o: /usr/include/stdio.h /usr/include/bits/types.h
+File.o: /usr/include/bits/wordsize.h /usr/include/bits/typesizes.h
+File.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
+File.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+File.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+File.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+File.o: /usr/include/stdlib.h /usr/include/time.h /usr/include/bits/time.h
+File.o: File.h
+StringEx.o: /usr/include/ctype.h /usr/include/features.h
+StringEx.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+StringEx.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+StringEx.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+StringEx.o: /usr/include/bits/typesizes.h /usr/include/endian.h
+StringEx.o: /usr/include/bits/endian.h lib.h /usr/include/stdio.h
+StringEx.o: /usr/include/libio.h /usr/include/_G_config.h
+StringEx.o: /usr/include/wchar.h /usr/include/bits/wchar.h
+StringEx.o: /usr/include/gconv.h
+StringEx.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+StringEx.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+StringEx.o: /usr/include/stdlib.h /usr/include/string.h /usr/include/time.h
+StringEx.o: /usr/include/bits/time.h StringEx.h StringEx.inl
+MER.o: lib.h /usr/include/stdio.h /usr/include/features.h
+MER.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+MER.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+MER.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+MER.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+MER.o: /usr/include/_G_config.h /usr/include/wchar.h
+MER.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+MER.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+MER.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+MER.o: /usr/include/stdlib.h /usr/include/string.h /usr/include/time.h
+MER.o: /usr/include/bits/time.h SuffixArray.h
+MER.o: SuffixArrayPostTraverseInterface.h MultipleSequence.h Sequence.h
+MER.o: LongString.h LongString.inl Complement.h Reverse.h Reverse.inl
+MER.o: ReverseComplement.h Translation.h Sequence.inl StringArrayInterface.h
+MER.o: MultipleSequence.inl MempInterface.h SuffixArray.inl MER.h
+MERSuffixArray.o: lib.h /usr/include/stdio.h /usr/include/features.h
+MERSuffixArray.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+MERSuffixArray.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+MERSuffixArray.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+MERSuffixArray.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+MERSuffixArray.o: /usr/include/_G_config.h /usr/include/wchar.h
+MERSuffixArray.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+MERSuffixArray.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+MERSuffixArray.o: /usr/include/bits/stdio_lim.h
+MERSuffixArray.o: /usr/include/bits/sys_errlist.h /usr/include/stdlib.h
+MERSuffixArray.o: /usr/include/string.h /usr/include/time.h
+MERSuffixArray.o: /usr/include/bits/time.h MERSuffixArray.h SuffixArray.h
+MERSuffixArray.o: SuffixArrayPostTraverseInterface.h MultipleSequence.h
+MERSuffixArray.o: Sequence.h LongString.h LongString.inl Complement.h
+MERSuffixArray.o: Reverse.h Reverse.inl ReverseComplement.h Translation.h
+MERSuffixArray.o: Sequence.inl StringArrayInterface.h MultipleSequence.inl
+MERSuffixArray.o: MempInterface.h SuffixArray.inl MER.h
+MempSeed.o: lib.h /usr/include/stdio.h /usr/include/features.h
+MempSeed.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+MempSeed.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+MempSeed.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+MempSeed.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+MempSeed.o: /usr/include/_G_config.h /usr/include/wchar.h
+MempSeed.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+MempSeed.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+MempSeed.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+MempSeed.o: /usr/include/stdlib.h /usr/include/string.h /usr/include/time.h
+MempSeed.o: /usr/include/bits/time.h MempSeed.h MempInterface.h IntervalSet.h
+MempSeed.o: Interval.h Position.h Position.inl Reverse.h Reverse.inl MathEx.h
+MempSeed.o: /usr/include/math.h /usr/include/bits/huge_val.h
+MempSeed.o: /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h
+MempSeed.o: Interval.inl IntervalSet.inl MERSuffixArray.h SuffixArray.h
+MempSeed.o: SuffixArrayPostTraverseInterface.h MultipleSequence.h Sequence.h
+MempSeed.o: LongString.h LongString.inl Complement.h ReverseComplement.h
+MempSeed.o: Translation.h Sequence.inl StringArrayInterface.h
+MempSeed.o: MultipleSequence.inl SuffixArray.inl MER.h RegularInterval2D.h
+MempSeed.o: RegularInterval.h RegularInterval.inl Position2D.h Position2D.inl
+MempSeed.o: RegularInterval2D.inl
+SuffixArray.o: /usr/include/stdio.h /usr/include/features.h
+SuffixArray.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+SuffixArray.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+SuffixArray.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+SuffixArray.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+SuffixArray.o: /usr/include/_G_config.h /usr/include/wchar.h
+SuffixArray.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+SuffixArray.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+SuffixArray.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+SuffixArray.o: lib.h /usr/include/stdlib.h /usr/include/string.h
+SuffixArray.o: /usr/include/time.h /usr/include/bits/time.h SuffixArray.h
+SuffixArray.o: SuffixArrayPostTraverseInterface.h MultipleSequence.h
+SuffixArray.o: Sequence.h LongString.h LongString.inl Complement.h Reverse.h
+SuffixArray.o: Reverse.inl ReverseComplement.h Translation.h Sequence.inl
+SuffixArray.o: StringArrayInterface.h MultipleSequence.inl MempInterface.h
+SuffixArray.o: SuffixArray.inl Larsson.h Kasai.h
+Larsson.o: /usr/include/stdlib.h /usr/include/features.h
+Larsson.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+Larsson.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+Larsson.o: /usr/include/stdio.h /usr/include/bits/types.h
+Larsson.o: /usr/include/bits/wordsize.h /usr/include/bits/typesizes.h
+Larsson.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
+Larsson.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+Larsson.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+Larsson.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+Larsson.o: /usr/include/limits.h
+Larsson.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/limits.h
+Larsson.o: Larsson.h lib.h /usr/include/string.h /usr/include/time.h
+Larsson.o: /usr/include/bits/time.h qsufsort.c
+Kasai.o: /usr/include/stdio.h /usr/include/features.h
+Kasai.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+Kasai.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+Kasai.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+Kasai.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+Kasai.o: /usr/include/_G_config.h /usr/include/wchar.h
+Kasai.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+Kasai.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+Kasai.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h lib.h
+Kasai.o: /usr/include/stdlib.h /usr/include/string.h /usr/include/time.h
+Kasai.o: /usr/include/bits/time.h SuffixArray.h
+Kasai.o: SuffixArrayPostTraverseInterface.h MultipleSequence.h Sequence.h
+Kasai.o: LongString.h LongString.inl Complement.h Reverse.h Reverse.inl
+Kasai.o: ReverseComplement.h Translation.h Sequence.inl
+Kasai.o: StringArrayInterface.h MultipleSequence.inl MempInterface.h
+Kasai.o: SuffixArray.inl Kasai.h
+BioFile.o: lib.h /usr/include/stdio.h /usr/include/features.h
+BioFile.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+BioFile.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+BioFile.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+BioFile.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+BioFile.o: /usr/include/_G_config.h /usr/include/wchar.h
+BioFile.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+BioFile.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+BioFile.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+BioFile.o: /usr/include/stdlib.h /usr/include/string.h /usr/include/time.h
+BioFile.o: /usr/include/bits/time.h BioFile.h MultipleSequence.h Sequence.h
+BioFile.o: LongString.h LongString.inl Complement.h Reverse.h Reverse.inl
+BioFile.o: ReverseComplement.h Translation.h Sequence.inl
+BioFile.o: StringArrayInterface.h MultipleSequence.inl
+FastaFile.o: /usr/include/string.h /usr/include/features.h
+FastaFile.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+FastaFile.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h lib.h
+FastaFile.o: /usr/include/stdio.h /usr/include/bits/types.h
+FastaFile.o: /usr/include/bits/wordsize.h /usr/include/bits/typesizes.h
+FastaFile.o: /usr/include/libio.h /usr/include/_G_config.h
+FastaFile.o: /usr/include/wchar.h /usr/include/bits/wchar.h
+FastaFile.o: /usr/include/gconv.h
+FastaFile.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+FastaFile.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+FastaFile.o: /usr/include/stdlib.h /usr/include/time.h
+FastaFile.o: /usr/include/bits/time.h File.h FastaFile.h FastaLikeFile.h
+FastaFile.o: BioFile.h MultipleSequence.h Sequence.h LongString.h
+FastaFile.o: LongString.inl Complement.h Reverse.h Reverse.inl
+FastaFile.o: ReverseComplement.h Translation.h Sequence.inl
+FastaFile.o: StringArrayInterface.h MultipleSequence.inl
+FastaLikeFile.o: /usr/include/ctype.h /usr/include/features.h
+FastaLikeFile.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+FastaLikeFile.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+FastaLikeFile.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+FastaLikeFile.o: /usr/include/bits/typesizes.h /usr/include/endian.h
+FastaLikeFile.o: /usr/include/bits/endian.h lib.h /usr/include/stdio.h
+FastaLikeFile.o: /usr/include/libio.h /usr/include/_G_config.h
+FastaLikeFile.o: /usr/include/wchar.h /usr/include/bits/wchar.h
+FastaLikeFile.o: /usr/include/gconv.h
+FastaLikeFile.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+FastaLikeFile.o: /usr/include/bits/stdio_lim.h
+FastaLikeFile.o: /usr/include/bits/sys_errlist.h /usr/include/stdlib.h
+FastaLikeFile.o: /usr/include/string.h /usr/include/time.h
+FastaLikeFile.o: /usr/include/bits/time.h FastaLikeFile.h BioFile.h
+FastaLikeFile.o: MultipleSequence.h Sequence.h LongString.h LongString.inl
+FastaLikeFile.o: Complement.h Reverse.h Reverse.inl ReverseComplement.h
+FastaLikeFile.o: Translation.h Sequence.inl StringArrayInterface.h
+FastaLikeFile.o: MultipleSequence.inl
+MultipleSequence.o: lib.h /usr/include/stdio.h /usr/include/features.h
+MultipleSequence.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+MultipleSequence.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+MultipleSequence.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+MultipleSequence.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+MultipleSequence.o: /usr/include/_G_config.h /usr/include/wchar.h
+MultipleSequence.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+MultipleSequence.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+MultipleSequence.o: /usr/include/bits/stdio_lim.h
+MultipleSequence.o: /usr/include/bits/sys_errlist.h /usr/include/stdlib.h
+MultipleSequence.o: /usr/include/string.h /usr/include/time.h
+MultipleSequence.o: /usr/include/bits/time.h MultipleSequence.h Sequence.h
+MultipleSequence.o: LongString.h LongString.inl Complement.h Reverse.h
+MultipleSequence.o: Reverse.inl ReverseComplement.h Translation.h
+MultipleSequence.o: Sequence.inl StringArrayInterface.h MultipleSequence.inl
+MultipleSequence.o: StringEx.h StringEx.inl
+SequenceFactory.o: lib.h /usr/include/stdio.h /usr/include/features.h
+SequenceFactory.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+SequenceFactory.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+SequenceFactory.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+SequenceFactory.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+SequenceFactory.o: /usr/include/_G_config.h /usr/include/wchar.h
+SequenceFactory.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+SequenceFactory.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+SequenceFactory.o: /usr/include/bits/stdio_lim.h
+SequenceFactory.o: /usr/include/bits/sys_errlist.h /usr/include/stdlib.h
+SequenceFactory.o: /usr/include/string.h /usr/include/time.h
+SequenceFactory.o: /usr/include/bits/time.h SequenceFactory.h
+SequenceFactory.o: MultipleSequence.h Sequence.h LongString.h LongString.inl
+SequenceFactory.o: Complement.h Reverse.h Reverse.inl ReverseComplement.h
+SequenceFactory.o: Translation.h Sequence.inl StringArrayInterface.h
+SequenceFactory.o: MultipleSequence.inl BioFile.h FastaFile.h FastaLikeFile.h
+Reverse.o: lib.h /usr/include/stdio.h /usr/include/features.h
+Reverse.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+Reverse.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+Reverse.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+Reverse.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+Reverse.o: /usr/include/_G_config.h /usr/include/wchar.h
+Reverse.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+Reverse.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+Reverse.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+Reverse.o: /usr/include/stdlib.h /usr/include/string.h /usr/include/time.h
+Reverse.o: /usr/include/bits/time.h Reverse.h Reverse.inl Sequence.h
+Reverse.o: LongString.h LongString.inl Complement.h ReverseComplement.h
+Reverse.o: Translation.h Sequence.inl
+Complement.o: lib.h /usr/include/stdio.h /usr/include/features.h
+Complement.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+Complement.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+Complement.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+Complement.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+Complement.o: /usr/include/_G_config.h /usr/include/wchar.h
+Complement.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+Complement.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+Complement.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+Complement.o: /usr/include/stdlib.h /usr/include/string.h /usr/include/time.h
+Complement.o: /usr/include/bits/time.h Complement.h Sequence.h LongString.h
+Complement.o: LongString.inl Reverse.h Reverse.inl ReverseComplement.h
+Complement.o: Translation.h Sequence.inl
+ReverseComplement.o: lib.h /usr/include/stdio.h /usr/include/features.h
+ReverseComplement.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+ReverseComplement.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+ReverseComplement.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+ReverseComplement.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+ReverseComplement.o: /usr/include/_G_config.h /usr/include/wchar.h
+ReverseComplement.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+ReverseComplement.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+ReverseComplement.o: /usr/include/bits/stdio_lim.h
+ReverseComplement.o: /usr/include/bits/sys_errlist.h /usr/include/stdlib.h
+ReverseComplement.o: /usr/include/string.h /usr/include/time.h
+ReverseComplement.o: /usr/include/bits/time.h ReverseComplement.h Sequence.h
+ReverseComplement.o: LongString.h LongString.inl Complement.h Reverse.h
+ReverseComplement.o: Reverse.inl Translation.h Sequence.inl
+Translation.o: lib.h /usr/include/stdio.h /usr/include/features.h
+Translation.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+Translation.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+Translation.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+Translation.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+Translation.o: /usr/include/_G_config.h /usr/include/wchar.h
+Translation.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+Translation.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+Translation.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+Translation.o: /usr/include/stdlib.h /usr/include/string.h
+Translation.o: /usr/include/time.h /usr/include/bits/time.h Translation.h
+Translation.o: LongString.h LongString.inl
+Position.o: lib.h /usr/include/stdio.h /usr/include/features.h
+Position.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+Position.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+Position.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+Position.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+Position.o: /usr/include/_G_config.h /usr/include/wchar.h
+Position.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+Position.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+Position.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+Position.o: /usr/include/stdlib.h /usr/include/string.h /usr/include/time.h
+Position.o: /usr/include/bits/time.h Position.h Position.inl
+Position.o: /usr/include/math.h /usr/include/bits/huge_val.h
+Position.o: /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h
+Position2D.o: lib.h /usr/include/stdio.h /usr/include/features.h
+Position2D.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+Position2D.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+Position2D.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+Position2D.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+Position2D.o: /usr/include/_G_config.h /usr/include/wchar.h
+Position2D.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+Position2D.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+Position2D.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+Position2D.o: /usr/include/stdlib.h /usr/include/string.h /usr/include/time.h
+Position2D.o: /usr/include/bits/time.h Position2D.h Position.h Position.inl
+Position2D.o: Position2D.inl
+Interval.o: lib.h /usr/include/stdio.h /usr/include/features.h
+Interval.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+Interval.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+Interval.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+Interval.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+Interval.o: /usr/include/_G_config.h /usr/include/wchar.h
+Interval.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+Interval.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+Interval.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+Interval.o: /usr/include/stdlib.h /usr/include/string.h /usr/include/time.h
+Interval.o: /usr/include/bits/time.h Interval.h Position.h Position.inl
+Interval.o: Reverse.h Reverse.inl MathEx.h /usr/include/math.h
+Interval.o: /usr/include/bits/huge_val.h /usr/include/bits/mathdef.h
+Interval.o: /usr/include/bits/mathcalls.h Interval.inl
+ltr.o: lib.h /usr/include/stdio.h /usr/include/features.h
+ltr.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+ltr.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+ltr.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+ltr.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+ltr.o: /usr/include/_G_config.h /usr/include/wchar.h
+ltr.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+ltr.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+ltr.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+ltr.o: /usr/include/stdlib.h /usr/include/string.h /usr/include/time.h
+ltr.o: /usr/include/bits/time.h /usr/include/ctype.h /usr/include/endian.h
+ltr.o: /usr/include/bits/endian.h SequenceFactory.h MultipleSequence.h
+ltr.o: Sequence.h LongString.h LongString.inl Complement.h Reverse.h
+ltr.o: Reverse.inl ReverseComplement.h Translation.h Sequence.inl
+ltr.o: StringArrayInterface.h MultipleSequence.inl BioFile.h IntervalSet.h
+ltr.o: Interval.h Position.h Position.inl MathEx.h /usr/include/math.h
+ltr.o: /usr/include/bits/huge_val.h /usr/include/bits/mathdef.h
+ltr.o: /usr/include/bits/mathcalls.h Interval.inl IntervalSet.inl MempSeed.h
+ltr.o: MempInterface.h MERSuffixArray.h SuffixArray.h
+ltr.o: SuffixArrayPostTraverseInterface.h SuffixArray.inl MER.h

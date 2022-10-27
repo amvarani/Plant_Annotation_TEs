@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<tool name="Step 1: forward strand" id="nonltr-forward-strand" version="0.0.1"> <!--  workflow_compatible="false"> -->
+	<description>
+		Step 1 of 5: forward strand
+	</description>
+	<command interpreter="bash">
+			nonltr.sh forward $input '$input.name' 3 $nonltr_forward_strand
+			<!-- mgescan.sh $input '$input.name' 3 None N $clade $qvalue_en $qvalue_rt None $nonltr_gff3 -->
+	</command>
+	<inputs>
+		<param format="fasta" name="input" type="data" label="From"/>
+	</inputs>
+	<outputs>
+		<data format="tabular" name="nonltr_forward_strand" />
+	</outputs>
+	<help>
+
+Running the program
+===================
+
+License
+============
+Copyright 2015.
+You may redistribute this software under the terms of the GNU General Public License.
+
+	</help>
+</tool>

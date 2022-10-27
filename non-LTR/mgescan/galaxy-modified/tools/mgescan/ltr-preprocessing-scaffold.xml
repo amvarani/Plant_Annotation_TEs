@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<tool name="Step 1: Split scaffolds" id="ltr-preprocessing-scaffold" version="0.0.1">
+	<description>
+		Step 1 of 4 in MGEScan-LTR: Split into separate sets of scaffolds of input genome sequences, if it is necessary.
+	</description>
+	<command interpreter="bash">
+		ltr-preprocessing.sh scaffold $input '$input.name' $output $scaffold
+	</command>
+	<inputs>
+		<param format="fasta" name="input" type="data" label="From"/>
+		<param name="scaffold" type="select" label="scaffolds exist">
+			<option selected="selected" value="No">No</option>
+			<option value="Yes">Yes</option>
+		</param>
+	</inputs>
+	<outputs>
+		<data format="tabular" name="output" />
+	</outputs>
+	<help>
+Running the program
+===================
+
+Scaffold input genome sequences will be divided into several files for each genome sequence as a pre-processing of MGEScan-LTR.
+
+No: The input file won't be separated.
+Yes: The input file will be divided for each genome sequence.
+
+License
+============
+
+Copyright 2015.
+You may redistribute this software under the terms of the GNU General Public License.
+</help>
+</tool>

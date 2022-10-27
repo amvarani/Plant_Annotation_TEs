@@ -1,0 +1,497 @@
+# STOCKHOLM 1.0
+
+#=GS           GCA_000004655.2_ASM465v1_rm.out165 DE    SINE
+#=GS           GCA_000004655.2_ASM465v1_rm.out274 DE    SINE
+#=GS           GCA_000004655.2_ASM465v1_rm.out293 DE    SINE
+#=GS           GCA_000004655.2_ASM465v1_rm.out525 DE    SINE
+#=GS           GCA_000004655.2_ASM465v1_rm.out950 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out1424 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out1911 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out2576 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out2689 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out2787 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out3199 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out3200 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out3201 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out3202 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out3203 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out3209 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out3210 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out3222 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out3595 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out4327 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out4361 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out4362 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out4872 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out4884 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out5267 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out5872 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out7472 DE    SINE
+#=GS          GCA_000004655.2_ASM465v1_rm.out7756 DE    SINE
+#=GS   GCA_000576065.1_Oryza_nivara_v1.0_rm.out55 DE    SINE
+#=GS  GCA_000576065.1_Oryza_nivara_v1.0_rm.out277 DE    SINE
+#=GS  GCA_000576065.1_Oryza_nivara_v1.0_rm.out452 DE    SINE
+#=GS  GCA_000576065.1_Oryza_nivara_v1.0_rm.out674 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out1472 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out2011 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out2591 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out2636 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out2637 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out2804 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out3074 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out3151 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out3375 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out3665 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out4522 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out4995 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out4996 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out5094 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out5258 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out5259 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out5696 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out5704 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out6084 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out6085 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out6205 DE    SINE
+#=GS GCA_000576065.1_Oryza_nivara_v1.0_rm.out6777 DE    SINE
+
+GCA_000004655.2_ASM465v1_rm.out165            GAGAACCGAGCGTTGCTCGGTTGGCTAGCTTCGCTGG-------TGAGCG
+GCA_000004655.2_ASM465v1_rm.out274            --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out293            ---AACCTGGTGTTACTTGGTTGTCTAGCATAGACGTTGACTACTGTGCA
+GCA_000004655.2_ASM465v1_rm.out525            GAGAACCGAGCGTTGCTCGGTTGGCTAGCGTCGCCAGG------TGAGGG
+GCA_000004655.2_ASM465v1_rm.out950            GAGAACCGAGCGTTGCTCGGTTGGCTAGCTTCGCTGG-------TGAGCG
+GCA_000004655.2_ASM465v1_rm.out1424           GGGAACCGAGCGTCGCTCGGATGGCTAGCGTCGCTAGG------TGAGCG
+GCA_000004655.2_ASM465v1_rm.out1911           -CGAGC---CGTTGGCTCGGTGGTTGGGC--CGCTCG-------GTGGAG
+GCA_000004655.2_ASM465v1_rm.out2576           GAGAACCGAGCGTTGCTCGGTTGGCTAGCATTGCTGG-------TGAGCG
+GCA_000004655.2_ASM465v1_rm.out2689           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out2787           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3199           GAGAACCGAGCGTTGCTCGGTTGGCTAGCATCGCTGG-------TGAGCG
+GCA_000004655.2_ASM465v1_rm.out3200           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3201           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3202           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3203           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3209           GAGAACCGAGCGTTGCTCGGTTGGCTAGCATCGCTGG-------TGAGCG
+GCA_000004655.2_ASM465v1_rm.out3210           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3222           ------CGAGCGTTGCTCGGTTGGCTAGCTTCGCTGG-------TGAGCG
+GCA_000004655.2_ASM465v1_rm.out3595           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4327           --GAACCAGGCATTGCTTGGATGGGTAG-------CGTTGCCGTCGTGCA
+GCA_000004655.2_ASM465v1_rm.out4361           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4362           --------AGCATTGCTCGGTTGGCTAGCATCGCTGG-------TGAGCG
+GCA_000004655.2_ASM465v1_rm.out4872           GAGAACCGAACGTTGCTAGCGTGGCTAGCCTCGTCAGCAG----CGAGCA
+GCA_000004655.2_ASM465v1_rm.out4884           GAGAACCGAGCGTTGCTCGGTTGGCTAGCTTCGCTGG-------TGAGCG
+GCA_000004655.2_ASM465v1_rm.out5267           GAGAACCGAGCGTTGCTCGGTTGGCTAGCTTCGCTGG-------TGAGCG
+GCA_000004655.2_ASM465v1_rm.out5872           GAGAACCGAGCGTTGCTCGGTTGGCTAGCATCGCTGG-------TGAGCG
+GCA_000004655.2_ASM465v1_rm.out7472           GAGAACCGAGCGTTGCGCGGTTGGCCAGCGTCGCCACG------TGAGCG
+GCA_000004655.2_ASM465v1_rm.out7756           --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out55    --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out277   --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out452   GAGAACCGAGCGTTGCTCGGTTGGCTAGCGTCGCCAGG------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out674   GAGAACCGAGCGTTGCTCGGTTGGCTAGCTTCGCTGG-------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out1472  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2011  GAGAACCGAGCGTTGCGCGGTTGGCCAGCGTCGCCACG------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2591  GGGAACCGAACGTCGCTCGGATGGCTAGCGTCGCTAGG------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2636  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2637  GAGAACCGAGCGTTGCTCGGTTGGTTAGCATCGCTGG-------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2804  GAGAACCGAGCGATGCTCGGTTGGCTAGCGTCGCCAGG------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3074  -CGAGC---CGTTGGCTCGGTGGTTGGGC--CGCTCG-------GTGGAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3151  ------CGAGCGTTGCTCGGTTGGCTAGCTTCGCTGG-------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3375  --GAACCAGGCATTGCTTGGATGGGTAG-------CGTTGCCGTCGTGCA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3665  GAGAACCGAGCGTTGCTCGGTTGGCTAGCATTGCTGG-------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4522  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4995  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4996  --------------------TTGGCTAGCATCGCTGG-------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5094  GAGAACCGAGCGTTGCTCGGTTGGCTAGCATCGCTGG-------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5258  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5259  --------AGCATTGCTCGGTTGGCTAGCATCGTTGG-------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5696  GAGAACCGAACGTTGCTAGCGTGGCTAGCCTCGTCAGCAG----CGAGCA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5704  GAGAACCGAGCGTTGCTCGGTTGGCTAGCATCGCTGG-------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6084  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6085  GAGAACCGAGCGTTGCTCGGTTGGCTAGCTTCGCTGG-------TGAGCG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6205  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6777  --------------------------------------------------
+
+GCA_000004655.2_ASM465v1_rm.out165            AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCGGCACCCGC--GCGTCTC
+GCA_000004655.2_ASM465v1_rm.out274            --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out293            CGCAGCCCACCTGGGTTTGATCCTAAGCGATCGTAAAACCTGTGTGTACT
+GCA_000004655.2_ASM465v1_rm.out525            AGCAACCCGCGCAGGTTCGATCCCTG-GGATCACAACTCAT--GTTTCCC
+GCA_000004655.2_ASM465v1_rm.out950            AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCGTCACCCGC--GCGTCTC
+GCA_000004655.2_ASM465v1_rm.out1424           AGCAGCCA-CGCGAGTTCGATCCCTG-GAATCGCAACTCGC--GTGTCTC
+GCA_000004655.2_ASM465v1_rm.out1911           CGCCCACCACCCGCGTTCGAGCGCC-----GCTCGACGCGG--GTTTCGC
+GCA_000004655.2_ASM465v1_rm.out2576           AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCGTCACCCGC--GCGTCTC
+GCA_000004655.2_ASM465v1_rm.out2689           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out2787           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3199           AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCATCATCCGC--GCGTCTC
+GCA_000004655.2_ASM465v1_rm.out3200           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3201           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3202           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3203           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3209           AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCATCATCCGC--GCGTCTC
+GCA_000004655.2_ASM465v1_rm.out3210           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3222           AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCGTCACCCGC--GCGTCTC
+GCA_000004655.2_ASM465v1_rm.out3595           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4327           TGCAGCCCACCCGGGTTGGATCCTAAGTGATCGCAAAACCTGCGTGTCCC
+GCA_000004655.2_ASM465v1_rm.out4361           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4362           AGCAGAGA-----------------------TCGAACCCGC--GCGTCTC
+GCA_000004655.2_ASM465v1_rm.out4872           GGCAGCGCACGCGAGTTCAATCCCTC-GGATCGCAACTCGC--GTCTCTC
+GCA_000004655.2_ASM465v1_rm.out4884           AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCGTCACCCGC--GCGTCTC
+GCA_000004655.2_ASM465v1_rm.out5267           AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCGTCACCCGC--GCGTCTC
+GCA_000004655.2_ASM465v1_rm.out5872           AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCGTCACCCGC--GCGTCTC
+GCA_000004655.2_ASM465v1_rm.out7472           AGCAGCCCGCACGGGCTCGATCTCTG-GGATCGCAATTCGT--GTGTCTC
+GCA_000004655.2_ASM465v1_rm.out7756           --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out55    --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out277   --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out452   AGCAGCCCGCGCAGGTTCGATCCCTG-GGATCGCAACTCAT--GTTTCCC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out674   AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCGTCACCCGC--GCGTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out1472  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2011  AGCAGCCCGCACGGGTTCGATCTCTG-GGATCGCAACTCGT--GTGTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2591  AGCAGCCA-CGCGAGTTCGATCCCTG-GAATCATAACTCGC--GTGTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2636  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2637  AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCGTCACCCGC--GCGTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2804  AGCAGCCCGCGAGGGTTTGATCCCTG-GGATCGCAACTCGC--GTGTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3074  CGCCCACCACCCGCGTTCGAGCGCC-----GCTCGACGCGG--GTTTCAC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3151  AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCGTCACCCGC--GCGTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3375  TGCAGCCCACCCGGGTTGGATCCTAAGTGATCGCAAAACCTGCGTGTCCC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3665  AGCAGCCCGCGCGGGTTCGATCCATG-GGATCGTCACCCGC--GCGTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4522  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4995  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4996  AGCAGCCCGCGCGGGTTCGATCC---------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5094  AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCGTCACCCGC--GCGTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5258  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5259  AGCAGAGA-----------------------TCGAACCCGC--GCGTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5696  GGCAGCGCACGCGAGTTCGATCCCTC-GGATCGCAACTCGC--GTCTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5704  AGCAGCCCGCGTGGGTTCGATCCCTG-GGATCATCACCCGC--TCGTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6084  ---------------TTCGATCCCTG-GGATCGTCACCCGC--GCGTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6085  AGCAGCCCGCGCGGGTTCGATCCCTG-GGATCGTCACCCGC--GCGTCTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6205  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6777  --------------------------------------------------
+
+GCA_000004655.2_ASM465v1_rm.out165            ACCGGGA-TTTATTCCCAAAT----AAATTTCCAGCTCTCCCGTGCCAGT
+GCA_000004655.2_ASM465v1_rm.out274            --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out293            ACCAG---------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out525            A-------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out950            ACCGGGA-TTTATTCTCAA-AAA-TAAATTTCTAGCTCTCCCGTGCCAGC
+GCA_000004655.2_ASM465v1_rm.out1424           ACTAGGGGATTTTTTCC-CGTTTCCCTAGG--ATCAATTTCGG-------
+GCA_000004655.2_ASM465v1_rm.out1911           ACTGGGGTTTTATTCCCCTTTCCTTCTGTTGCAGCCTCACACGTGGATGT
+GCA_000004655.2_ASM465v1_rm.out2576           ACCGGGA-TTTATTCCCAAAT----AAATTTCCAGCTCTCCCGTGCCAGC
+GCA_000004655.2_ASM465v1_rm.out2689           -------------------------------------------------G
+GCA_000004655.2_ASM465v1_rm.out2787           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3199           ACAGGGA-TTTATTCCCAAATAAATTTCCA----GCTCTCCCGTGCCAGC
+GCA_000004655.2_ASM465v1_rm.out3200           -----------------------------------------CGTGCCAGC
+GCA_000004655.2_ASM465v1_rm.out3201           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3202           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3203           -----------------------------------------CGTGCCAGC
+GCA_000004655.2_ASM465v1_rm.out3209           ACCGGGA-TTTATTTCCAAATAAATTTCTA----GCTCTCCCGTGCCAGC
+GCA_000004655.2_ASM465v1_rm.out3210           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3222           ACCGGGA-TTTATTCCT---AAA-TAAATTTCTAGCTCTCCCGTGCCAGC
+GCA_000004655.2_ASM465v1_rm.out3595           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4327           ACCAG---------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4361           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4362           ACCGGGA-TTTATTCCCAAATAAATTTCTACCTCACC----CGTGC----
+GCA_000004655.2_ASM465v1_rm.out4872           ACCGGGGTTTTATCCCCAAAATAAATTTTC--CAGCTCTCTCG-------
+GCA_000004655.2_ASM465v1_rm.out4884           ACCGGGA-TTTATTCCCAAAAAA-TAATTTTCTAGCTCTTCCGTGCCAGC
+GCA_000004655.2_ASM465v1_rm.out5267           AAATAAA-TTTATTCCCAAAT----AAATTTCTAGCTCTCCCGTGCCAGC
+GCA_000004655.2_ASM465v1_rm.out5872           ACCGGGA-TTTATTCCCAAATAAATAAATTTCCAGCTCTCCCGTGCCAGC
+GCA_000004655.2_ASM465v1_rm.out7472           ACCAGGGTTTTTTCTCATTT---CCTCGGG--ACTGACTTCGG-------
+GCA_000004655.2_ASM465v1_rm.out7756           --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out55    --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out277   --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out452   A-------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out674   ACCGGGA-TTTATTCCCAAAT----AAATTTCCAGCTCTCCCGTGCCAGC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out1472  ----------------------------TTGCAGCCTCACACGTGAATGT
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2011  ACCAGGGTTTTTTATCATTT---CCTCGGG--ACTGACTTCGG-------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2591  ACTAGGGGATTTTTTCCCCGTTTCCCCGGG--ATCAATTTCGG-------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2636  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2637  ACCGGGA-TTTATTCCCAAATAAATTTTTA----GCTCTCCCGTGCCAGC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2804  ACCAGGGGTTTTTCC-----------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3074  ACTGGGGTTTTATTCCCCTTTCCTTCTGTTGCAGCCTCACACGTGGATGT
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3151  ACCGGGA-TTTATTCCCAAA----TAAATTTCTAGCTCTCCCGTGCCAGC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3375  ACCAG---------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3665  ACCGGGA-TTTATTCCCAAAT----AAATTTCCAGCTCTCCCGTACCAGC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4522  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4995  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4996  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5094  ACCGGGA-TTTATTCCCAAATAAATAAATTTCCAGCTCTCCCGTGCCAGC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5258  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5259  ACCGGGA-TTTATTCCCAAATAAATTTCTACCTCTCC----CGTGC----
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5696  ACCGGGGTTTTATCCCCAAAATAAATTTTC--CAGCTCTCTCG-------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5704  ACCGGGA-TTTATTCCCAAATA----AATTTCCAGCTCTCCCGTGCCAGC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6084  AAATAAA-TTTATTC----TAAA-TTTATTCCCAGCTCTCCCGTGCCAGC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6085  AAATAAA-TTTATTCCCAAATAAATTTCTA----GCTCTCCCGTGCC---
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6205  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6777  --------------------------------------------------
+
+GCA_000004655.2_ASM465v1_rm.out165            TCCACAATAGTA-GAGTGACGTTCTCGTCACGCACAAGGTCCTT------
+GCA_000004655.2_ASM465v1_rm.out274            -----------------------------------------CTT------
+GCA_000004655.2_ASM465v1_rm.out293            --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out525            --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out950            GCCACAATAGTA-GAGTGACGTCCTCGTCACGTACAAGATCCTT------
+GCA_000004655.2_ASM465v1_rm.out1424           ------TT-GTCCCAGTAGCCTTGT---------------------GCCT
+GCA_000004655.2_ASM465v1_rm.out1911           GCCACATTGGTCAGGGTGATATGCCTGTCACGTGCGAAGCC---------
+GCA_000004655.2_ASM465v1_rm.out2576           GCCACAATAATA-GAGTGACGTCCTCGTCACGCACAAGGTCCTT------
+GCA_000004655.2_ASM465v1_rm.out2689           CCACAATG-GTCAAGGTGACATGCTTGTCACGTGCGAAGCC---------
+GCA_000004655.2_ASM465v1_rm.out2787           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3199           GCCACAATAGTA-GAGTGACGTCCTCGTCACGCACAAGGTTCTT------
+GCA_000004655.2_ASM465v1_rm.out3200           GCCACAATAGTA-GAGTGACGTCCTCGTCACGCACAAGGTTCTT------
+GCA_000004655.2_ASM465v1_rm.out3201           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3202           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3203           GCCACAATAGTA-GAGTGACGTCCTCGTCACGCACAAGGTTCTT------
+GCA_000004655.2_ASM465v1_rm.out3209           GCCACAATAGTA-GAGTGACGTCCTCGTCACGCACAAGGTTCTT------
+GCA_000004655.2_ASM465v1_rm.out3210           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3222           GCCATAATAGTA-GAGTGACGTCCTCGTCACGCACAAGGTCCTT------
+GCA_000004655.2_ASM465v1_rm.out3595           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4327           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4361           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4362           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4872           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4884           GCCACAATAGTA-GAGTGACGTCCTCGTCACGCACAAGGTCCTT------
+GCA_000004655.2_ASM465v1_rm.out5267           GCCACAATAGTA-GAGTGACGTCCTCGTCACACACAAGGTCCTT------
+GCA_000004655.2_ASM465v1_rm.out5872           GCC--------------------ACAATAGCGCACAAGATCCTT------
+GCA_000004655.2_ASM465v1_rm.out7472           ------TTAGTTCCGGCTAG------------------------------
+GCA_000004655.2_ASM465v1_rm.out7756           --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out55    --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out277   -----------------------------------------CTT------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out452   --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out674   GCCACAATAGTA-GAGTGACGTCCTCGTCACGCACAAGGTCTTT------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out1472  GCCACAAT-GGCAAGGTGACATGCTTGTCACGTGCGAAGCC---------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2011  ------TTAGTTCCGGCTAG------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2591  ------TT-GTCCCGGTAGCCTTGT---------------------GCCT
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2636  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2637  G-------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2804  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3074  GCCACATTGGTCAGGGTGACATGCCTGTCACGTGCGAAGCC---------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3151  GCCACAATAGTA-GAGTGACGTCCTCGTCACGCACAAGGTCCTT------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3375  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3665  GCCACAATAATA-GAGTGACGTCCTCGTCACGCACAAGGTCCTT------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4522  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4995  ------------------------------CGCACAAGGTCCTTA-----
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4996  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5094  GCCA--------------------CAATAGCGCACAAGATCCTT------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5258  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5259  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5696  ------T-------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5704  GCCACAATGGTA-GAGTGACGTCCTCGTCACACACAAGGTCCTTAGGTTC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6084  GCCACAACAGTA-GAGTGACGTCCTCGTCACACACAAGGTCCTT------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6085  ------AGAGTA-GAGTGACGTCCTCGTCACACACAAGGTTCTTAGGTGG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6205  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6777  --------------------------------------------------
+
+GCA_000004655.2_ASM465v1_rm.out165            ---AGGTGGCTTTGTGTATCTCATTAGCGTGT------GTGTATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out274            ---AGGTGGCTTCGTGTATCTCATTAGTAGGTGT----GTGTATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out293            --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out525            --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out950            ---AGGTGGCTTTGTGTATCTCATTAGCACGTGT----GTGTATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out1424           CCAATCTCAATTCTAGCGTGTGTTAAGAACGCGCACGCGTG---------
+GCA_000004655.2_ASM465v1_rm.out1911           ---AGTTGGCTTCGCATATCTCTCAGCCACGTGC----------------
+GCA_000004655.2_ASM465v1_rm.out2576           ---AGGTGGCTTTGTGTATCTCATTAGCACGTGT----GTGTATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out2689           ---AGTTCACTTCGCATATCTCTCAGCCACGTGC----------------
+GCA_000004655.2_ASM465v1_rm.out2787           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3199           ---AGGTGGCTTTGTGCATCTCATTAGCACGTGT----GTGTATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out3200           ---AGGTGGCTTTGTGCATCTCATTAGCACGTGT----GTGTATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out3201           -------------------CGTTTGCACGTATGT----TCAGATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out3202           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3203           ---AGGTGGCTTTGTGCATCTCATTAGCACGTGT----GTGTATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out3209           ---AGGTGGCTTTGTGCATCTCATTAGCACGTGT----GTGTATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out3210           ---GGTGTGCTTTGTGCATCT--------CATTAGCGTGTGTGTAGTTGA
+GCA_000004655.2_ASM465v1_rm.out3222           ---AGGTGGCTTTGTGTATCTCATTAGCACGTGTGTGTATATATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out3595           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4327           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4361           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4362           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4872           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4884           ---AGGTGGCTTTGTGTATCTCATTAGCACGTGT----GTGTATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out5267           ---AGGTGGCTTTGTGTATCTCATTAGCACGTGT----GTGTATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out5872           ---AGGTGGCTTTGTGTATCTCATTAGCACGTGT----GTGTATAGTTGA
+GCA_000004655.2_ASM465v1_rm.out7472           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out7756           --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out55    --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out277   ---AGGTGGCTTCGTGTATCTCATTAGCAGGTGT----GTGTATAGTTGA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out452   --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out674   ---AGGTGGCTTTGTGTATCTCTTTAGCACGTGT----GTGTATAGTTGA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out1472  ---AGTTCACTTCGCATATCTATCAGCCACGTGT----------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2011  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2591  CCAATCTCAATTCTAGCGTGTGTTAAGAACGCGCACGCGTA---------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2636  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2637  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2804  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3074  ---AGTTGGCTTCGCATATCTCTCAGCCACGTGC----------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3151  ---AGGTGGCTTTGTGTATCTCATTAGCACGTGT----GTGTATAGTTGA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3375  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3665  ---AGGTGGCTTTGTGTATCTCATTAGCACGTGT----GTGTATAGTTGA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4522  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4995  ---GGGTGGCTTTGTGTATCTTTATCTCATTAGCACGTGTG---------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4996  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5094  ---AGGTGGCTTTGTGTATCTCATTAGCACGT------GTGTATAGTTGA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5258  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5259  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5696  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5704  CTTAGGTGGTTTTGTGTATCTCATTAGCACGTGT----GTGTATAGTTGA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6084  ---AGGTGGCTTTGTGTATCTCATTAGCACGTGTGT--GTGTATAGTTGA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6085  CTT-----------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6205  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6777  --------------------------------------------------
+
+GCA_000004655.2_ASM465v1_rm.out165            TAGGTCTAGCATGCGTGTAGGGGTGTGTGTATAGTTGATAGGTCTAGCAT
+GCA_000004655.2_ASM465v1_rm.out274            TAGGTCTAGCATGCGTGTAGGGGTGTGTGTG--GAGT-------------
+GCA_000004655.2_ASM465v1_rm.out293            --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out525            --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out950            TAGGTCTAGCATGCGTGTAGGGGTGTGTGTG--GAGT-------------
+GCA_000004655.2_ASM465v1_rm.out1424           -----------------TGTG----TG-----------------------
+GCA_000004655.2_ASM465v1_rm.out1911           -------AGCCTTTGGGTATT----TGCGTAGATCTTGGTTGTGT----A
+GCA_000004655.2_ASM465v1_rm.out2576           TAGGTCTAGCATGCGTGTAGGGGTGTGTGTGTGG----------------
+GCA_000004655.2_ASM465v1_rm.out2689           -------AGCCTTTGGGTATT----TGC--------------GTG----A
+GCA_000004655.2_ASM465v1_rm.out2787           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3199           TAGGTCTAGCATGCGTGTAGGGGTGTGTGTGTGC----------------
+GCA_000004655.2_ASM465v1_rm.out3200           TAGGTCTAGCATGCGTGTAGGGGTGTGTGTG--C----------------
+GCA_000004655.2_ASM465v1_rm.out3201           TAGGTCTAGCATGCGTGTAGGGG-----------TGT-------------
+GCA_000004655.2_ASM465v1_rm.out3202           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3203           TAGGTCTAGCATGCGTGTAGGGGTGTGTGTGTGC----------------
+GCA_000004655.2_ASM465v1_rm.out3209           TAGGTCTAGCATGCGTGTAGGGGTGTGCTTTGTG----------------
+GCA_000004655.2_ASM465v1_rm.out3210           TAGGTCTAGCATGCGTGTAGGGGT---------GTGT-------------
+GCA_000004655.2_ASM465v1_rm.out3222           TAGGTCTAGCATGCGTGTAGGGGTGTGTGTG--GAGT-------------
+GCA_000004655.2_ASM465v1_rm.out3595           --------------------C----TGGCTTACTTGTAGTGGCGT----A
+GCA_000004655.2_ASM465v1_rm.out4327           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4361           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4362           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4872           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4884           TAGGTCTAGCATGCGTGTAGGGGTGTGTGTG--GAGT-------------
+GCA_000004655.2_ASM465v1_rm.out5267           TAGGTCTAGCATGCGTGTAGGGGTGTGTGTGGAGTGTG------------
+GCA_000004655.2_ASM465v1_rm.out5872           TAGGTCTAGCATGCGTGTAGGGGTGTGTGTGTGT----------------
+GCA_000004655.2_ASM465v1_rm.out7472           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out7756           ----------------------------------------GTGTG----A
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out55    --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out277   TAGGTCTAGCATACGTGTAGGGGTGTGTGTGGAGTGT-------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out452   --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out674   TAGGTCTAGCGTGCGTGCGTGTAGGGGTGTATATGTTTAG----------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out1472  -------AGTCTTTGGGTATT----TGCGTAGATTTGGTTGTGTG----A
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2011  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2591  -----------------TGTG----TG-----------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2636  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2637  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2804  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3074  -------AGCCTTTGGGTATT----TGCGTAGATCTTGGTTGTGT----A
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3151  TAGGTCTAGCATGCGTGTAGGGG-------------T-------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3375  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3665  TAGGTCTAGCATGCGTGTAGGGGTGTGTGTGTGG----------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4522  --------------------C----TGGCTTATGTGTAGTGGCGT----A
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4995  -------------------------------------------------T
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4996  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5094  TAGGTCTAGCATGCGTGTAGGGGTGTGTGTGTGT----------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5258  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5259  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5696  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5704  TAGGTCTAGCATGCGTTTAGGGGTGTGTGTGTGGAG--------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6084  TAGGTCTAGCATGCGTGTAG------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6085  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6205  ----------------------------------------GTGTG----A
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6777  ----------ATGCGTGTAGGGGTGTGTG---------------------
+
+GCA_000004655.2_ASM465v1_rm.out165            GCGTGTAGGGGTGTGTGTGTGGTGGAGTGCGTTTGCACGTAT--GTTCAG
+GCA_000004655.2_ASM465v1_rm.out274            ----------GTGTGTGCGTGGTGGAGTGCGTTTACACGTAT--GTTCAG
+GCA_000004655.2_ASM465v1_rm.out293            --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out525            --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out950            ----------GTGTGTGCGTGGTGGAGTGCGTTTGCACGTAT--GTTCAG
+GCA_000004655.2_ASM465v1_rm.out1424           -------CGTTTGTGTTCGTGGCGTCCTGAGTTGCACCCTCT--------
+GCA_000004655.2_ASM465v1_rm.out1911           TAGTGTGCGTGTGG------TGGTGTGAGTTCGTGCGTGTGA--GTTCAG
+GCA_000004655.2_ASM465v1_rm.out2576           -------AGTGTGTGTGCATGGTGGAGTGCGTTTGCACGTAT--ATTCAG
+GCA_000004655.2_ASM465v1_rm.out2689           GTGTGTAGTGTGTGCGGTGTGGTGGTGTGAGTTTGTGCGTGA--GTTCAG
+GCA_000004655.2_ASM465v1_rm.out2787           ---------------------------------TGTAAGTAT--GTTCAC
+GCA_000004655.2_ASM465v1_rm.out3199           ----------------------------GTGATGGAGTGCGT--TTGCAC
+GCA_000004655.2_ASM465v1_rm.out3200           ------------------GTGGTGGAGTGCGTTTGCACGTAT--GTTCAG
+GCA_000004655.2_ASM465v1_rm.out3201           ----------GTGTGTGCGTGGTGGAGTGCGTTTGCACGTAT--GTTCAG
+GCA_000004655.2_ASM465v1_rm.out3202           -------------TGTGCGTGGTGGAGTGCGTTTGCACGTAT--GTTCAG
+GCA_000004655.2_ASM465v1_rm.out3203           ----------------------------GTGTG-----------------
+GCA_000004655.2_ASM465v1_rm.out3209           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3210           ----------GTGTGCGCGTGGTGGAGTGCGTTTGCAGGTAT--GTTCAG
+GCA_000004655.2_ASM465v1_rm.out3222           ----------GTGTGTGCGTGGTGGAGTGCGTTTGCACGTAT--GTTCAG
+GCA_000004655.2_ASM465v1_rm.out3595           TGTGTGGGTGGTTTGCATGTGATGATGTGAGTTTATGCATAA--ATTTAG
+GCA_000004655.2_ASM465v1_rm.out4327           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4361           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4362           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4872           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4884           ----------GTGTGTGCGTGGTGGAGTGCGTTTGCACGTAT--GTTCAG
+GCA_000004655.2_ASM465v1_rm.out5267           -------------TGTGCGTGGTGGAGTGCGTTTGCACGTAT--GTTTAG
+GCA_000004655.2_ASM465v1_rm.out5872           ----------------------------GGAGTGCGACGTAT--GTTCAG
+GCA_000004655.2_ASM465v1_rm.out7472           --------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out7756           GGG---TGTAGCGTGCGTGTGGTGGTGTGAGTTTGTGCATGA--GTTCAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out55    ---------------------------------TGTAAGTAT--GTTCAC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out277   ----------GTGTGTGCGTGGTGGAGTGCGTTTGCACGTAT--GTTCAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out452   --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out674   ----------------------------------------------ATAC
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out1472  GTGTGTAGTGTGTGCGGTGTGGTGGTGTGAGTTTGTGCGTGA--GTTCAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2011  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2591  -------CGTTTGTGTTCGTGGCGTCCTGAGTTGCACCCTCT--------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2636  -------------------------------------CGTCT--GTTCAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2637  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2804  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3074  TAGTGTGCGTGTGG------TGGTGTGAGTTCGTGCGTGTGA--GTTCAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3151  ----------GTGTGTGCGTGGTGGAGTGCGTTTGCACGTAT--GTTCAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3375  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3665  -------AGTGTGTGTGCGTGGTGGAGTGCGTTTGCACGTAT--GTTCAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4522  TGTGTGGGTGGTTTGCATGTGATGATGTGAGTTTATGCATAA--ATTTAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4995  GTATAGTTGAGTGTGTGCGTGGTGGAGTACGTTTGCATGGGATTTATTAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4996  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5094  ----------------------------GGAGTGCGACGTAT--GTTTAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5258  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5259  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5696  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5704  ---------TGTGTGTGCGTGGTGGAGTGCGTTTGCACGGAT--GTTCAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6084  ----------GGGTGTGCGTGGTGGAGTGCGTTTGCACGTAT--GTTCAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6085  --------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6205  GGG---TGTAGCGTGCGTGTGGTGGTGTGAGTTTGTGCATGA--GTACAG
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6777  --TGTGGAGTGTGTGTGCGGGGTGGAGTGCGTTTGCACGTAT--GTTCAG
+
+GCA_000004655.2_ASM465v1_rm.out165            ATACTACA--GCTTGTACTCAAAGTGGAGAGCTCTCAAAAAAAAAAAA
+GCA_000004655.2_ASM465v1_rm.out274            ATACTATA--TCTTGTACTCAAAGTGAAGAGCTCTAAAAAAA------
+GCA_000004655.2_ASM465v1_rm.out293            ------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out525            ------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out950            ATACTACA--GCTTGTACTCGAAGTGGAGAGCTCTCAAAAAAAAAAA-
+GCA_000004655.2_ASM465v1_rm.out1424           -----------------------------------CAAAAAAA-----
+GCA_000004655.2_ASM465v1_rm.out1911           ATACTACA--GCTTATACTTGAAGAGTTGAGGCTTCAAAAAAAAAAAA
+GCA_000004655.2_ASM465v1_rm.out2576           TTACTACA--GCTTGTTCTCAAAGTGGAGAGCTCTAAAAAAAAAA---
+GCA_000004655.2_ASM465v1_rm.out2689           ACACTACA--ACTTGTACTTGAAGGGTTGAGGCTTAAAAAGAAAA---
+GCA_000004655.2_ASM465v1_rm.out2787           ATACTACA--GCTTGTACTCAAAGTAGAGAACTCTTAAAAAAAAA---
+GCA_000004655.2_ASM465v1_rm.out3199           GTATGTTC--AGATA---------------------------------
+GCA_000004655.2_ASM465v1_rm.out3200           ATA---------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3201           ATACTACA--GCTTGTACTCTGTACTCAAAGTGGAGAGCTCTCAAA--
+GCA_000004655.2_ASM465v1_rm.out3202           ATA---------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3203           ------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3209           ------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out3210           ATACTATA--GCTTGTACTCAAAGTGGAGAGCTCTCAAAAAAAAAA--
+GCA_000004655.2_ASM465v1_rm.out3222           ATACTACA--GCTTGTACTCGAAGTGGAGAGCTCTCAAAAAAAAAAAA
+GCA_000004655.2_ASM465v1_rm.out3595           ATACTACATAGCTTATACTTGAAG------------------------
+GCA_000004655.2_ASM465v1_rm.out4327           ------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4361           -------A--GGTTGTACTCAAAGTGGAGAGCTCTCAAAAAAAAAAAA
+GCA_000004655.2_ASM465v1_rm.out4362           ------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4872           ------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out4884           ATACTACA--GCTTGTACTCGAAGTGGAGAGCTCTCAAAAAAAAAAAA
+GCA_000004655.2_ASM465v1_rm.out5267           ATACTACA--GCTTGTACTCGAAGTGGAGAGCTCTCAAAAAAGAAA--
+GCA_000004655.2_ASM465v1_rm.out5872           ATACTACA--GCTTGTACTCAAAGTGGAGAGCTCTCAAAAAAAAAAAA
+GCA_000004655.2_ASM465v1_rm.out7472           ------------------------------------------------
+GCA_000004655.2_ASM465v1_rm.out7756           ATACTACA--GCTTGTCCTTGAAG------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out55    ATACTACA--GCTTGTACTCAAAGTAGAGAACTGTTAAAAAAAAA---
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out277   ATACTATA--TCTTGTACTCAAAGTGAAGAGCTCTAAAAAAA------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out452   ------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out674   ATACTACA--GCTTGTACTCAAAGTGGAGAGCTCTCAAAAAAAAAAAA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out1472  ACACTACA--ACTTGTACTTGAAGGGTTGAGGCTTAAAAAGAAAA---
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2011  ------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2591  -----------------------------------CAAAAAAA-----
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2636  ATACTACA--GCTTGTACTCATAGTGGAGAGCTCAAAAAAAAAAAAAA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2637  ------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out2804  ------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3074  ATACTACA--GCTTATACTTGAAGAGTTGAGGCTTCAAAAAAAAAAAA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3151  ATACTACA--GCTTGTACTCGAAGTGGAGAGCTCTCAAAAAAAAAAAA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3375  ------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out3665  TTACTACA--GCTTGTTCTCAAAGTGGAGAGCTCTCAAAAAAAAA---
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4522  ATACTACATAGCTTATACTTGAAG------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4995  ATACTACA--GCTTCTACTCAAA-------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out4996  ------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5094  ATACTACA--GCTTGTACTCAAAGTGGAGAGCTCTCAAAAAAAAAAAA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5258  -------A--GGTTGTACTCAAAGTGGAGAGCTCTCAAAAAAAAAAAA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5259  ------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5696  ------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out5704  ATACTACA--GCTTGTACTCAAAGTGGAGAGCTCTCAAAAAAAAAAAA
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6084  ATACTACA--GCTTGTACTCGAAGTGGAGAGCTCTCAAAAAAGAAA--
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6085  ------------------------------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6205  ATACTACA--GCTTGTCCTTGAAG------------------------
+GCA_000576065.1_Oryza_nivara_v1.0_rm.out6777  ATACTACA--GCTTGTACTCAAAGTGGAGAGCTCTCAAAAAAAAAAAA
+//

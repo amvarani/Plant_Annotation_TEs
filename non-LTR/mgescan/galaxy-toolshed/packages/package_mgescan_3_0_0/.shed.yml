@@ -1,0 +1,26 @@
+categories:
+- Tool Dependency Packages
+description: Contains a tool dependency definition that downloads and installs
+        version 3.0.0 of the MGEScan package.
+long_description: |
+        MGEScan - software packages to identify long terminal repeats (LTR) and
+        non-LTR retroelements in eukaryotic genomic sequence
+
+        MGEScan is now avaiable on a Galaxy workflow system for identifying
+        long terminal repeats (LTR) and non-LTR retroelements in eukaryotic
+        genomic sequences. With a Galaxy scientific workflow system, MGEScan
+        becomes easier to manage input and output data through its rich and
+        flexible web interface. UCSC Table Browser, ENA Browser or local
+        storage is used to obtain input genome sequences including a
+        traditional file upload. HMMER 3.1b1 is applied to gain speed boosts
+        compared to a previous version HMMER 2+. In addition Generic Feature
+        Format Version 3 is used for visualization of genome sequence data via
+        a web-based genome browser e.g. UCSC Genome Browser or Ensembl Genome
+        Browser. 
+
+        http://mgescan.readthedocs.org
+
+name: package_mgescan_3_0_0
+owner: hyungrolee
+remote_repository_url: https://github.com/MGEScan/mgescan/blob/master/galaxy-toolshed/packages/package_mgescan_3_0_0
+type: tool_dependency_definition

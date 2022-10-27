@@ -1,0 +1,1094 @@
+# STOCKHOLM 1.0
+
+#=GS   GCA_000686985.2_Bra_napus_v2.0_rm.out0 DE    SINE
+#=GS   GCA_000686985.2_Bra_napus_v2.0_rm.out1 DE    SINE
+#=GS   GCA_000686985.2_Bra_napus_v2.0_rm.out2 DE    SINE
+#=GS   GCA_000686985.2_Bra_napus_v2.0_rm.out3 DE    SINE
+#=GS   GCA_000686985.2_Bra_napus_v2.0_rm.out4 DE    SINE
+#=GS   GCA_000686985.2_Bra_napus_v2.0_rm.out5 DE    SINE
+#=GS   GCA_000686985.2_Bra_napus_v2.0_rm.out6 DE    SINE
+#=GS   GCA_000686985.2_Bra_napus_v2.0_rm.out7 DE    SINE
+#=GS   GCA_000686985.2_Bra_napus_v2.0_rm.out8 DE    SINE
+#=GS   GCA_000686985.2_Bra_napus_v2.0_rm.out9 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out10 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out11 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out12 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out13 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out14 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out15 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out16 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out17 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out18 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out19 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out20 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out21 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out22 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out23 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out24 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out25 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out26 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out27 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out28 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out29 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out30 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out31 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out32 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out33 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out34 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out35 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out36 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out37 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out38 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out39 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out40 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out41 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out42 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out43 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out44 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out45 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out46 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out47 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out48 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out49 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out50 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out51 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out52 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out53 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out54 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out55 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out56 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out57 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out58 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out59 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out60 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out61 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out62 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out63 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out64 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out65 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out66 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out67 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out68 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out69 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out70 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out71 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out72 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out73 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out74 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out75 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out76 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out77 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out78 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out79 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out80 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out81 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out82 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out83 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out84 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out85 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out86 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out87 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out88 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out89 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out90 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out91 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out92 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out93 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out94 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out95 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out96 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out97 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out98 DE    SINE
+#=GS  GCA_000686985.2_Bra_napus_v2.0_rm.out99 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out100 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out101 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out102 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out103 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out104 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out105 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out106 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out107 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out108 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out109 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out110 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out111 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out112 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out113 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out114 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out115 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out116 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out117 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out118 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out119 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out120 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out121 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out122 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out123 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out124 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out125 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out126 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out127 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out128 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out129 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out130 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out131 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out132 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out133 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out134 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out135 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out136 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out137 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out138 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out139 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out140 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out141 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out142 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out143 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out144 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out145 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out146 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out147 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out148 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out149 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out150 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out151 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out152 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out153 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out154 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out155 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out156 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out157 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out158 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out159 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out160 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out161 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out162 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out163 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out164 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out165 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out166 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out167 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out168 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out169 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out170 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out171 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out172 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out173 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out174 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out175 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out176 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out177 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out178 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out179 DE    SINE
+#=GS GCA_000686985.2_Bra_napus_v2.0_rm.out180 DE    SINE
+
+GCA_000686985.2_Bra_napus_v2.0_rm.out0    --ACCCAGGACTTCATAG---------------------------TC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out1    ---------------------------TTACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out2    -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out3    ----------------------------TACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out4    --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out5    -------------------------------------------AGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out6    ----------------------------TATCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out7    ----------------------------TATCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out8    ---------------------------TTACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out9    -----------------------------ACCTAGGACCTCGTAGTCTAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out10   ------------------------------ACCCGGACTCGATAGTCTAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out11   ------------------------------ACCCGGACTTGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out12   -----------------------------ACCCAGGATCTCGTAG----T
+GCA_000686985.2_Bra_napus_v2.0_rm.out13   -----------------------------ACTCAGGACCTCGTAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out14   -----------------------------ACCCAGAACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out15   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out16   ----------------------------TACCCAGGACTTCATAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out17   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out18   ----------------------------TACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out19   -----------------------------ACCCAGGACCTCGTAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out20   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out21   -----------------------------ACCCAGGACCTCGTAGT----
+GCA_000686985.2_Bra_napus_v2.0_rm.out22   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out23   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out24   --------------------------TTACACCCGGATTCGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out25   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out26   TTACTCAGGACCTCGTAGTCCAGTGATATCTTCCTTGGGGAGGGGAG---
+GCA_000686985.2_Bra_napus_v2.0_rm.out27   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out28   --ACCCAGGACTTCATAG---------------------------TC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out29   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out30   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out31   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out32   ---------------------------TTACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out33   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out34   -------------------------------CCAGGAACTACTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out35   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out36   ----------------------------TTACCCGGACGACCTAGCTCAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out37   ----------------------------TTACCCGGACGACCTAGCTCAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out38   -------------------------------CCAGAACCTCGTAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out39   -----------------------------ACCGAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out40   ------------------------------ACCCGGACTCGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out41   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out42   ----------------------------TTACCCGGACTCGTTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out43   -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out44   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out45   -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out46   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out47   ---------------------------TTACCCAGGACCTCCTAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out48   ---------------------------TTACCCAGGACCTCCTAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out49   -----------------------------ACCCAGGACCTCGTAGT----
+GCA_000686985.2_Bra_napus_v2.0_rm.out50   -----------------------------TACCCGGACTCGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out51   -----------------------------TACCCGGACTCGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out52   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out53   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out54   -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out55   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out56   ------------------------------ACCCGGACTCGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out57   -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out58   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out59   -----------------------------TACCCGGACTCGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out60   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out61   ---------------------------TTACCCAGGACCACGTAGT----
+GCA_000686985.2_Bra_napus_v2.0_rm.out62   -----------------------------TACCCGGGCTTGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out63   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out64   ----------------------------TACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out65   -------------------------------CCAGGGCCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out66   -----------------------------------GACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out67   -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out68   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out69   -----------------------------ACCCAGAACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out70   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out71   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out72   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out73   ---------------------------TTACTAAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out74   ---------------------------TTACCCAGGACCTCGTAATCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out75   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out76   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out77   -----------------------------TACCCGGACTCGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out78   ---------------------------TCACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out79   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out80   -----------------------------------GAGCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out81   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out82   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out83   ---------------------------TTACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out84   -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out85   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out86   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out87   ----------------------------TCACCCGGACTCGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out88   ----------------------------TACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out89   -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out90   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out91   ---------------------------TTACCCAGGACCTCGTAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out92   ---------------------------TTACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out93   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out94   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out95   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out96   ----------------------------TACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out97   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out98   -------------------------------CCAGGGCCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out99   ---------------------------TTACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out100  -----------------------------ACCCAGGACCTCGTAGT----
+GCA_000686985.2_Bra_napus_v2.0_rm.out101  -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out102  ----------------------------TACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out103  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out104  -----------------------------ACCCAGGACCTCGTAGT----
+GCA_000686985.2_Bra_napus_v2.0_rm.out105  -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out106  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out107  -----------------------------ATCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out108  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out109  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out110  -------------------------TTACCCAGGACCTCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out111  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out112  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out113  -----------------------------ACCCAGGACCTCGTAGT----
+GCA_000686985.2_Bra_napus_v2.0_rm.out114  -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out115  -------------------------------------------AGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out116  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out117  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out118  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out119  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out120  -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out121  ---------------------------TTACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out122  ---------------------------TTACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out123  ----------------------------TACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out124  -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out125  ----------------------------TCACCCGGACTTGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out126  ----------------------------TTACCCGGACTCGATAGTCTAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out127  -----------------------------ACCCAGGACCTCGTAATC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out128  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out129  ----------------------------TTACCCGGACGACCTAGCTCAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out130  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out131  -----------------------------ACCCAGGACCTTGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out132  ---------------------------TTACCCATGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out133  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out134  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out135  ----------------------------TACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out136  -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out137  ------------------------------ACCCGGACTCGATAGTCTAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out138  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out139  --------------------------------CAGGACCTCGTAGTT---
+GCA_000686985.2_Bra_napus_v2.0_rm.out140  ---------------------------TTACCCAGGACCTCCTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out141  -----------------------------ACCCAGGACCTCGTAGT----
+GCA_000686985.2_Bra_napus_v2.0_rm.out142  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out143  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out144  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out145  ----------------------------TACCCAAGATCTCGTAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out146  ---------------------------TTACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out147  -------------------------------CCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out148  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out149  ---------------------------TTACCCCGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out150  ----------------------------TTACCCGGGCTTGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out151  -TACTCAGGAACTCGTAGT--------------------------CC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out152  ----------------------------TACCCAGGACCTTGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out153  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out154  -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out155  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out156  ------------------------------ACCCGGACTCGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out157  ----------------------------TACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out158  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out159  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out160  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out161  ---------------------------TTACCCAGGACCTCGTAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out162  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out163  -----------------------------ACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out164  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out165  ----------------------------TACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out166  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out167  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out168  ------------------------------ACCCGGACTCGATAGTCTAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out169  ----------------------------TTACCCGGACTCGATAGTCTAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out170  ---------------------------TTACCCAGGACCTCGTAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out171  ------------------------------ACCCGGACTCGATAGTCTAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out172  -----------------------------ACTCAGGACCTCGTAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out173  ---------------------------TTACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out174  ----------------------------TACCCAGGACCTCGTAGTC---
+GCA_000686985.2_Bra_napus_v2.0_rm.out175  TTACTCAGGACCTCGTAGTCCAGTGATATCTTCCTTGGGGAGGGGAG---
+GCA_000686985.2_Bra_napus_v2.0_rm.out176  -----------------------------TACCCGGGCTTGATAGTCCAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out177  ----------------------------TACCCAGGACCTCGTAGT----
+GCA_000686985.2_Bra_napus_v2.0_rm.out178  ----------------------------TTACCCGGACGAGCTAGCTCAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out179  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out180  ----------------------------TACCCAGGACCTCGTAGTC---
+
+GCA_000686985.2_Bra_napus_v2.0_rm.out0    -----C-AGTGGT--------------ACTACCTCCTTGGAGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out1    -----CAGTGGT---------------ACTACCTCCTTGGGGAAGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out2    -----CAGTGGT---------------ACTATCTTCTTGGGAAGGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out3    -----CAGTGGT---------------ACTACTTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out4    -------------------------------------------GAGCAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out5    -----CAGTGGT---------------ACTAC---CTCCGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out6    -----CCGTGGT---------------ACTACGTCCTTGGGGAGTGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out7    -----CCGTGGT---------------ACTACGTCCTTGGGGAGTGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out8    -----CAGTGGT---------------ACTAC---CTCCGGGAGGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out9    TGGTAC------T--------------ACCTCATCTTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out10   TGGTATCTACCCCTT----------------------------GGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out11   TGGTACTTGGACTTCCGCCTTGAGCTCGGCTGGAGGTCGGGGGTTCGAGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out12   CCAGAC------T--------------ACCTACTCTTTGGGGAGGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out13   TGGTAC------T--------------ACCTCCTCTTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out14   -----TAGTGGTA--------------TCATCCTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out15   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out16   -----CAGTGGT---------------ACTACCTCCTTGGAGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out17   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out18   -----CAGTGGT---------------ACTAC---CTCCGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out19   TGGTAC------T--------------ACCTCCTCTTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out20   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out21   -------CCAGTG--------------GTATCCTTCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out22   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out23   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out24   TGGTACCTGCCCCTCAACTTTGG-----------------------GAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out25   --------------------------------------------GGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out26   -----G-TGACCG--------------GTTCGACTCGCGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out27   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out28   -----C-AGTGGT--------------ACTACCTCCTTGGAGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out29   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out30   --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out31   --------------------------------------------GAGAAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out32   -----CAGTGGT---------------ACTACCTCTTTGGGGAGGGAAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out33   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out34   -----CAGTGGT---------------ACTACCTCTTTGGAGAGAGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out35   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out36   C-------------------TGGTAACACCTCAGACTCCGGTCTGAGAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out37   C-------------------TGGTAACACCTCAGACTCCGGTCTGAGAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out38   TGGTAC------T--------------ACCTCCTCTTTGGGGAGGGGAAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out39   -----CAGTGGT---------------ACTACCTCCTTGGGGAATGAAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out40   TGGTACCTGCCCCTT----------------------------TGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out41   --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out42   -----CAGTGGTA--------------TCTGCCCCTTG-----GGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out43   -----T---AGTG--------------GTATCCTCTTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out44   --------------------------------CTCGTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out45   -----TAGTGGT---------------ACTACCTCCTTGGGGAGGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out46   --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out47   TGGTACTGTCGTA--------------CTGCTTCTTAGGGGGCTGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out48   TGGTACTGTCGTA--------------CTGCTTCTTAGGGGGCTGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out49   -------CCAGTG--------------GTATCCTCCTTGAGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out50   TGGTATCTGCGCCTT----------------------------GGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out51   TGGTATCTGCGCCTT----------------------------GGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out52   --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out53   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out54   -----C-AGTGGT--------------ACTACTTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out55   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out56   TGGTATCTGCCCCTT----------------------------GGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out57   -----CAGTGGTA--------------CTACCTCCTTGGGG-AGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out58   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out59   TGGTATCTACCTCTT----------------------------GGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out60   --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out61   -------CCAGTG--------------GTATCCTCCTTGGGAAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out62   TGGTACTTGGGCTTCCGCCTTGAGCTCGGCTGGAGGTCTGGGGTTCGAGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out63   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out64   -----CAGTGGT---------------ACTACTTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out65   -----CAGTGGTA--------------TCATCCTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out66   -----TAGTGGT---------------ACTACCTCCTTAGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out67   -----TAGTGGT---------------ACTACCTCCTTAGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out68   --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out69   -----CAGTGGT---------------ACTAC---CTCCGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out70   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out71   --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out72   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out73   -----CAGTGGTA--------------CTATCTCCTTGGGAA-GGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out74   TGGTAC------T--------------ACCTTCTCTTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out75   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out76   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out77   TGGTACCTGCCCCTCAACCTTGG-----------------------GAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out78   -----CAG---CG--------------GTATCCTCCTTGGAGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out79   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out80   -----CAGTGGT---------------ACTAC---CTCCGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out81   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out82   --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out83   -----CAGTGGT---------------ACTACCTCCTTGGGGAAGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out84   -----CAGTGGTA--------------CTACCTCCTTGGGG-AGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out85   --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out86   --------------------------------------------GAGAAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out87   TGGTATCTCCCCCTT----------------------------GGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out88   -----CAGTGGTA--------------CTACCTCCTTGAGA-AGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out89   -----CAGTGGT---------------ACTATCTTCTTGGGAAGGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out90   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out91   TGGTAC------T--------------ACCTTCTCTTTGAGGAGGGAAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out92   -----TAGTGGT---------------ACTAACTCCTTGGGGAGGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out93   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out94   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out95   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out96   -----CAGTGGT---------------ACTAC---CTCCGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out97   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out98   -----CAGTGGTA--------------TCATCCTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out99   -----CAGT---G--------------GTATCCTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out100  -------CCAGAG--------------GTATCCTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out101  -----CAGCGGTA--------------CTGCCTCTTAGGGGGCTGGAAAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out102  -----CAGTGGT---------------ACTAC---CTCCGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out103  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out104  -------CCAGTG--------------GTATCCTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out105  -----CAGTGGT---------------ACTAC---CTCCGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out106  --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out107  -----CAGTGGT---------------ACTACCTCTTTGGGGAAGGGAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out108  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out109  --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out110  -----C-AGTGGT--------------ACTACCTCTTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out111  --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out112  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out113  -------CCAGTG--------------GTATCCTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out114  -----CAGTGGT---------------ACTACCTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out115  -----CAGTGGT---------------ACTAC---CTCCGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out116  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out117  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out118  --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out119  --------------------TGGTAACACCTCAGACTCCGGTATGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out120  -----CAGTGGTA--------------CTACCTCCTTGGGGA-GGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out121  -----TAGTGGTA--------------CTATCCA----AAGAAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out122  -----CAGTGGT---------------ACTAC---CTCCGGGAGGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out123  -----CAGTGGT---------------ACTACCTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out124  -----TAGTGGT---------------ACTACCTCCTTGGGGAGGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out125  TGGTACTTGGGCTTCCGCCTTGAGCTCGGCTGGAGGTCGGGGGTTCGAGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out126  TGGTATCTGCCCCTT----------------------------GGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out127  -----CAGTGGT---------------ACTATCTCCTTGGAAAAGGAAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out128  --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out129  C-------------------TGGTAACACCTCAGACTCCGGTCTGAGAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out130  --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out131  -----T-AGTG-G--------------TACTACCTCTTTGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out132  -----CAGTGGT---------------ACTACCTCCTTGGGAAGGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out133  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out134  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out135  -----CAGTGGT---------------ACTAC---CTCCGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out136  --------CAGTG--------------GTATCCTCCTTGGAGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out137  TGGTATCTACCCCTT----------------------------GGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out138  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out139  -----CAGTGGTA--------------CTGCCTCTTAGGGGGCTGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out140  -----CAGTGA-T--------------ACTATCTTCTTGGAGAGTGAAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out141  -------CCAGTG--------------GTATCCTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out142  --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out143  --------------------TGGTAACACCTCAGACTCTGGTTTGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out144  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out145  TGGTAC------T--------------ACCTCTTCTTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out146  -----CAGTGGT---------------ACTACCTCTTTGGGGAGGGAAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out147  -----CAGTGG-T--------------ACTAACTCTTCGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out148  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out149  -----CAGTGGTA--------------CTGCCTCTTAGGGGGCTGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out150  TGGTACTTGGGTTCCCCTCTTCAGCTCGGCTGGAGGTTGGGGGTTCGAGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out151  -----A-GTGGTA--------------CTACCTCTTTGGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out152  -----CAGTGGT---------------ACTATCTCTTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out153  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out154  -----CAGTGGT---------------ACTAC---CTCCGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out155  --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out156  TGGTATCTGTCCCTT----------------------------CGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out157  -----T-AGTGGT--------------ACTACCTCCTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out158  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out159  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out160  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out161  TGGTAC------T--------------ACCTCATTTTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out162  --------------------------------------------GAGAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out163  -----CAGTGGTA--------------CTGCTTCTTAGGGGGTTGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out164  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out165  -----TAGTGGT---------------ACTATCTCCTTGGGGAGTGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out166  --------------------------------------------GAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out167  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out168  TGGTACCTGCCCCTCAACTTTGG-------------------GAGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out169  TGGTATCTGCCCCTT----------------------------GGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out170  TGGTAC------T--------------ACCTTCTCTTTGAGGAGGGAAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out171  TGGTACCTGCCCCTCAACTTTGG-------------------GAGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out172  TGGTAC------T--------------ACCTCCTCTTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out173  -----CAGTGGT---------------ACTAC---CTCCGGGAGTGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out174  -----CAGTGGTA--------------CTACCTCCTTGAGA-AGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out175  -----G-TGACCG--------------GTTCGACTCGCGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out176  TGGTACTTGGGCTTCCGCCTTGAGCTCGGCTGGAGGTCTGGGGTTCGAGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out177  -------CCAGTG--------------GTATCCTCTTTGGGGAGGGGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out178  C-------------------TGGTAACACCTCAGACTCCGGTCTGAGAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out179  --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out180  -----TAGTGGT---------------ACTATCTCCTTGGGGAGTGGAGG
+
+GCA_000686985.2_Bra_napus_v2.0_rm.out0    TCGCCTGTTCGACTCGCGTGGAGGGGGAGGCGTGTCCAGGGCCCATAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out1    TCGGCTGTTCGACTTGCGGGGAGGGGGAGGCGTGCCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out2    TCGGCTGTTCGACTCGCGTGGAGGGGGATGCGTGTCCAGAGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out3    TCGGCTGTTCGACTCGCGGGGAGGAGGAGGTGTGTCCAGGGCCCGTAACA
+GCA_000686985.2_Bra_napus_v2.0_rm.out4    CCTTCTGTTCGACTCTCGGGGAGGGGGAGGCGTGCCCAGGGCC--CTAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out5    TCGGCTGTTCGACTCGCGGGGAGGGGGAGACGTGTCCAGGGCCTGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out6    TCGGCTGTTCGACTCGCGTGGAGGGGGAGGCGTGTCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out7    TCGGCTGTTCGACTCGCGTGGAGGGGGAGGCGTGTCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out8    TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out9    TCGGCT-----------------GCTCGGGCGTGCCCAGAGCCCTAACCG
+GCA_000686985.2_Bra_napus_v2.0_rm.out10   TCAGCTGTTCGATTCGCAGGGC-GGAGAGGCGTGCC------------CA
+GCA_000686985.2_Bra_napus_v2.0_rm.out11   TAGGCTGGAGGACTCTTA-AGC-GGGGAGGCGTGTCC------------A
+GCA_000686985.2_Bra_napus_v2.0_rm.out12   TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGACCCTAACCG
+GCA_000686985.2_Bra_napus_v2.0_rm.out13   TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCCTAACCG
+GCA_000686985.2_Bra_napus_v2.0_rm.out14   TGGCCGGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out15   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out16   TCGGCTGTTCGACTCGCGTGGAAGGAGAGGCGTGTCCAGGACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out17   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out18   TCGGCTGTTCGAC-------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out19   TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCTAACCG
+GCA_000686985.2_Bra_napus_v2.0_rm.out20   ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out21   TGACCGGTTCGACTCGCGGAGAGGAGGAGGCGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out22   ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out23   ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out24   TCAGCTGTTCGATTCGCA-GGC-GGGGAGGCGTGCCC------A----G-
+GCA_000686985.2_Bra_napus_v2.0_rm.out25   TCACGAGTTCGAGTCTCG-GGC-GGGGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out26   TGACCTGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out27   ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out28   TCGCCTGTTCGACTCGCGTGGAGGGGGAGGCGTGTCCAGGGCCCATAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out29   ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out30   TCACGAGTTCGAGTCTCG-GAC-GGGGAGAAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out31   TCACGAGTTCGAGTCTCG-GGC-AGGGAGGAATGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out32   TCGGCTGTTCGACTCGCGTGGAGGGGGAGGCGTGTCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out33   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out34   TCGGCTGTTCGACTCGCGTAGAAGGAGAGGCGTGTCCAGGACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out35   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out36   TCACGAGTTCGAGTCTCG-GGC-GGGGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out37   TCACGAGTTCGAGTCTCG-GGC-GGGGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out38   TCGGCTGTTCGACTCGCGGGGAGGGGGAGACGTGCCCAGTGCCCTAACCG
+GCA_000686985.2_Bra_napus_v2.0_rm.out39   TCGGCTGTTCGATTCGCGTGGAGGGGGAGGCGTGTCCAGGACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out40   TCAGCTGTTCGATTCGCAGGGC-GGGGAGGCATGCC------------CA
+GCA_000686985.2_Bra_napus_v2.0_rm.out41   TCACGAGTTCGAGTCTCG-GGC-GGGGAGGAGTGTCC------A----GG
+GCA_000686985.2_Bra_napus_v2.0_rm.out42   TCAGCTGTTCGATTCGCGGGGCGGGGAG-GCGTGCCCAGGGCCT--TAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out43   TGACCGGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out44   TCGGCTGTTCGACTCGCGTGGAGGGGGAAGCGTGTCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out45   TCGGATGTTCGACTCGCGTGGAGGGGGAGGCGTGTACAGAACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out46   TCACGAGTTCGAGTCTCG-GGC-GGGGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out47   TAGGCTGTTCGACTTGCGGGGAGGAGGAGGCGTGTCCAGGACCGC----A
+GCA_000686985.2_Bra_napus_v2.0_rm.out48   TAGGCTGTTCGACTTGCGGGGAGGAGGAGGCGTGTCCAGGACCGC----A
+GCA_000686985.2_Bra_napus_v2.0_rm.out49   TGACCGATTCGACTCGCGGAGAGAGGGAGGCGTGTTCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out50   TCAGCTGTTCGATTCGCAGGGC-GGGGAGACGTGCC------------CA
+GCA_000686985.2_Bra_napus_v2.0_rm.out51   TCAGCTGTTCGATTCGCAGGGC-GGGGAGACGTGCC------------CA
+GCA_000686985.2_Bra_napus_v2.0_rm.out52   TCACGAGTTCGAGTCTCG-AAC-GGGGAAGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out53   ------------------------GAGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out54   TCGGCTGTTCGACTCGCGTGGAGGGGAAGGCGTGTCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out55   ------------------------GGGAAGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out56   TCAGCTGTTCGATTCGCAGGGC-GGGGAGGCGTGCC------------CA
+GCA_000686985.2_Bra_napus_v2.0_rm.out57   TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCT-CATGT
+GCA_000686985.2_Bra_napus_v2.0_rm.out58   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out59   TCAGCTGTTCGATTCGCAGGAT-GGGGAGGCGTGCC------------CA
+GCA_000686985.2_Bra_napus_v2.0_rm.out60   TCAGGAGTTCGAGTCTCG-GGC-GGGGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out61   TGACCGGTTCGACTCGCGGAGAGAAGGAGACGTGTCCAGAACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out62   TAAGATAGAGGACTCTTG-AGC-GAGGAAGCGTGCCC------------A
+GCA_000686985.2_Bra_napus_v2.0_rm.out63   ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out64   TCGGCTGTTCGACTCGCGGGGAGGAGGAGGTGTGTCCAGGGCCCGTAACA
+GCA_000686985.2_Bra_napus_v2.0_rm.out65   TGGCCAGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out66   TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out67   TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out68   TCACGAGTTCGAGTCTCA-GGC-GGGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out69   TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out70   ------GTTCGAGTCTCG-GAC-GGGGAGGAGTGTCCAGGTACA----GA
+GCA_000686985.2_Bra_napus_v2.0_rm.out71   TCGCGAGTTCGAGTCTCG-GGC-GGAGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out72   ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out73   TCGGCTGTTCGATTCGCGTGGCGGAGGAGGTGTGTCCAGGACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out74   TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCCTAACCG
+GCA_000686985.2_Bra_napus_v2.0_rm.out75   ------------------------GGAAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out76   --------------------GG-GGAGGCGTGTCCAAGG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out77   TCAGCTGTTCGATTCGCA-GGC-GGGAAGGCGTGCCC------A----G-
+GCA_000686985.2_Bra_napus_v2.0_rm.out78   TGACCGGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out79   -------GT-TCGACCCA-CCG-TGGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out80   TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out81   ------------CTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out82   TCACGAGTTCGAGTCTCG-GAC-GGGAAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out83   TCGGCTGTTCGACTTGCGGGGAGGGGGAGGCGTGCCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out84   TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCT-CTTGT
+GCA_000686985.2_Bra_napus_v2.0_rm.out85   TCACGAGTTCGAATCTCG-GAC-GGAGAGGGGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out86   TCACGAGTTCGAGTCTCG-GAC-GGGGAAGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out87   TCAGCTGTTCGACTCGCAGGGC-GGGGAGGCGTGCC------------CA
+GCA_000686985.2_Bra_napus_v2.0_rm.out88   TCGGATATTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGACCT-CATGT
+GCA_000686985.2_Bra_napus_v2.0_rm.out89   TCGGCTGTTCGACTCGCGTGGAGGGGGATGCGTGTCCAGAGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out90   ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out91   TCGGTTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGACCCTAACCG
+GCA_000686985.2_Bra_napus_v2.0_rm.out92   TCGGATGTTCGACTCGCAGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out93   ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out94   ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out95   -----TGTTCGAGTCTCA-GGC-GGGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out96   TCGGCTGTTCGACTCGCGGAGAAGGGGAGGCGTGCTCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out97   ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out98   TGGCCAGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out99   TGACCGGTTCGACTCGCGGGGAGG-----GGGAGGCGAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out100  TGACCGGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out101  TAGGCTGTTCGACTTGCGGGGAGGGGGAGGCGTGTCCAGGACC--GCA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out102  TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out103  -------GT-TCGACCCA-CCG-TGGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out104  TGACCGGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out105  TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out106  TCACGAGTTCGAGTCTCG-GAC-GGGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out107  TCGGCTGTTCGACTCGCGTGGAGGGGGATGCGTGTCCAGGGTCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out108  ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out109  TCACGAGTTCGAGTCTCA-GGC-GGGAAAAAATGTACAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out110  TCGACTGTTCGATTCGCGTGGAGGGGGAGGCATGTCCAAGACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out111  TCACGAGTTCGAGTCTCG-GGC-GGGGAGGAGTATC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out112  ------GTTCGAGTCTCG-GGC-GGAGAAGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out113  TGACCGGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out114  TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAACA
+GCA_000686985.2_Bra_napus_v2.0_rm.out115  TCGGCTGTTCGACTCGCGGGGAGGGGGAGACGTGTCCAGGGCCTGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out116  ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out117  ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out118  TCACGAGTTCGAGTCTCG-GGC-GGGGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out119  TCACGAGTTCGAGTCTCG-GGC-GGGGAGGAGTGTT-------------T
+GCA_000686985.2_Bra_napus_v2.0_rm.out120  TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCC--CCTGT
+GCA_000686985.2_Bra_napus_v2.0_rm.out121  TCGGCTGTTCGACTCGCGTGGAGGGGGAGGCGTGTCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out122  TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out123  TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGAGCCCGTAACA
+GCA_000686985.2_Bra_napus_v2.0_rm.out124  TCGGATGTTCGACTCGCGTGGAGGGGGAGGCGTGTACAGAACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out125  TAGGCTGGAGGACTCTTG-AGC-AGGGAGGCGTGCCC------------A
+GCA_000686985.2_Bra_napus_v2.0_rm.out126  TCAGCTGTTCGATTCGCAGGGC-GGAGAGGCGTGCC------------CA
+GCA_000686985.2_Bra_napus_v2.0_rm.out127  TCGGCTGTTCGATTCGTGTGGAGGAGGAGGCGTGTCCAGGACCCGTAACA
+GCA_000686985.2_Bra_napus_v2.0_rm.out128  TCACGAGTTCGAGTCTCG-GGC-GGGGAGGAATGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out129  TCACGAGTTCGAGTCTCG-GGC-GGGGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out130  TCACGAGTTCGAGTCTCG-GGC-GGGGAGGAATGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out131  TCGGCTGATTGATTCGCGGGGAAGGGGAGGCGTATCCAAGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out132  TCGGCTGTTCGACTCGCGTGGAGGGGGAGGCGTGTCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out133  -------------------------GGGAGGAGTGTCTA-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out134  ------------------------GGAAGAAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out135  TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out136  TGACCGGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out137  TCAGCTGTTCGATTCGCAGGGC-GGAGAGGCGTGCC------------CA
+GCA_000686985.2_Bra_napus_v2.0_rm.out138  ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out139  TAGGCTGTTCGACTTGCGGGGAGGGGGAGGCGTGTCCAGGACC--GCA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out140  TCGGCTGTTCGACTCGTGTAGAGGGGAAGACGTGTCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out141  TGACCGGTTCGACTCGCGGGGAGGGGGAGACGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out142  TCACGAGTTCGAGTCTCG-GAC-GGGGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out143  TCACAAGTTCGAGTCTCG-GGC-GGGGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out144  ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out145  TCGGCTGTTCGACCCGCGGGAG-AGGGAGGCGTGCCCAGGGCCCTAACCG
+GCA_000686985.2_Bra_napus_v2.0_rm.out146  TCGGCTGTTCGACTCGCGTGGAGGGGGAGGCGTGTCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out147  TCGGCTGTTCGACTCGCGTGGAAGGGGAGACTGTC-CAGGACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out148  -------------------------GAAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out149  TAGGCTGTTCGACTTGCAGGGAGGGGGAGGCGTATCCAGGGCC--GCA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out150  TAGGCTGGAGGACTCTTG-AGC-GGGGAGGCGTGCCC------------A
+GCA_000686985.2_Bra_napus_v2.0_rm.out151  TCGGCTGTTCGACTCGCGTGGAGAGGGAGGCGTGTCCAGAGCTCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out152  TCGGATGTTCGACTCGCGTGGATGGAGAGGCGTGTCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out153  -----------------------------------CCGG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out154  TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out155  TCGCGAGTTCGAGTCTCG-GGC-GGAGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out156  TCAGCTGTTCGATTCGCAGGGC-GGGGAGGCGTGCC------------CA
+GCA_000686985.2_Bra_napus_v2.0_rm.out157  TCGGCTGTTCGACTCGCGTGGAGGGGGAGGCGTGTCCAGGGCCCGTGAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out158  -------------------------GGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out159  ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out160  ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out161  TCGGCTGTTTGACTCGCGGGGAGGGGAAGGCGTGCCCAGGGCCCTAACCG
+GCA_000686985.2_Bra_napus_v2.0_rm.out162  TCACGAATT-CGAGTTTC-GGG-TGGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out163  TAGGTTGTTCGACTTGCGGAGAGGGGGAAGCGTGTCCAGGGCCGC----A
+GCA_000686985.2_Bra_napus_v2.0_rm.out164  ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out165  TCGGCTGTTTGACTCGCGGGGAGGAGGAAGTGTGTCCAGAACCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out166  TCACGAGTTCGAATCTCG-GGC-GGGGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out167  ------------------------GGGAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out168  TCAGCTGTTCGATTCGCA-GGC-GGGGAGGCATGCCT------A----G-
+GCA_000686985.2_Bra_napus_v2.0_rm.out169  TCAGCTGTTCGATTCGCAGGGC-GGAGAGGCGTGCC------------CA
+GCA_000686985.2_Bra_napus_v2.0_rm.out170  TCGGTTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGACCCTAACCG
+GCA_000686985.2_Bra_napus_v2.0_rm.out171  TCAGCTGTTCGATTCGCA-GGC-GGGGAGGCATGCCT------A----G-
+GCA_000686985.2_Bra_napus_v2.0_rm.out172  TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCCTAACCG
+GCA_000686985.2_Bra_napus_v2.0_rm.out173  TCGGCTGTTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGGCCCGTAAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out174  TCGGATATTCGACTCGCGGGGAGGGGGAGGCGTGCCCAGGACCT-CATGT
+GCA_000686985.2_Bra_napus_v2.0_rm.out175  TGACCTGTTCGACTCGCGGGGAGGGGGAGGCGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out176  TAAGATAGAGGACTCTTG-AGC-GAGGAAGCGTGCCC------------A
+GCA_000686985.2_Bra_napus_v2.0_rm.out177  TGACCGGTTCGACTTGCGGGGAGGGGGAGGTGTGTCCAGGGCCCGTAAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out178  TCACGAGTTCGAGTTTCG-GGC-GGGGAGGAGTGTC-------------C
+GCA_000686985.2_Bra_napus_v2.0_rm.out179  -------------------------GAAGGAGTGTCCAG-----------
+GCA_000686985.2_Bra_napus_v2.0_rm.out180  TCGGCTGTTTGACTCGCGGGGAGGAGGAAGTGTGTCCAGAACCCGTAAAA
+
+GCA_000686985.2_Bra_napus_v2.0_rm.out0    AA----------GTACAGACAAAGGCTGGCACCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out1    AG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out2    AG----------GTACAGACAAAAGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out3    AG----------GTACAGATAAAGGGTGGCGCCGGGCCTAGGTGGGGGGT
+GCA_000686985.2_Bra_napus_v2.0_rm.out4    CG----------GTACAAGCACAGGCTGGCGCCGGGCCTAAGTGGTGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out5    AG----------GTACAGGTAAAGGTTGGCGCTGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out6    AG----------GTACAGACAAAGGCTGACGCCGGACTTAGGTGCTGGCC
+GCA_000686985.2_Bra_napus_v2.0_rm.out7    AG----------GTACAGACAAAGGCTGACGCCGGACTTAGGTGCTGGCC
+GCA_000686985.2_Bra_napus_v2.0_rm.out8    AG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out9    ------------GTACAGGCACAGGCTGGCGCCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out10   GGGCCCTAACCGGTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out11   GAGCTCTAACCGGTACAGGCGCAGGCTGGCGTCGGGTCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out12   ------------GTACAGGCACAGGCTGGCGCCGGATCTAGGTGTTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out13   ------------GTACAAGCACAGGCTGGCGCCGGGCCTAAGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out14   AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out15   -----------GGTACAGACGCCGGCTGGCTCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out16   AG----------GTACAGACAAAGGCTGGCGCCGTGCCTAGCTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out17   --------------------------TGGCGCCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out18   --------------------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out19   ------------GTACAGGCACAAACTGGCGCCGGGTCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out20   -GGCCTTAATCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out21   AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out22   -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGGAGTA
+GCA_000686985.2_Bra_napus_v2.0_rm.out23   -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGGAGTA
+GCA_000686985.2_Bra_napus_v2.0_rm.out24   -GGCCCTAATCGGTACAGGCGCAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out25   AGGGCCGTAATGGTACAGACGCAGGTTGGCTCCGGGTCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out26   AA----------GTACAGACAAAGGCTGGTGCCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out27   -AGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out28   AA----------GTACAGACAAAGGCTGGCACCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out29   -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out30   -GACCGTAACAGGTACAGACAAAGGCTGGCTCCGGACCTAGG-GGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out31   AGGACTGTAATGGTACAGACACAGGCTGGCTCCGGACCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out32   AG----------GTACAGACAAAGGCTGGCGTCGTGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out33   -----------------AGGTAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out34   AG----------GTACAGACAAAGGGTGGCGCCGGGCTTAAGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out35   -----------------AGGTAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out36   AGGGCCGTAATGGTACAGACGCAGACTGGCTCCGGGTCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out37   AGGGCCGTAATGGTACAGACGCAGACTGGCTCCGGGTCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out38   ------------GTACAGGCACAGGCTGACGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out39   AG----------GTACAGACAAAAGCTGGCGCCGGGACTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out40   GGGCCCTAACCGGTACAGGCGCAGGCTGGCGCCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out41   GCCCGTAAGAAGGTACAGACGCAGGCTGGCTCCGAACCTAAGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out42   CG----------GTACAGGCAAAGGCTGGCGCCGGG--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out43   AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out44   AAGTATAGGAAGGTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out45   AG----------GTACAGATAAAGGCTGGCGCCGGACCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out46   AGGGCCGTAATGATACAGACGCAGGCTGGCTCCGGGCCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out47   AA----------GCCCAGACGAAGGCTGGCGCCGGGTCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out48   AA----------GCCCAGACGAAGGCTGGCGCCGGGGCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out49   AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out50   GGACCCTAACCGGTACAGGCAAAGGCTGGCGCCGAGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out51   GGACCCTAACCGGTACAGGCAAAGGCTGGCGCCGAGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out52   -GACCGTAACAGGTACAGACAAAGGCTGGCTCTGGGCATAGA-GGG----
+GCA_000686985.2_Bra_napus_v2.0_rm.out53   -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGAGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out54   AG----------GTACAGACAAAGTCTGGTGCCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out55   -GACCTTAACCGATACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGTAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out56   GGGCCCTAACCGGTTCAGGCAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out57   GG----------GTACAGGTAAAGGCTGGCGCCGGGTCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out58   -----------------GACAAAGGCTGGCGCCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out59   GGGCCCTAACCAGTACAGGCAAAGGTTGGCGCTGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out60   AGGACTGCAATGGTACAGACGCAGACTGGTTCCGGACCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out61   AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out62   GGGCCCTAACCGGTACAGGCGCAGGCTGGCGTCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out63   -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out64   AG----------GTACAGATAAAGGGTGGCGCCGGGCCTAGGTGGGGGGT
+GCA_000686985.2_Bra_napus_v2.0_rm.out65   AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out66   AG----------GTACAGGCAAAGGCTGGCGCTGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out67   AG----------GTACAGGCAAAGGCTGGCG-------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out68   -GGCCGAAACAGGTACAGACAAAGGCTGGCTCCGGGCCTAAG-GAGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out69   AG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out70   CACAGGCTAATGGTACAGACACAGGCTGGCTCCGGGCCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out71   AGGGTCGTAATGGTACAGACACAGGCTGGCTCCGGGTCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out72   -GACCTTAACCGGTACAGACGCAGACTGGCTCCGGACCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out73   AG----------GTACAGATAAAGACTGGCGCCGGGCCTAGGTGGTGAGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out74   ------------GTACA---------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out75   -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGG-----
+GCA_000686985.2_Bra_napus_v2.0_rm.out76   -CCCGTAAGAAGGTACAGACGCAGACTGGCGCCGGGCCTAGGGGGTGAGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out77   -GGCCCTAACCGGTACAGGCGCAGGCTGGCGTCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out78   AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out79   -AGCCTTAACAGATACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGAT
+GCA_000686985.2_Bra_napus_v2.0_rm.out80   AG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out81   AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out82   -GACCGTAATAGGTACAGACAAATGCTGGCTCCAGGTCTAGG-TGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out83   AG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out84   GG----------GTACAGGCAAAAGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out85   AGGACCATAATGGTATAGACACAGGCTGGCTCCGGGCCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out86   -AGCCGTAACAGGTACAAAGGCTGGCTCCAG----GC--CTAGAGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out87   GGGCCCTAACCGATACAGGCAAAGGCTGGCGCCGGGCCTAGGTGTGGGCT
+GCA_000686985.2_Bra_napus_v2.0_rm.out88   GG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out89   AG----------GTACAGACAAAAGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out90   -GGCCTTAACCGGTACTGACGCAGGCTGGCTCCGGGCCTAGGGGGGAGTA
+GCA_000686985.2_Bra_napus_v2.0_rm.out91   ------------GTACAGGCACAGGCTGGCGCCGGGCCTAGGTGGTAGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out92   AG----------GTACAGACAAAGGCTAGCGCCGGACCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out93   -GGCCTTAACCGGTACAGACGCAGGCTGCCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out94   -GACCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGG--
+GCA_000686985.2_Bra_napus_v2.0_rm.out95   -GGCCGAAACAGGTACAGACAAAGGCTGGCTCCGGGCCTAAG-GAGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out96   AA----------GTACAGGCAAAGGCTGGCGCCGAGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out97   -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out98   AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out99   AG----------GTACAGACAAAGGCTAGCGCCGGACCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out100  AG----------GTACAGACAAAAGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out101  AG----------ACCCAAACGAAGACTGGCGCCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out102  AG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out103  -GGCCTTAACAGGTACAGACACAGGCTGGCTCCGGGCCTGGGGGGTTAGG
+GCA_000686985.2_Bra_napus_v2.0_rm.out104  AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out105  AG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out106  -GGCCGTAACAGGTACATACAAAGGTTGGCTCCGGGCTTCAGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out107  AG----------GTACAGACAAAGGTTGGCATCGGACCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out108  -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out109  -GGCCGTAACAGGTACATACAAAGGCTGGCTCCGGGCCTATGGAGAGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out110  AG----------GTACAGACAAAGGCTGGCGCCGGACCTAGGGGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out111  AGGACCGTAATGGTACAGACGCAGGCTGGCTCCGGGCCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out112  -CGCCGTAACAGGTACAAACAAAAGTTGGCTCCGGGCCTAT--GGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out113  AG----------GTACAGACAAAGGCTGGCGCCGAGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out114  AG----------GTACAGACAAAGGCTGGCGTCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out115  AG----------GTACAGGTAAAGGTTGGCGCTGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out116  -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out117  -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out118  AGGGCCGTAATGATACAGACGCAGGCTGGCTCCGGGCCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out119  AGGGCCATAATGGTACAGACACAGGCTGGCTCCGGGCCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out120  GG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out121  AA----------ATACAGACAAAAGCTGGCGCCGGGCCTAGATGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out122  AG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out123  AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out124  AG----------GTACAGATAAAGGCTGGCGCCGGACCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out125  GGACCCTAACTGGTACAGGCGAAGGCTGGCGCCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out126  GGGCCCTAACCGGTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out127  AG----------GTACAGACAAAGGCTGATGCCGGACCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out128  AGGACCGTAATGGTACAGATGCAGGCTGGTTCCGGGCCTAGGAGAGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out129  AGGGCCGTAATGGTACAGACGCAGACTGGCTCCGGGTCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out130  AGGGCCGTAATAGTACAAACACAGGCTGGCTCCGGACCTAGGAGG-----
+GCA_000686985.2_Bra_napus_v2.0_rm.out131  AA----------GTACAGACAAAGGCTGGCGCCGGACCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out132  AG----------GTACAGACAAAGGCTGGCGCCGGACTTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out133  -GGGCCTTACCGGTACAGACACAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out134  -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGAGGGAG
+GCA_000686985.2_Bra_napus_v2.0_rm.out135  AG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out136  AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAAGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out137  GGGCCCTAACCGGTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out138  -GACCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out139  AG----------GCCCAGACGAAGGCTGGCGCCGGACCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out140  AA----------GTACAGATAAAGGCCGGCACCGGGCTTAAGTGGTGGAT
+GCA_000686985.2_Bra_napus_v2.0_rm.out141  AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out142  AGGGCCGTAATGGTACAGACGCAGGCTGGCTCCGAGCCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out143  AGAACCGTAATGGTACAGACACATGCTGGCTCCGGGCTTAGGAAGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out144  -GACCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out145  ------------GTACAGGCACAGGCTAGCGCCGGACCTAGGTGGTGAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out146  AG----------GTACAGACAAAGGCTGGCGTCGTGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out147  AG----------CTACAGACAAAAGCTGGTGCCGGGCCTAGCCTGGTGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out148  -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out149  AG----------GCCCAGACGAAGGCTGGCGCCGGACCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out150  GGGCCCTAACCGGTACAGGCACAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out151  AG----------GTATATACAAAGGCTGGCGCCGGGCCTAGGTGGTAGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out152  AG----------GTACATACAAAGGCTGGCGCCGGGACTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out153  -AACCTTAACCGGTACAGACGCAGGCTGGCTCTGGGCCTAGAGGGGAGTA
+GCA_000686985.2_Bra_napus_v2.0_rm.out154  AG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out155  AGGGTCGTAATGGTACAGACACAGGCTGGCTCCGGGTCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out156  GGACCCTAACCGATACATGCAAAAGTTGGCTTCGGGCCTAGGTGGTGGGT
+GCA_000686985.2_Bra_napus_v2.0_rm.out157  AG----------GTACAGACAAAGGCTGGTGCCGGGCGTATGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out158  -GGCCTTAACCGGTACAGACGCATGCTGGCTCCGGGCCTAAGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out159  -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out160  -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out161  ------------GTACAGGTACAGGCTGGCACCGGACCTAGGTGGTGAGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out162  -GACCGTGACAGGTACAGACAAAGGCTGGTTTCGGGCTTAGGGGGAGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out163  AG----------GCCCAGACGAAGGCTGGCACCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out164  -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out165  AG----------GTACAGACAAAGATTGGCACCGGGGCTAGTTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out166  AGGACCGTAATGGTACACACAAAAGCTGGTTCCTGGCCTAGGGGGGATTA
+GCA_000686985.2_Bra_napus_v2.0_rm.out167  -GACCTTAACCGGTACAGACGCAGGATGGCTCCGGACCTAGGAGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out168  -GGCCCTAACCGGTACAGGCGCAGGCTGGCGCCGGACCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out169  GGGCCCTAACCGGTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out170  ------------GTACAGGCACAGGCTGGCGCCGGGCCTAGGTGGTAGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out171  -GGCCCTAACCGGTACAGGCGCAGGCTGGCGCCGGACCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out172  ------------GTACAAGCACAGGCTGGCGCCGGGCCTAAGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out173  AG----------GTACAGGCAAAGGCTAGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out174  GG----------GTACAGGCAAAGGCTGGCGCCGGGCCTAGGTGGGGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out175  AA----------GTACAGACAAAGGCTGGTGCCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out176  GGGCCCTAACCGGTACAGGCGCAGGCTGGCGTCGGGCCTAGGTGGTGGAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out177  AG----------GTACAGACAAAGGCTGGCGCCGGGCCTAGGTGGTGGGC
+GCA_000686985.2_Bra_napus_v2.0_rm.out178  AGGGCCGTAATGGTACAGGCGCAGGCTGGCTCCGGGCCTAGGAGGGGATT
+GCA_000686985.2_Bra_napus_v2.0_rm.out179  -GGCCTTAACCGGTACAGACGCAGGCTGGCTCCGGGCCTAGGGGGAGGGA
+GCA_000686985.2_Bra_napus_v2.0_rm.out180  AG----------GTACAGACAAAGATTGGCACCGGGGCTAGTTGGTGGGC
+
+GCA_000686985.2_Bra_napus_v2.0_rm.out0    CGCAAGGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out1    CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out2    CGCAAAGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out3    CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out4    CGCAAGGTCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out5    CGCAAGGTCAACACCTGGTCAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out6    GCAA-GGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out7    GCAA-GGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out8    CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out9    TGGTCGAAGGCTGGTCAACAC----------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out10   TGGCCGAAGGTTGGCCAACACCTGGT------TAA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out11   TGGCCGAAGGCTGGTCTAACACCTGA------TTAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out12   TGGTCGAAGGCTGGTCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out13   TGGTCGAAGGCTGGTCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out14   CGCAAGGTCAACACCTGTTTTAAAC------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out15   TGGCCGAAGGCCGGTCAACACCTGGT------TAA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out16   TGCAAAGCCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out17   TGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out18   -------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out19   TGGTCGAAGGCTGGTCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out20   GTAGGGCCGAAGGCCCGAACCCACCACCTGGTTAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out21   CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out22   AG---GCCGAAGGCCCGAACCCTCCTGGTTAA-----
+GCA_000686985.2_Bra_napus_v2.0_rm.out23   AG---GCCGAAGGCCCGAACCCTCCTGGTTAA-----
+GCA_000686985.2_Bra_napus_v2.0_rm.out24   TGGCCGAAGGCTGGTCAACACCTGGT------TAA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out25   AGGGC--CGGAGGC-----------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out26   CGCAAGGTCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out27   GTAGGGCCGAAGGCCCGAACCCACCACCTGGTTAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out28   CGCAAGGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out29   GTAGGGCCGAAGGCCCGAACCCACCACCTGGTTAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out30   AAGGC--CGAAGGCCCGAACCCATCCTGGT--TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out31   AGGGC--CGAAGGTCCGAACCCCGCATGGT--TAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out32   CGCAAGGCCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out33   CGCAAGGTCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out34   CGCAAGACCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out35   CGCAAGGTCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out36   AGGGC--CGAAGGC-----------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out37   AGGGC--CGAAGGC-----------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out38   TGGTCGAAGGCTGGTCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out39   CGCAAGGCCAACACC----------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out40   TGGCCGAAGGCTGGTCAACACCTGGT------TAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out41   TGGCCGAAAGCTGGTCTAACACCTGG------TTAAA
+GCA_000686985.2_Bra_napus_v2.0_rm.out42   -------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out43   CGCAAGGTCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out44   CGCAAGGTCAACACCTGGTT-----------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out45   CGCAAGGTCAATACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out46   AGGGC--CGAAGGCCCGAACCCCGCCTGGT--TAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out47   CGCAAAGTCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out48   CGCAAAGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out49   CGCAAGGTCAACACCTGGTT-----------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out50   TGGCCGAAGGTTGGCCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out51   TGGCCGAAGGTTGGCCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out52   -------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out53   GTAGGGCCGAAGGCCCGAACCCACCACCTCGTTAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out54   CGCAAGGCCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out55   GGCCG----AAGGCCCGAACCCTACTGGTTAA-----
+GCA_000686985.2_Bra_napus_v2.0_rm.out56   TGGCCGAAGGTTGGCCAACACCTGGT------TAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out57   CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out58   CGCAAGGGCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out59   TGGCCGAAGGTTGATCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out60   AGGGC--CGAAGGCCCGAACCCCGCCTGGT--T----
+GCA_000686985.2_Bra_napus_v2.0_rm.out61   CG-----------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out62   TGACCGAAGACTGGTCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out63   GTAGGGCCGAAGGCCCGAACCCACCACCTGGTTAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out64   CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out65   CGTAAGGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out66   CACAAAGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out67   -------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out68   AAGGC--CGAAGGCTCGAACCCATCCTGGT--TAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out69   CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out70   AGGGC--CGAAGGCCCGAACCCCGCCTGGT--TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out71   AGGGC--CGAAGGCCCGAACCCCGCCTGGT--TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out72   GTAGGGCCGAAGGC-----------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out73   CGCAAGGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out74   -------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out75   -------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out76   TTAAGGCCGAAGGCCCGAACCCACCACCTGGTAAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out77   TGACCGAAGACTGGTCA--------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out78   CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out79   TAGGACCGAAGGTGTGAACCCATTCCCCTGGTTAA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out80   CGCAAGGTCAACACCTGG-------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out81   CG-----------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out82   AAGGC--CGAAGGCCCGAACCCATCCTGGT--TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out83   CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out84   CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out85   AGGGC--CGAAGGCCCGAACCCCGCCTGGT--TAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out86   AAGGC--CGAAAGCCCGAACCCATCCTGGT--TAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out87   GACCGAAGGTTGGCCAACAACCTGGT------TAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out88   CGCAAGATCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out89   CGCAAAGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out90   AG---GCCGAAGGCCCGAACCCTCCTGGTTAA-----
+GCA_000686985.2_Bra_napus_v2.0_rm.out91   TGGTCGAAGGCTGGTCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out92   CGCAAGGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out93   GTAGGGCCGAAGGCCCGAACCCACCACCTGGTTAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out94   -------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out95   AAGGC--CGAAGGCTCGAACCCATCCTGGT--TAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out96   CGCAAGGTTAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out97   GTAGGGCCGAAGGCCCGAACCCACCACCTGGTTAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out98   CGTAAGGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out99   CGCAAGGTCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out100  CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out101  CGCAAGGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out102  CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out103  GC-----CGAAGGTCCGAACCCATCCCTTGGTTAA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out104  CGCAAGGTCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out105  CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out106  AAGGC--CGAAGGCCCGAACCCATCCTAGT--TAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out107  CGTAAGACCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out108  GTAGGGCCGAAGGCCCGAACCCACCACCCGGGTAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out109  AAGGC--CGAAAACCCGAACCCATCCTAGT--TAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out110  CGCAAGAACAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out111  AGGGC--CGAAGGC-----------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out112  AAGGC--CGAAGGCCCGAATCCATTCTGGT--TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out113  CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out114  TGCAAGATCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out115  CGCAAGGTCAACACCTGGTCAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out116  GTAGGGCCGAAGGC-----------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out117  GTAGGGCCGAAGGC-----------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out118  AGGGC--CGAAGGCCCGAACCCCGCCTGGT--TAA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out119  AGGAC--CGAAGGCCTGAACCCCGCCTGGT--TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out120  CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out121  GGCAAGACCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out122  CGCAAGGGCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out123  CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out124  CGCAAGGTCAATACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out125  TGGCCGAAGGCTGGTCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out126  TGGCCGAAGGTTGGCCAACACCTGGT------TAA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out127  CGCAAGGCCAACACCTGGCTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out128  AGGGC--CGAAGGCCCGAACCCCGCCTGGT--AAAC-
+GCA_000686985.2_Bra_napus_v2.0_rm.out129  AGGGC--CGAAGGC-----------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out130  -------------------------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out131  CGTAAGGTCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out132  CGCAAGGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out133  GTAGGGCCGAAGGCCCGAACCCACCACCTGGTTAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out134  TAA-GTCCGAAGGCCCGAACCCACCACCTGGTTAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out135  CGCAAAGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out136  CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out137  TGGCCGAAGGTTGGCCAACACCTGGT------TAA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out138  GTAGGGCCGAAGGCCTGAACCCACCCCCTGGTTAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out139  CGCAAGGTCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out140  CTCAAGGAAAACCTGGTTAAA----------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out141  CGCAAGAACACCTGGTTAA------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out142  AGGGC--CGAATGC-----------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out143  AGGAC--CGAAGACTCGAACCCCGCCTGGT--TAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out144  GTAGGGCCGAAGGCCCGAACCCACCACCTGGTTCAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out145  TGCTCGAAGGCTGGTCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out146  CGCAAGGCCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out147  C--AAGATAAACAACTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out148  GTAGGACCGAAGGCCCGAACCCACCACCTGGTTAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out149  CGCAAGGTCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out150  TGGCCGAAGGCTGGTCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out151  CGCAAGGCCAACACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out152  CGCAAGGCCAACATCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out153  AG---GCCGAAGGCCCGAACCCTCCTGATTAAA----
+GCA_000686985.2_Bra_napus_v2.0_rm.out154  CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out155  AGGGC--CGAAGGCCCGAACCCCGCCTGGT--TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out156  TGGCCGAAGGTTGGCCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out157  CGCAAGGCTAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out158  GTAGAGCCGAAGGCCCGAACCCACCACCTGGTTAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out159  GTAGGGCCGAAGGCCCGAACCCACCACCTGGTTAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out160  GTAGGGCCGAAGGCCCGAACCCACCACCTG-------
+GCA_000686985.2_Bra_napus_v2.0_rm.out161  TGGTCGAAGGCTGGTCAACACCTGGT------TA---
+GCA_000686985.2_Bra_napus_v2.0_rm.out162  AAGGCCA--AAGGCCCGAACCCATC--CTGGTTAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out163  CGCAAGATCAACACCTAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out164  GTAGGGCCGAAGGCCCGAACCCACCACCTGGTTAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out165  CGCAAGGTCACCACCTGGTTAAAC-------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out166  GGGCC--CAAGGCT-----------------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out167  GTAGGGCCGAAGGCCCGAACCCACCACCTGGTTAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out168  TGGCCGAAGGTTTGTCAACACCTGGT------TAA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out169  TGGCCGAAGGTTGGCCAACACCTGGT------TAA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out170  TGGTCGAAGGCTGGTCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out171  TGGCCGAAGGTTTGTCAACACCTGGT------TAA--
+GCA_000686985.2_Bra_napus_v2.0_rm.out172  TGGTCGAAGGCTGGTCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out173  CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out174  CGCAAGATCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out175  CGCAAGGTCAACACCTGGTTAAA--------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out176  TGACCGAAGACTGGTCAACACCTGGT------TAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out177  CGCAAGGTCAACACCTGGTTAA---------------
+GCA_000686985.2_Bra_napus_v2.0_rm.out178  AGGGC--CGAAGGCCCGAACCCCGCCTGGT--AAAA-
+GCA_000686985.2_Bra_napus_v2.0_rm.out179  GTAGGACCGAAGGCCCGAACCCACCACCTGGTTAAAC
+GCA_000686985.2_Bra_napus_v2.0_rm.out180  CGCAAGGTCACCACCTGGTTAAAC-------------
+//

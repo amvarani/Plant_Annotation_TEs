@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<tool name="Step 2: RepeatMasker" id="repeatmasker" version="0.0.1">
+	<description>
+		Step 2 of 4: RepeatMasker screens DNA sequences for interspersed repeats and low complexity DNA sequences
+	</description>
+	<command interpreter="bash">
+		ltr-preprocessing.sh repeatmasker $input '$input.name' $genome_sequences $repeatmasker_results
+	</command>
+	<inputs>
+		<param format="fasta" name="input" type="data" label="genome sequence"/>
+	</inputs>
+	<outputs>
+		<data format="tabular" name="genome_sequences" />
+		<data format="tabular" name="repeatmasker_results" />
+	</outputs>
+	<help>
+Running the program
+===================
+
+To run repeatmasker, follow the steps below,
+
+Click 'Execute'
+
+Output
+======
+
+License
+============
+
+Copyright 2015.
+You may redistribute this software under the terms of the GNU General Public License.
+</help>
+</tool>

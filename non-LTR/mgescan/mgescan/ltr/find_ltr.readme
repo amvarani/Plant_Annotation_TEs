@@ -1,0 +1,13 @@
+
+call_find_ltr_for_each_chr: (Run by a single file in a directory sequentially)
+  - find_ltr_pair: (SHOULD BE PARALLELIZED per file e.g. perl find_ltr_pair
+    2L.fa)
+    - get_sequence
+    - find_mem: trf, ltr
+    - make_bin: sort
+    - find_putative_ltr (Run each line): most time consuming. e.g. 629763 lines for 2L.fa
+      - check_putative_ltr
+        - find_sim (matcher)
+	- find_domain (transeq, hmmsearch): 1 transeq + 17 hmm3
+	  approx: 18 * 629763 system calls
+

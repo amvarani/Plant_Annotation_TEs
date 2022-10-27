@@ -1,0 +1,56 @@
+<tool id="sym1" name="Create a symlink to multiple datasets">
+    <description>Create a symlink and make a tree by tar</description>
+    <command interpreter="python">
+        symWrapper.py 
+        $out_file1 
+        $input1
+        #for $q in $queries
+            ${q.input2}
+        #end for
+    </command>
+    <inputs>
+        <param name="input1" type="data" label="Dataset"/>
+        <repeat name="queries" title="Dataset">
+            <param name="input2" type="data" label="Select" />
+        </repeat>
+    </inputs>
+    <outputs>
+        <data name="out_file1" format="input" metadata_source="input1"/>
+    </outputs>
+    <tests>
+        <test>
+            <param name="input1" value="1.bed"/>
+            <param name="input2" value="2.bed"/>
+            <output name="out_file1" file="sym_wrapper_out1.tar"/>
+        </test>
+    </tests>
+    <help>
+
+.. class:: warningmark
+
+**WARNING:** Be careful not to change/delete datasets on Galaxy. This tool creates a symlink to original dataset.
+
+-----
+
+**What it does**
+
+Create a link to multiple datasets by `ln -s` and `tar` commands.
+
+-----
+
+**Example**
+
+Dataset 1 is at database/files/000/dataset_001.dat
+
+and Dataset 2 is at database/files/000/dataset_002.dat
+
+and with Dataset 3 is at database/files/000/dataset_003.dat
+
+The result file (e.g. tree.tar) will contain symlink files in the following::
+
+    dataset_001.dat -> database/files/000/dataset_001.dat
+    dataset_002.dat -> database/files/000/dataset_002.dat
+    dataset_003.dat -> database/files/000/dataset_003.dat
+
+    </help>
+</tool>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<tool name="MGEScan-nonLTR" id="mgescan-nonltr" version="3.0.0"> <!--  workflow_compatible="false"> -->
+	<description>
+		computational identification and classification of non-LTR retroelements
+	</description>
+	<requirements>
+	<requirement type="package" version="3.0.0">mgescan</requirement>
+	<requirement type="package" version="4.0">tandem_repeats_finder</requirement>
+	<requirement type="package" version="5.0.0">emboss</requirement>
+	<requirement type="package" version="3.1b1">hmmer</requirement>
+	</requirements>
+	<command interpreter="bash">
+			mgescan.sh $input '$input.name' 3 None N $clade $qvalue_en $qvalue_rt None $nonltr_gff3
+	</command>
+	<inputs>
+		<param format="fasta" name="input" type="data" label="From"/>
+		<param name="hmmsearch_options" type="text" label="hmmsearch options e.g. -E 0.00001 reports sequences smaller than 0.00001 E-value threshold in output) " value="-E 0.00001"/> 
+		<param name="phmm_file" type="text" size="60" label="phmm file for RT signal" value="https://raw.githubusercontent.com/MGEScan/mgescan/master/mgescan/nonltr/pHMM/ebi_ds36752_seq.hmm3"/>
+		<param name="phmm_file2" type="text" size="60" label="phmm file for APE signal" value="https://raw.githubusercontent.com/MGEScan/mgescan/master/mgescan/nonltr/pHMM/ebi_ds36736_seq.hmm3" />
+		<param name="transeq_options" type="text" label="transeq options"/>
+	</inputs>
+	<outputs>
+		<data format="fasta" name="clade" />
+		<data format="qfile" name="qvalue_en" />
+		<data format="qfile" name="qvalue_rt" />
+		<data format="gff3" name="nonltr_gff3" />
+	</outputs>
+	<help>
+
+Running the program
+===================
+
+To run MGEScan-nonLTR, follow the steps below:
+
+1. Select genome files a select box. You can upload your genome files through 'Get Data' at Tools menu bar.
+
+2. Click 'Execute' button. This tool reads your genome files and runs the whole process. 
+
+Output
+======
+
+Upon completion, MGEScan-nonLTR generates output, "info" in the data directory you specified. In this "info" directory, two sub-directories ("full" and "validation") are generated.
+
+ - The "full" directory is for storing sequences of elements. Each subdirectory in "full" is the name of clade. In each directory of clade, the DNA sequences of nonLTRs identified are listed. Each sequence is in fasta format. The header contains the position information of TEs identified, [genome_file_name]_[start position in the sequence]
+
+ - For example, >chr1_333 means that this element start at 333bp in the "chr1" file. - The "validation" directory is for storing Q values. In the files "en" and "rt", the first column corresponds to the element name and the last column Q value. 
+
+License
+============
+Copyright 2015.
+You may redistribute this software under the terms of the GNU General Public License.
+
+	</help>
+</tool>

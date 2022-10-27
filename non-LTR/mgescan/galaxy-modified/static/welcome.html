@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="style/base.css" type="text/css" />
+</head>
+<body>
+	<div class="document">
+		<p><font color="red"> Warning: Internet Explorer is not supported. Try Firefox, Google Chrome, or Safari. </font> </p>
+        <!--div class="donemessagelarge"-->
+	<code><h1>MGEScan on Galaxy Workflow System</h1> MGEScan is now avaiable on a Galaxy workflow system for identifying long terminal repeats (LTR) and non-LTR retroelements in eukaryotic genomic sequences. With a Galaxy scientific workflow system, MGEScan becomes easier to manage input and output data through its rich and flexible web interface. UCSC Table Browser, ENA Browser or local storage is used to obtain input genome sequences including a traditional file upload.  HMMER 3.1b1 is applied to gain speed boosts compared to a previous version HMMER 2+. In addition Generic Feature Format Version 3 is used for visualization of genome sequence data via a web-based genome browser e.g. UCSC Genome Browser or Ensembl Genome Browser. <br><br>
+		MGESCan is also accessible through Amazon Cloud (EC2), Galaxy Tool Shed or Published Workflow on the public galaxy server (usegalaxy.org) </code>
+	    
+        </div>
+	<br/>
+	<!--img src="images/mgescan.png" alt="MGEScan" style="display: block; margin-left: auto; margin-right: auto;" /-->
+	<div align="center"><iframe width="420" height="315" src="//www.youtube.com/embed/YtjyMlfsacI" frameborder="0" allowfullscreen></iframe></div>
+	<br/>
+	Developed and maintained by Hyungro Lee at Indiana University, Bloomington IN, USA.
+	<hr/>
+	<h1> Quick Start</h1>
+	<ul>
+		<li>
+		<b> Upload your input data via 'Get Data'</b>
+		</li>
+		<li>
+		<b> Open MGEScan > MGEScan </b>
+		</li>
+		<li>
+		<b> Select your input genome data to run MGEScan </b>
+		</li>
+		<li>
+		<b> Select programs either both, LTR, or nonLTR </b>
+		</li>
+		<li>
+		<b> Click 'Execute' to run MGEScan</b>
+		</li>
+	</ul>
+	<h1> Tutorial </h1>
+	<a href="http://mgescan.readthedocs.org/en/latest/tutorial.html">First step of how to use MGEScan on Galaxy</a>
+	<br>
+	<a href="http://mgescan.readthedocs.org/en/latest/aws.html">MGEScan on Amazon Cloud (EC2)</a>
+	<br/><br/>
+	Documentation: <a href="http://mgescan.readthedocs.org/en/latest/" target="_blank"> http://mgescan.readthedocs.org/en/latest/ </a>
+	<br/>
+	Source (github): <a href="https://github.com/MGEScan/mgescan" target="_blank">https://github.com/MGEScan/mgescan</a>
+	<hr/>
+	<br/>
+	<h1>Citation</h1>
+	If you use MGEScan on Galaxy in your projects, please use this citation here: <br/>
+	Authors, (YYYY) - Title with a link, Publication
+	<hr/>
+	<br/>
+	<h1>References</h1>
+	<b>1. Lee, Hyungro, et al. MGEScan: a Galaxy-based system for identifying retrotransposons in genomes. Bioinformatics 32.16 (2016): 2502-2504.</b>
+	<br>
+	<b>2. M. Rho, S. Schaack, X. Gao, S. Kim, M. Lynch and H. Tang (2010), LTR retroelements in the genome of Daphnia pulex, BMC Genomics, 11:425. Pubmed.</b>
+	<br>
+	<b>3. M. Rho and H. Tang (2009), MGEScan-nonLTR: computational identification and classification of Non-LTR retrotransposons in eukaryotic genomes. Nucleic Acid Res, 37(21):e143. Free fulltext at NAR online</b>
+	<br/>
+	<b>4. M. Rho, J. H. Choi, S. Kim, M. Lynch and H. Tang (2007), De novo identification of LTR retrotransposons in eukaryotic genomes. BMC Genomics, 8:90. Pubmed.</b>
+
+	<br/>
+	<!--
+	<code>
+
+		Transposable elements (TEs), also called mobile genetic elements (MGE), have been found in most eukaryotic genomes. TEs often constitute a significant portion of the eukaryotic genome (e.g., 80% of the maize, 45% of the human, and 5.3% of the fruit fly genome) and play important roles in shaping its structure. Because they can transpose from one location to another within the genome or across genomes, the identification of TEs and the analysis of their dynamics are important for a better understanding of the structure and evolution of both genomes and TEs themselves. Thus, we developed a computational method MGEScan to identify long terminal repeats (LTR) and non-LTR retroelements in eukaryotic genomic sequences. MGEScan-LTR is a de novo method to identify LTR retroelements, an important class of TEs that transpose through reverse transcription of RNA intermediates. Intact LTR retroelements were identified using multiple empirical rules: similarity of a pair of LTRs at the both ends, the structure of internal regions (IRs), di(tri)-nucleotides at flanking ends, and target site duplications (TSDs).  The intact elements identified were clustered into families based on the sequence similarity of LTRs between elements (>80%). These frameworks were applied to indentify a large number of novel elements, which were subsequently analyzed to estimate the evolutionary history and relationships of TEs. MGEScan-nonLTR is a computational approach inspired by a generalized hidden Markov model (GHMM) to identify non-LTR retroelements in genomic sequences. To model common features of non-LTR retroelements in a large variety of genomes, we built a model consisting of twelve super-states, each corresponding to a different clade (for example, I, Jockey, and R1). Each super-state consists of one to three states, corresponding to protein domains and linker regions encoded by the non-LTR retroelements. To evaluate the scores for the state of protein domains and inter-domain region, we adopted two probabilistic models, a profile HMM (for the protein domains) and a Gaussian Bayes classifier (for the linker regions). MGEScan-nonLTR was tested on the genome sequences of four eukaryotic organisms, Drosophila melanogaster, Daphnia pulex, Ciona intestinalis, and Strongylocentrotus purpuratus. Notably, for the D. pulex genome, MGEScan-nonLTR found a significantly larger number of elements than did RepeatMasker, using the current version of the RepBase Update library.</code>
+	-->
+	<br>
+	<h2>License</h2>
+	<br>
+	 Copyright 2015.
+	<br>
+	 You may redistribute this software under the terms of the GNU General Public License.
+	 <br>
+	 <br>
+
+    </div>
+</body>
+</html>

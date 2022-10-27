@@ -1,0 +1,9 @@
+Note
+-----------------------------------
+hmmbuild used for hmm3 files
+hmmconvert used for hmmc files
+
+ds36736 from ebi
+-----------------
+To build hmm3 files, descriptions at the top of the original files removed and 'CLUSTAL W (1.83) multiple sequence alignment' added.
+Also empty line added at the bottom of the file.

@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<tool name="MGEScan-LTR" id="mgescan-ltr" version="3.0.0">
+	<description>
+		de novo identification of LTR retroelements
+	</description>
+	<requirements>
+	<requirement type="package" version="3.0.0">mgescan</requirement>
+	<requirement type="package" version="4.0">tandem_repeats_finder</requirement>
+	<requirement type="package" version="5.0.0">emboss</requirement>
+	<requirement type="package" version="3.1b1">hmmer</requirement>
+	</requirements>
+	<command interpreter="bash">
+		mgescan.sh $input '$input.name' 3 $output L None None None $ltr_gff3 None None $sw_rm "$scaffold" $min_dist $max_dist $min_len_ltr $max_len_ltr $ltr_sim_condition $cluster_sim_condition $len_condition $repeatmasker
+	</command>
+	<inputs>
+		<param format="fasta" name="input" type="data" label="From"/>
+		<!-- path.conf -->
+		<param name="sw_rm" type="select" display="checkboxes" multiple="True" label="enable repeatmasker, if necessary" help="Use this option if repeatmasker is required to identify and annotate repetitive elements in nucleotide sequences"> 
+			<option value="Yes">Yes</option>
+		</param>
+		<param name="scaffold" type="text" label="path for the big file that has all scaffolds"/>
+		<!-- value.conf -->
+		<param name="min_dist" type="text" value="2000" label="minimum distance(bp) between LTRs" />
+		<param name="max_dist" type="text" value="20000" label="maximum distance(bp) between LTRs" />
+		<param name="min_len_ltr" type="text" value="130" label="minimum length(bp) of LTR"/>
+		<param name="max_len_ltr" type="text" value="2000" label="maximum length(bp) of LTR"/>
+		<param name="ltr_sim_condition" type="text" value="70" label="minimum similarity(%) for LTRs in an element"/>
+		<param name="cluster_sim_condition" type="text" value="70" label="inimum similarity(%) for LTRs in a cluster"/>
+		<param name="len_condition" type="text" value="70" label="minimum length(bp) for LTRs aligned in local alignment"/>
+	</inputs>
+	<outputs>
+		<data format="ltr.out" name="output" />
+		<data format="gff3" name="ltr_gff3" />
+		<data format="repeatmasker" name="repeatmasker" >
+			<filter>sw_rm == "Yes"</filter>
+		</data>
+	</outputs>
+	<help>
+Running the program
+===================
+
+To run MGEScan-LTR, follow the steps below,
+
+1. Specify options that you like to have:
+
+   * Check repeatmasker if you want to preprocess
+   * Check scaffold if the input file has all scaffolds.
+
+2. Update values:
+
+   * min_dist: minimum distance(bp) between LTRs.
+   * max_dist: maximum distance(bp) between LTRS
+   * min_len_ltr: minimum length(bp) of LTR.
+   * max_len_ltr: maximum length(bp) of LTR.
+   * ltr_sim_condition: minimum similarity(%) for LTRs in an element.
+   * cluster_sim_condition: minimum similarity(%) for LTRs in a cluster
+   * len_condition: minimum length(bp) for LTRs aligned in local alignment.
+
+4. Click 'Execute'
+
+   * mask known repeats other than LTR retrotransposons
+   * identify LTRs
+
+Output
+======
+
+Upon completion, MGEScan-LTR generates a file ltr.out. This output file has information
+about clusters and coordinates of LTR retrotransposons identified. Each cluster of LTR
+retrotransposons starts with the head line of [cluster_number]---------, followed by
+the information of LTR retrotransposons in the cluster. The columns for LTR
+retrotransposons are as follows.
+
+1. LTR_id: unique id of LTRs identified. It consist of two components, sequence file name and id in the file. For example, chr1_2 is the second LTR retrotransposon in the chr1 file.
+2. start position of 5 LTR.
+3. end position of 5 LTR.
+4. start position of 3 LTR.
+5. end position of 3 LTR.
+6. strand: + or -.
+7. length of 5 LTR.
+8. length of 3 LTR.
+9. length of the LTR retrotransposon.
+10. TSD on the left side of the LTR retotransposons.
+11. TSD on the right side of the LTR retrotransposons.
+12. di(tri)nucleotide on the left side of 5LTR
+13. di(tri)nucleotide on the right side of 5LTR
+14. di(tri)nucleotide on the left side of 3LTR
+15. di(tri)nucleotide on the right side of 3LTR 
+
+License
+============
+
+Copyright 2015.
+You may redistribute this software under the terms of the GNU General Public License.
+</help>
+</tool>

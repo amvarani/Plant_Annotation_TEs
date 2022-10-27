@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<tool name="Step 2: Reversing Complement" id="nonltr-reverseq" version="0.0.1"> <!--  workflow_compatible="false"> -->
+	<description>
+		Step 2 of 5: Reverse Complement
+	</description>
+	<command interpreter="bash">
+			nonltr.sh reverseq $input '$input.name' 3 $clade
+			<!--mgescan.sh $input $input.name 3 None N $clade $qvalue_en $qvalue_rt None $nonltr_gff3-->
+	</command>
+	<inputs>
+		<param format="fasta" name="input" type="data" label="From"/>
+	</inputs>
+	<outputs>
+		<data format="fasta" name="clade" />
+	</outputs>
+	<help>
+
+Running the program
+===================
+
+License
+============
+Copyright 2015.
+You may redistribute this software under the terms of the GNU General Public License.
+
+	</help>
+</tool>

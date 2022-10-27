@@ -1,0 +1,135 @@
+############################################################
+#Sequence ontology for TEs.
+#The first column: case sensitive, exact SO names used by the SO database: http://www.sequenceontology.org
+#The second column: SO IDs used by the database.
+#The third column and further: alias used in everywhere, which are used to make connections with the SO ID. 
+#	Alias are commer separated with or without spaces. 
+#All commented lines will be ignored.
+#Author: Shujun Ou (shujun.ou.1@gmail.com) 07/02/2020
+#Update: 03/15/2022
+############################################################
+
+
+#######################
+####### Warning #######
+#######################
+# Everytime you add new SO entries to this file, you also need to update the EDTA/util/gff2bed.pl file, 
+#  so that $type can be correctly recognized from Sequence Ontologies listed on the first column of this file.
+
+
+#######################
+## Enhancement notes ##
+#######################
+# These terms do not have their own SO terms and are put under a generic SO
+# TIR/PiggyBac	SO:0000182	DNA_transposon
+# TIR/Sola2	SO:0000182	DNA_transposon
+# rDNA/45S	SO:0002360	rRNA_gene
+
+
+#######################
+####### Contents ######
+#######################
+#Sequence_Ontology	SO_ID	Alias
+centromeric_repeat	SO:0001797	centromeric_repeat,Cent,Cent/CentC,CentC,CentM,Centro/tandem,Cent/centromeric_repeat
+knob	SO:0002257	knob,knob/knob180,knob/TR-1
+satellite_DNA	SO:0000005	satellite_DNA,Satellite/rice,satellite,minisatellite,microsatellite,Satellite/Satellite
+telomeric_repeat	SO:0001496	telomeric_repeat,telomere,telomeric,telomere/telomere
+subtelomere	SO:0001997	subtelomere,subtelomere/4-12-1
+low_complexity	SO:0001004	low_complexity,Low_complexity,low_complexity_region,Simple_repeat
+rDNA_intergenic_spacer_element	SO:0001860	rDNA_intergenic_spacer_element,rDNA/spacer,rDNA/IGS
+2S_rRNA_gene	SO:0002336	2S_rRNA_gene,rRNA_2S_gene,cytosolic_rRNA_2S_gene,rDNA/2S,2S_rRNA
+5S_rRNA_gene	SO:0002238	5S_rRNA_gene,cytosolic_rRNA_5S_gene,rDNA/5S,5S_rRNA
+5_8S_rRNA_gene	SO:0002240	5_8S_rRNA_gene,cytosolic_rRNA_5_8S_gene,rDNA/5.8S,5.8S_rRNA,rDNA/5_8S,5_8S_rRNA
+23S_rRNA_gene	SO:0002243	23S_rRNA_gene,rDNA/23S,23S_rRNA
+25S_rRNA_gene	SO:0002242	25S_rRNA_gene,rDNA/25S,25S_rRNA
+28S_rRNA_gene	SO:0002239	28S_rRNA_gene,rDNA/28S,28S_rRNA
+18S_rRNA_gene	SO:0002236	18S_rRNA_gene,cytosolic_rRNA_18S_gene,rDNA/18S,18S_rRNA
+16S_rRNA_gene	SO:0002237	16S_rRNA_gene,cytosolic_rRNA_16S_gene,rDNA/16S,16S_rRNA
+rRNA_gene	SO:0002360	rRNA_gene,rDNA/45S
+rRNA	SO:0000252	rRNA
+
+#higher	order
+repeat_region	SO:0000657	repeat_region,Unknown,unknown,unknown/unknown,NA/NA,Unknown/NA,Unknown/unknown,Unspecified,repeat/unknown,unknown/NA
+retrotransposon	SO:0000180	Class_I,RNA_transposon,retrotransposon
+#DNA_transposon	SO:0000182	Class_II,DNA_transposon,DNA/unknown,TIR/PiggyBac,TIR/Sola2
+DNA_transposon SO:0000182      Class_II,DNA_transposon,DNA/unknown,TIR/Sola2
+
+
+#TIR	DNA	transposons
+terminal_inverted_repeat_element	SO:0000208	terminal_inverted_repeat_element,TIR/unknown,TIR/Unknown,DNA/DTX,DTX,DNAauto/unknown,DNAnona/unknown,DNAauto/PILE,DNAnona/PILE,DNAauto/POLE,DNAnona/POLE,DNA/PILE,MITE/PILE,DNA/POLE,MITE/POLE
+MITE	SO:0000338	MITE,TIR/MITE,MITE/unknown,MITE/NA
+CACTA_TIR_transposon	SO:0002285	CACTA_TIR_transposon,DNAauto/CACTA,DNAnona/CACTA,DNAauto/CACTG,DNAnona/CACTG,DNA/DTC,MITE/DTC,DTC,dSpm,CACTC,En-Spm,EnSpm,CMC-EnSpm,DNA/CACTA,DNA/CACTG,MITE/CACTA,MITE/CACTG,TIR/EnSpm_CACTA,DNA/EnSpm_CACTA,DNA/CMC-EnSpm,TIR/EnSpm_CACTA,TIR/EnSpm_CACTA-like
+hAT_TIR_transposon	SO:0002279	hAT_TIR_transposon,DNAauto/hAT,DNAnona/hAT,MITE/DTA,DNA/DTA,DTA,hAT,Ac-Ds,Ac/Ds,hAT-Ac,DNA/hAT,MITE/hAT,TIR/hAT,DNA/hAT-Ac,TIR/hAT-like
+Mutator_TIR_transposon	SO:0002280	Mutator_TIR_transposon,DNAauto/MULE,DNAnona/MULE,DNAnona/MULEtir,MITE/DTM,DNA/DTM,DTM,Mutator,MuDR,DNA/MULE,DNA/MULEtir,MITE/MULE,MITE/MULEtir,MULEtir,TIR/MuDR_Mutator,DNA/Mutator,DNA/MuDR,DNA/MULE-MuDR,TIR/MuDR_Mutator-like
+PIF_Harbinger_TIR_transposon	SO:0002284	PIF_Harbinger_TIR_transposon,DNAnona/Tourist,MITE/Tourist,MITE/DTH,DNA/DTH,DTH,PIF-Harbinger,PIF/Harbinger,Harbinger,Tourist,DNA/Tourist,TIR/PIF_Harbinger,DNA/Harbinger,DNA/PIF-Harbinger,TIR/PIF_Harbinger-like
+Tc1_Mariner_TIR_transposon	SO:0002278	Tc1_Mariner_TIR_transposon,stowaway,Stowaway,DNA/DTT,MITE/Stow,MITE/DTT,DTT,Tc1-Mariner,Tc1_Mariner,Tc1_mariner,Tc1/Mariner,TcMar-Stowaway,DNAauto/MLE,DNAnona/MLE,DNA/MLE,MITE/MLE,TIR/Tc1_Mariner,DNA/Tc1-Mariner,DNA/TcMar-Pogo,DNA/Mariner,TIR/Tc1_Mariner-like
+P_TIR_transposon	SO:0001535	P_TIR_transposon,P-element,P_element,DNA/DTP,TIR/P_element,DNA/P_element,TIR/P_element-like,DNA/P_element-like
+piggyBac_TIR_transposon	SO:0002283	piggyBac_TIR_transposon,PiggyBac,DNA/DTB,MITE/DTB,TIR/PiggyBac,DNA/PiggyBac,TIR/PiggyBac-like,DNA/PiggyBac-like
+polinton	SO:0001170	polinton,maverick,Maverick,DNA/Maverick,TIR/Maverick,DNA/Maverick-like,TIR/Maverick-like
+Transib_TIR_transposon	SO:0002282	Transib_TIR_transposon,transib,DNA/DTR,MITE/DTR,TIR/Transib,DNA/Transib,TIR/Transib-like,DNA/Transib-like
+Merlin_TIR_transposon	SO:0002281	Merlin_TIR_transposon,Merlin,DNA/DTE,MITE/DTE,TIR/Merlin,DNA/Merlin,TIR/Merlin-like,DNA/Merlin-like
+
+#nonTIR	DNA	transposons
+Crypton_YR_transposon	SO:0002277	Crypton_YR_transposon,Crypton,DNA/DYC,DYC,DNA/Crypton,DNA/Crypton_YR_transposon,DNA/Crypton-like,DNA/Crypton_YR_transposon-like
+helitron	SO:0000544	helitron,DNAauto/Helitron,DNAnona/Helitron,DNA/Helitron,Helitron,RC/Helitron,DNA/Helitron/non-autonomous,DNA/Helitron/autonomous,DNA/Helitron/non-auto,RC/Helitron/non-autonomous,RC/Helitron/autonomous
+
+#LTR	retrotransposons
+LTR_retrotransposon	SO:0000186	LTR_retrotransposon,LTR/unknown,LTR/Unknown,LTR/Solo,LTR/Caulimoviridae,LTR/Caulimoviridae/badnavirus,LTR/Caulimoviridae/caulimovirus,LTR/mixture
+Retrovirus_LTR_retrotransposon	SO:0002267	Retrovirus_LTR_retrotransposon,LTR/retrovirus,retrovirus,LTR/RLR,RLR
+TRIM	SO:0002261	TRIM,LTR/TRIM,TRIM/NA
+LARD	SO:0002260	LARD,LTR/LARD,LARD/NA
+####
+####
+####
+####
+TR_GAG	SO:0000186	TR_GAG,TR_GAG/NA,LTR/TR_GAG,LTR/TR_GAG/Unknown,TR_GAG/Unknown,TR_GAG/Copia/Ale,TR_GAG/Copia/Alesia,TR_GAG/Copia/Angela,TR_GAG/Copia/Bianca,TR_GAG/Copia/Bryco,TR_GAG/Copia/Lyco,TR_GAG/Copia/Gymco-III,TR_GAG/Copia/Gymco-I,TR_GAG/Copia/Gymco-II,TR_GAG/Copia/Ikeros,TR_GAG/Copia/Ivana,TR_GAG/Copia/Gymco-IV,TR_GAG/Copia/Osser,TR_GAG/Copia/SIRE,TR_GAG/Copia/TAR,TR_GAG/Copia/Tork,TR_GAG/Copia/Ty1-outgroup,TR_GAG/Copia/Ale-like,TR_GAG/Copia/Alesia-like,TR_GAG/Copia/Angela-like,TR_GAG/Copia/Bianca-like,TR_GAG/Copia/Bryco-like,TR_GAG/Copia/Lyco-like,TR_GAG/Copia/Gymco-III-like,TR_GAG/Copia/Gymco-I-like,TR_GAG/Copia/Gymco-II-like,TR_GAG/Copia/Ikeros-like,TR_GAG/Copia/Ivana-like,TR_GAG/Copia/Gymco-IV-like,TR_GAG/Copia/Osser-like,TR_GAG/Copia/SIRE-like,TR_GAG/Copia/TAR-like,TR_GAG/Copia/Tork-like,TR_GAG/Copia/Ty1-outgroup-like,TR_GAG/Gypsy/non-chromo-outgroup,TR_GAG/Gypsy/non-chromo-outgroup-like,TR_GAG/Gypsy/Phygy,TR_GAG/Gypsy/Phygy-like,TR_GAG/Gypsy/Selgy,TR_GAG/Gypsy/Selgy-like,TR_GAG/Gypsy/OTA,TR_GAG/Gypsy/OTA-like,TR_GAG/Gypsy/Athila,TR_GAG/Gypsy/Athila-like,TR_GAG/Gypsy/TatI,TR_GAG/Gypsy/TatI-like,TR_GAG/Gypsy/TatII,TR_GAG/Gypsy/TatII-like,TR_GAG/Gypsy/TatIII,TR_GAG/Gypsy/TatIII-like,TR_GAG/Gypsy/Ogre,TR_GAG/Gypsy/Ogre-like,TR_GAG/Gypsy/Retand,TR_GAG/Gypsy/Retand-like,TR_GAG/Gypsy/Chlamyvir,TR_GAG/Gypsy/Chlamyvir-like,TR_GAG/Gypsy/Tcn1,TR_GAG/Gypsy/Tcn1-like,TR_GAG/Gypsy/chromo-outgroup,TR_GAG/Gypsy/chromo-outgroup-like,TR_GAG/Gypsy/CRM,TR_GAG/Gypsy/CRM-like,TR_GAG/Gypsy/Galadriel,TR_GAG/Gypsy/Galadriel-like,TR_GAG/Gypsy/Tekay,TR_GAG/Gypsy/Tekay-like,TR_GAG/Gypsy/Reina,TR_GAG/Gypsy/Reina-like,TR_GAG/Gypsy/chromo-unclass,TR_GAG/Gypsy/chromo-unclass-like
+####
+####
+####
+####
+BARE-2	SO:0000186	BARE-2,BARE-2/NA,LTR/BARE-2,LTR/BARE-2/Unknown,BARE-2/Unknown,BARE-2/Copia/Ale,BARE-2/Copia/Alesia,BARE-2/Copia/Angela,BARE-2/Copia/Bianca,BARE-2/Copia/Bryco,BARE-2/Copia/Lyco,BARE-2/Copia/Gymco-III,BARE-2/Copia/Gymco-I,BARE-2/Copia/Gymco-II,BARE-2/Copia/Ikeros,BARE-2/Copia/Ivana,BARE-2/Copia/Gymco-IV,BARE-2/Copia/Osser,BARE-2/Copia/SIRE,BARE-2/Copia/TAR,BARE-2/Copia/Tork,BARE-2/Copia/Ty1-outgroup,BARE-2/Copia/Ale-like,BARE-2/Copia/Alesia-like,BARE-2/Copia/Angela-like,BARE-2/Copia/Bianca-like,BARE-2/Copia/Bryco-like,BARE-2/Copia/Lyco-like,BARE-2/Copia/Gymco-III-like,BARE-2/Copia/Gymco-I-like,BARE-2/Copia/Gymco-II-like,BARE-2/Copia/Ikeros-like,BARE-2/Copia/Ivana-like,BARE-2/Copia/Gymco-IV-like,BARE-2/Copia/Osser-like,BARE-2/Copia/SIRE-like,BARE-2/Copia/TAR-like,BARE-2/Copia/Tork-like,BARE-2/Copia/Ty1-outgroup-like,BARE-2/Gypsy/non-chromo-outgroup,BARE-2/Gypsy/non-chromo-outgroup-like,BARE-2/Gypsy/Phygy,BARE-2/Gypsy/Phygy-like,BARE-2/Gypsy/Selgy,BARE-2/Gypsy/Selgy-like,BARE-2/Gypsy/OTA,BARE-2/Gypsy/OTA-like,BARE-2/Gypsy/Athila,BARE-2/Gypsy/Athila-like,BARE-2/Gypsy/TatI,BARE-2/Gypsy/TatI-like,BARE-2/Gypsy/TatII,BARE-2/Gypsy/TatII-like,BARE-2/Gypsy/TatIII,BARE-2/Gypsy/TatIII-like,BARE-2/Gypsy/Ogre,BARE-2/Gypsy/Ogre-like,BARE-2/Gypsy/Retand,BARE-2/Gypsy/Retand-like,BARE-2/Gypsy/Chlamyvir,BARE-2/Gypsy/Chlamyvir-like,BARE-2/Gypsy/Tcn1,BARE-2/Gypsy/Tcn1-like,BARE-2/Gypsy/chromo-outgroup,BARE-2/Gypsy/chromo-outgroup-like,BARE-2/Gypsy/CRM,BARE-2/Gypsy/CRM-like,BARE-2/Gypsy/Galadriel,BARE-2/Gypsy/Galadriel-like,BARE-2/Gypsy/Tekay,BARE-2/Gypsy/Tekay-like,BARE-2/Gypsy/Reina,BARE-2/Gypsy/Reina-like,BARE-2/Gypsy/chromo-unclass,BARE-2/Gypsy/chromo-unclass-like
+####
+####
+####
+####
+Copia_LTR_retrotransposon	SO:0002264	Copia_LTR_retrotransposon,LTR/Copia,LTR/RLC,RLC,Copia,Ty1,LTR/Copia/Ale,LTR/Copia/Alesia,LTR/Copia/Angela,LTR/Copia/Bianca,LTR/Copia/Bryco,LTR/Copia/Lyco,LTR/Copia/Gymco-III,LTR/Copia/Gymco-I,LTR/Copia/Gymco-II,LTR/Copia/Ikeros,LTR/Copia/Ivana,LTR/Copia/Gymco-IV,LTR/Copia/Osser,LTR/Copia/SIRE,LTR/Copia/TAR,LTR/Copia/Tork,LTR/Copia/Ty1-outgroup,LTR/Copia/Ale-like,LTR/Copia/Alesia-like,LTR/Copia/Angela-like,LTR/Copia/Bianca-like,LTR/Copia/Bryco-like,LTR/Copia/Lyco-like,LTR/Copia/Gymco-III-like,LTR/Copia/Gymco-I-like,LTR/Copia/Gymco-II-like,LTR/Copia/Ikeros-like,LTR/Copia/Ivana-like,LTR/Copia/Gymco-IV-like,LTR/Copia/Osser-like,LTR/Copia/SIRE-like,LTR/Copia/TAR-like,LTR/Copia/Tork-like,LTR/Copia/Ty1-outgroup-like
+####
+####
+####
+####
+Gypsy_LTR_retrotransposon	SO:0002265	Gypsy_LTR_retrotransposon,LTR/Gypsy,LTR/RLG,RLG,Gypsy,Ty3,LTR/Gypsy/non-chromo-outgroup,LTR/Gypsy/non-chromo-outgroup-like,LTR/Gypsy/Phygy,LTR/Gypsy/Phygy-like,LTR/Gypsy/Selgy,LTR/Gypsy/Selgy-like,LTR/Gypsy/OTA,LTR/Gypsy/OTA-like,LTR/Gypsy/Athila,LTR/Gypsy/Athila-like,LTR/Gypsy/TatI,LTR/Gypsy/TatI-like,LTR/Gypsy/TatII,LTR/Gypsy/TatII-like,LTR/Gypsy/TatIII,LTR/Gypsy/TatIII-like,LTR/Gypsy/Ogre,LTR/Gypsy/Ogre-like,LTR/Gypsy/Retand,LTR/Gypsy/Retand-like,LTR/Gypsy/Chlamyvir,LTR/Gypsy/Chlamyvir-like,LTR/Gypsy/Tcn1,LTR/Gypsy/Tcn1-like,LTR/Gypsy/chromo-outgroup,LTR/Gypsy/chromo-outgroup-like,LTR/Gypsy/CRM,LTR/Gypsy/CRM-like,LTR/Gypsy/Galadriel,LTR/Gypsy/Galadriel-like,LTR/Gypsy/Tekay,LTR/Gypsy/Tekay-like,LTR/Gypsy/Reina,LTR/Gypsy/Reina-like,LTR/Gypsy/chromo-unclass,LTR/Gypsy/chromo-unclass-like
+####
+####
+####
+####
+Bel_Pao_LTR_retrotransposon	SO:0002266	Bel_Pao_LTR_retrotransposon,LTR/Bel-Pao,LTR/RLB,Bel-Pao,Bel/Pao
+Endogenous_Retrovirus_LTR_retrotransposon	SO:0002268	Endogenous_Retrovirus_LTR_retrotransposon,LTR/HERV,HERV,LTR/ERV,LTR/RLE,RLE
+
+
+#nonLTR	retrotransposons
+non_LTR_retrotransposon	SO:0000189	Evirus/ERTBV-A,Evirus/ERTBV-B,Evirus/ERTBV-C,Evirus/ERTBV,pararetrovirus,non_LTR_retrotransposon,non_LTR,nonLTR/unknown,pararetrovirus/NA,LTR/pararetrovirus
+LINE_element	SO:0000194	LINE_element,LINE/unknown,LINE,LINE-like,LINE-like/NA
+R2_LINE_retrotransposon	SO:0002269	R2_LINE_retrotransposon,LINE/R2,LINE/RIR,nonLTR/RIR,RIR
+Jockey_LINE_retrotransposon	SO:0002271	Jockey_LINE_retrotransposon,LINE/Jockey,LINE/RIJ,nonLTR/RIJ,RIJ
+L1_LINE_retrotransposon	SO:0002272	L1_LINE_retrotransposon,LINE/L1,LINE/RIL,nonLTR/RIL,RIL,LINE-1
+Tx1_LINE_retrotransposon	SO:0000194	Tx1_LINE_retrotransposon,LINE/Tx1,LINE-Tx1
+I_LINE_retrotransposon	SO:0002273	I_LINE_retrotransposon,LINE/I,LINE/RII,nonLTR/RII
+RTE_LINE_retrotransposon	SO:0002270	RTE_LINE_retrotransposon,LINE/RTE,LINE/RIT,nonLTR/RIT,RIT
+SINE_element	SO:0000206	SINE_element,SINE/unknown,SINE,SINE/NA
+tRNA_SINE_retrotransposon	SO:0002274	tRNA_SINE_retrotransposon,SINE/tRNA,SINE/RST,nonLTR/RST,RST
+5S_SINE_retrotransposon	SO:0002276	5S_SINE_retrotransposon,SINE/5S,SINE/RSS,nonLTR/RSS,RSS
+7SL_SINE_retrotransposon	SO:0002275	7SL_SINE_retrotransposon,SINE/7SL,SINE/RSL,nonLTR/RSL,RSL
+YR_retrotransposon	SO:0002286	YR_retrotransposon,YR/unknown
+Ngaro_YR_retrotransposon	SO:0002288	Ngaro_YR_retrotransposon,YR/Ngaro,YR/RYN,Ngaro,RYN
+DIRS_YR_retrotransposon	SO:0002287	DIRS_YR_retrotransposonYR/DIRS,YR/RYD,DIRS,RYD
+Viper_YR_retrotransposon	SO:0002289	Viper_YR_retrotransposon,YR/Viper,YR/RYV,Viper,RYV
+Penelope_retrotransposon	SO:0002290	Penelope_retrotransposon,Penelope,nonLTR/RPP,RPP
+
+#parts
+terminal_inverted_repeat	SO:0000481	terminal_inverted_repeat,TIR
+target_site_duplication	SO:0000434	target_site_duplication,TSD
+primer_binding_site	SO:0005850	primer_binding_site,PBS
+long_terminal_repeat	SO:0000286	long_terminal_repeat,LTR
+U_box	SO:0001788	U_box
+RR_tract	SO:0000435	poly_purine_tract,RR_tract
+

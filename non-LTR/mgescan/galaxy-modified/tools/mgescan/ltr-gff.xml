@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<tool name="Step 4: gff converter" id="ltr-gff" version="0.0.1">
+	<description>
+		Step 4 of 4 in MGEScan-LTR: Generate gff3 for ltr.out to visualize.
+	</description>
+	<command interpreter="bash">
+		ltr-gff.sh $input '$input.name' $output
+	</command>
+	<inputs>
+		<param format="txt" name="input" type="data" label="ltr.out"/>
+	</inputs>
+	<outputs>
+		<data format="gff3" name="output" />
+	</outputs>
+	<help>
+Running the program
+===================
+
+This step converts ltr.out to gff3 file so that the results can be displayed via UCSC Genome Browser or Ensembl.
+
+License
+============
+
+Copyright 2015.
+You may redistribute this software under the terms of the GNU General Public License.
+</help>
+</tool>

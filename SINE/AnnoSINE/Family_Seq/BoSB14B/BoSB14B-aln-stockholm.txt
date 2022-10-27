@@ -1,0 +1,2564 @@
+# STOCKHOLM 1.0
+
+#=GS   GCA_000604025.1_BOL_v1.0_rm.out23 DE    SINE
+#=GS   GCA_000604025.1_BOL_v1.0_rm.out35 DE    SINE
+#=GS   GCA_000604025.1_BOL_v1.0_rm.out60 DE    SINE
+#=GS   GCA_000604025.1_BOL_v1.0_rm.out74 DE    SINE
+#=GS   GCA_000604025.1_BOL_v1.0_rm.out79 DE    SINE
+#=GS   GCA_000604025.1_BOL_v1.0_rm.out83 DE    SINE
+#=GS   GCA_000604025.1_BOL_v1.0_rm.out84 DE    SINE
+#=GS   GCA_000604025.1_BOL_v1.0_rm.out85 DE    SINE
+#=GS   GCA_000604025.1_BOL_v1.0_rm.out88 DE    SINE
+#=GS   GCA_000604025.1_BOL_v1.0_rm.out92 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out133 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out175 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out209 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out218 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out222 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out223 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out225 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out226 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out229 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out255 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out264 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out273 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out280 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out318 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out347 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out351 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out368 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out370 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out371 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out372 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out397 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out455 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out458 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out481 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out485 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out516 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out533 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out547 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out575 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out576 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out597 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out603 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out610 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out624 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out637 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out666 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out670 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out681 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out687 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out713 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out714 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out720 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out729 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out733 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out735 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out743 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out761 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out763 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out789 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out804 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out815 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out845 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out864 DE    SINE
+#=GS  GCA_000604025.1_BOL_v1.0_rm.out975 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1011 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1027 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1028 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1038 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1057 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1062 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1071 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1076 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1091 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1122 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1128 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1133 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1140 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1147 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1197 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1229 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1231 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1240 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1276 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1288 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1291 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1320 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1331 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1349 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1401 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1417 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1429 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1449 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1476 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1524 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1540 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1573 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1574 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1578 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1595 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1629 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1640 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1645 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1669 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1699 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1715 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1732 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1734 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1739 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1758 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1781 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1785 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1791 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1797 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1828 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1830 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1890 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1899 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1910 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1920 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1921 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1937 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1954 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1955 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1960 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1966 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1969 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1975 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1992 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1994 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out1997 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2019 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2051 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2057 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2087 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2131 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2134 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2136 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2137 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2150 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2151 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2207 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2224 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2249 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2251 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2255 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2281 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2285 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2307 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2373 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2386 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2410 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2440 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2443 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2458 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2502 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2525 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2530 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2533 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2534 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2545 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2554 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2563 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2577 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2585 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2587 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2618 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2677 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2714 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2716 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2718 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2723 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2738 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2739 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2775 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2778 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2781 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2786 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2810 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2866 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2894 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2896 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2901 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2909 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2915 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2955 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2965 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2974 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2976 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out2980 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3009 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3022 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3024 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3025 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3031 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3040 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3045 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3048 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3082 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3097 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3120 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3148 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3150 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3186 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3206 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3207 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3275 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3276 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3292 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3313 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3332 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3335 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3345 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3368 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3388 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3444 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3449 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3461 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3473 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3503 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3544 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3565 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3575 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3578 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3634 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3639 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3704 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3705 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3706 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3727 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3729 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3733 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3735 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3753 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3804 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3811 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3817 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3830 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3837 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3846 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3853 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3859 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3873 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3875 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3877 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3878 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3883 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3913 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3929 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3938 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out3981 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4004 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4011 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4027 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4076 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4099 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4109 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4118 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4134 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4154 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4269 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4318 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4327 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4367 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4368 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4371 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4392 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4395 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4409 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4421 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4451 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4458 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4476 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4493 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4502 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4509 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4510 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4558 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4580 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4616 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4634 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4653 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4665 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4676 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4729 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4736 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4739 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4799 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4809 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4821 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4834 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4869 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4885 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4891 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4949 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4967 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4968 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4974 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4989 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4993 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out4995 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5015 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5029 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5037 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5041 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5077 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5082 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5131 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5179 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5221 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5224 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5270 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5281 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5285 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5295 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5313 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5340 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5378 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5380 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5387 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5415 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5436 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5450 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5506 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5556 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5568 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5585 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5611 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5627 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5668 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5678 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5689 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5693 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5700 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5711 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5717 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5719 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5748 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5749 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5750 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5751 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5763 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5789 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5833 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5856 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5860 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5894 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5914 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5922 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5941 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5975 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5976 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5977 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5980 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5981 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5986 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5987 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5988 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out5997 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out6000 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out6007 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out6048 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out6054 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out6061 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out6071 DE    SINE
+#=GS GCA_000604025.1_BOL_v1.0_rm.out6074 DE    SINE
+
+GCA_000604025.1_BOL_v1.0_rm.out23    -------------CGGGGCTTCTA--TCTCTAGTGG--TAAATGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out35    --------------------CTAGTGGTAAAGCGGTTGT-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out60    --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out74    --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out79    --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out83    --TAACCGG-AGCTCCTGGTCTAGTGGTGATTAATTTGAGGGCG-AAGCC
+GCA_000604025.1_BOL_v1.0_rm.out84    --TAACCGG-GGCTCCTGGTCTAGTGGTGATTAATTTGAGGGCG-AAGCC
+GCA_000604025.1_BOL_v1.0_rm.out85    --TAACCGG-AGCTCCTGGTCTAGTGGTGATTAATTTGAGGGCG-AAGCC
+GCA_000604025.1_BOL_v1.0_rm.out88    --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out92    --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out133   -------GGAGTCTCCAGCTCTTGTGGTAAAATGCTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out175   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out209   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out218   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out222   --TAACTGAGACTTCTAGCTCTAGTGGTAAAAAGCTCACA------TGCT
+GCA_000604025.1_BOL_v1.0_rm.out223   ----------------------------------------AAAGGTTGAC
+GCA_000604025.1_BOL_v1.0_rm.out225   -------------------TCTAGTGGTAAAGGGGTTAA-------AATT
+GCA_000604025.1_BOL_v1.0_rm.out226   --------T-AACCGGGGCTTCTA--GCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out229   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out255   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out264   ---TAACCGGACCTCTCGTTCTTATGGTA-AAAAAGCTC-------ATCT
+GCA_000604025.1_BOL_v1.0_rm.out273   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out280   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out318   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out347   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out351   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out368   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out370   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out371   --------T-AACCGGGACTTCAA--ACTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out372   --------------------CTAGTGGTAAAGGGGTTGC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out397   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out455   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out458   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out481   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out485   --TAACCAG-GACTTGTAGTCCAGTGGTGATTAACGTGAGGGCG-AAGCC
+GCA_000604025.1_BOL_v1.0_rm.out516   --TAACCGGAGTCTCTAGTTCTTGTGGTA-AAGGCTCAC-------AGTT
+GCA_000604025.1_BOL_v1.0_rm.out533   --TAACTGGAGTCTCCAGCTCTTGTGGTAAAGGGTTCAC-------AACA
+GCA_000604025.1_BOL_v1.0_rm.out547   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out575   -------------------------------------TGAGGGG-ACTTC
+GCA_000604025.1_BOL_v1.0_rm.out576   --------------------CTAGTGGTAAAGGGGTTAC-------GACT
+GCA_000604025.1_BOL_v1.0_rm.out597   --------------------CTAGTGGTAAAAAGATTAT-------GGTT
+GCA_000604025.1_BOL_v1.0_rm.out603   -------------CGGAGCTTCTA--GTTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out610   --------------------------------GCGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out624   ----------AACCGGGTCTTCTA--GCTCTAGTGG--TAAAAAGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out637   ---------------------TAGTGGTAAAGAGGTTGC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out666   --TAACTGAAGCCTCAAACTTTTGTGGTAAAGGGTTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out670   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out681   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out687   --------T-AACCGGAGCTTCTA--GCTCTAGTGG--TAAAGAGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out713   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out714   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out720   --------------------CTAGTGGTAAAGGGGTTAC-------GGTT
+GCA_000604025.1_BOL_v1.0_rm.out729   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out733   --------T-AACCGGAGCTTCTA--GCTTTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out735   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out743   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out761   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out763   ---AACCGGGGCTTCTAGGTCTAGTGGTAAAGAGCTTAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out789   ---------------------CTG--GGGTGATTAACTTGAAGGTAAAAC
+GCA_000604025.1_BOL_v1.0_rm.out804   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out815   ---AACCGG-GACTCGTAGCCTAG--TGGTGATCATTTGAGGGCAAAAGC
+GCA_000604025.1_BOL_v1.0_rm.out845   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out864   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out975   ---------GCCA---------------------------------TCAT
+GCA_000604025.1_BOL_v1.0_rm.out1011  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1027  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1028  -------------GCCTGGCCTAGTGGTAAAGGGCTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out1038  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1057  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1062  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1071  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1076  --TAACCAG-GGTTTGTGGTCTAGTGGTGATTAACTT-AGGGTA-AAAGC
+GCA_000604025.1_BOL_v1.0_rm.out1091  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1122  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1128  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1133  --TAACCGG-GGCTTCTAGCTCTA--GCTCTAGTAG--TAAAGGACTTAC
+GCA_000604025.1_BOL_v1.0_rm.out1140  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1147  ----------AATCAGAGCTTCTA--GTTCTAATGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out1197  ----------AACCGGGGTTTCTA--GCTCTAGTGG--TAAAATGATTAC
+GCA_000604025.1_BOL_v1.0_rm.out1229  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1231  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1240  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1276  ---------------------TAGTGGTAAAGGGGTTAC-------AACT
+GCA_000604025.1_BOL_v1.0_rm.out1288  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1291  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1320  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1331  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1349  --TAACTAG-GGCTTTTGGCCTAGTGGTGATTAACTTGATGGCA-AAAGC
+GCA_000604025.1_BOL_v1.0_rm.out1401  -----------------------G--GTGATTAACTTGAGGGTAAAAAAC
+GCA_000604025.1_BOL_v1.0_rm.out1417  --TAACCAG-GGCTTTTGGTCTGGTGGTGATTAACTTGAAGGTAAAAAAC
+GCA_000604025.1_BOL_v1.0_rm.out1429  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1449  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1476  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1524  --------------------------------------------GCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out1540  --------------------CTAATTGTAAAAAGTTCAT-------AGAT
+GCA_000604025.1_BOL_v1.0_rm.out1573  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1574  ----ACCGG-GGCTTGTTGCCCGGTGGTAACTAAC------TT--GAAAC
+GCA_000604025.1_BOL_v1.0_rm.out1578  --------T-AACCGGGGCTTCGA--GCTCTAGTGG--TAAAAGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out1595  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1629  TAACCAAGTGGTCTTTGG-CCTAGTGGTTAAGGACTTAC-------AAAT
+GCA_000604025.1_BOL_v1.0_rm.out1640  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1645  --------------------CTAGTGCTAAAGGGGTTAC-------GGTT
+GCA_000604025.1_BOL_v1.0_rm.out1669  --------T-AACCGGGACTTCTA--GCTCTAGTGG--TAAATGACTTAC
+GCA_000604025.1_BOL_v1.0_rm.out1699  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1715  --------T-AACTGGGGCTTCTA--GCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out1732  -AACCAAGTGGTTTTGGCCTAGTG--GGAAAGGGCTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out1734  --------------------CTAGTGGTAAAAGGGTTGC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out1739  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1758  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1781  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1785  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1791  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1797  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1828  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1830  -----AAGTGGTTTTGGACTAGTG--GTAAAAGGGTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out1890  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1899  ----AACCGGGCTTTTAGTTCTGGTGGTAAAGGATCCAC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out1910  -------------------------------CTAACTCGAGGGCAAAAGT
+GCA_000604025.1_BOL_v1.0_rm.out1920  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1921  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1937  ---------------TAGACCTAGTGGTAATGGGTTCAC-------GGAT
+GCA_000604025.1_BOL_v1.0_rm.out1954  --------T-AACCGGGACTTCAA--GCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out1955  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1960  --------------------CTAATGGTAAAAGGGTTGC-------AGTT
+GCA_000604025.1_BOL_v1.0_rm.out1966  ----------------------AGTGGTAAAGGGTTCAC-------AGAA
+GCA_000604025.1_BOL_v1.0_rm.out1969  ---AACCGGGGCTTCCAGCTCTGGTGGTAAAAG-GTTCA-------AGTT
+GCA_000604025.1_BOL_v1.0_rm.out1975  -------------------TCCAGTGGTAAAGGGGTTGC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out1992  --TAACCGGGACCTCCAGCTCTGGTGGTAAAGGGCTCAC-------AACT
+GCA_000604025.1_BOL_v1.0_rm.out1994  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1997  TAGCCAAGTGGTCTTGGCCTAGTG--GTAAAGGGCTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out2019  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2051  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2057  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2087  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2131  --------T-AACCCGGGCTTCTA--GTTTTAGTGG--CAAAAGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2134  ----------------TGGCTTAGTGGTAAAGAGGTTAC-------GGTT
+GCA_000604025.1_BOL_v1.0_rm.out2136  ----------AAACGGAGCTTCTA--GCTCTAGTGG--TAAAAAGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2137  -----------ACCGGGGCTTCTG--CCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2150  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2151  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2207  -----CCGAGATTTTTAGTTTTGGTGATAAAACGCTCAC-------GACT
+GCA_000604025.1_BOL_v1.0_rm.out2224  ---------------CTAGCCTAGGGGTAAAAGGGTTGC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out2249  --------T-AACCGGGGCTTCTA--CCTCTAGTGG--TAAAGGACTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2251  --------T-AACCGGGGCTTCTA--GCTCTAGTGG--TAAAGGACTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2255  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2281  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2285  ---------------------------------------AAAAAACATGC
+GCA_000604025.1_BOL_v1.0_rm.out2307  ----------GTCTTGGCCTAGTG--GTAAAGGGCTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out2373  TAACCAAGCGGTGTTGGCCTAGTGGTAAAAATGGTTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out2386  ----------AACCGGGGCTTCTA--CCTCTAGTGG--TAAAGAGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2410  ----------TAACCGGGGCTTCT--AGCCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2440  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2443  --------------------CTAGTAGCAAAGGGGTTAT-------GGTT
+GCA_000604025.1_BOL_v1.0_rm.out2458  --------GGGCTTCTAGCTCTGTTGGTAAAGGATTCAC-------GGAT
+GCA_000604025.1_BOL_v1.0_rm.out2502  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2525  --TAACCGGGACTTCTAGTTCTGGTGGTAAAAGGCTCAC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out2530  --------T-AACCGGAGCTTCTA--GCTCTAGTGA--TAAAG-------
+GCA_000604025.1_BOL_v1.0_rm.out2533  ---AACCGG-AGCTCGTGGTCTAGTAGTGATTAATTTGAAGGTG-AAATT
+GCA_000604025.1_BOL_v1.0_rm.out2534  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2545  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2554  ----------AACCGGAGCTTCTA--GTTCTAGTGG--TAAAAGACTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2563  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2577  ------------GTTTTGGTCCAGTGGTAAAGGGCTGAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out2585  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2587  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2618  ----------------AGTTCTAGTGGTAAAGAGGTTGC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out2677  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2714  ---------------------CCA--GCTCTAGTGG--TAAAAGGTTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2716  ----------AACCGGTGCTTCTA--GCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2718  ---AACCAG-AACTTTTAGCCCGGTGG-----TAACTTGAGGGCAAAAAT
+GCA_000604025.1_BOL_v1.0_rm.out2723  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2738  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2739  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2775  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2778  --TAACCGGGGCTTCTACTTCTGGTTGTAAAAAGCTCAC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out2781  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2786  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2810  ---------------------------------------AAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2866  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2894  --TAACCGGAGCCTTCAGCTTTTGCGGTAAAGGGCTTAT-------GCCC
+GCA_000604025.1_BOL_v1.0_rm.out2896  ----------AACCGGGGCTTCTA--GCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2901  --TAACTGGAGCCTTTAACTCTGGTGGTAAAAGGTTTAT-------AACT
+GCA_000604025.1_BOL_v1.0_rm.out2909  --------T-AACCGGGGCTTCTA--GCTCTAGTGG--TAAAAGGTTTAC
+GCA_000604025.1_BOL_v1.0_rm.out2915  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2955  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2965  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2974  ----------------AGCTCTAGTGATAAAGGGGTTGC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out2976  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2980  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3009  --------------------CTAGTGGTAAATGGCTTAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out3022  TAACCAAGTGGTTTTGGCCTAGTG--GTAAAGGGCTCAC-------TGCT
+GCA_000604025.1_BOL_v1.0_rm.out3024  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3025  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3031  --TAACCAG-GGCTTGTGGCCTAGTGGTGATTAACTTGAGGGTAAAAAGC
+GCA_000604025.1_BOL_v1.0_rm.out3040  ----AACCGAACCTCCAGCTCTTGTGGTTAAGGGCTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out3045  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3048  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3082  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3097  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3120  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3148  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3150  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3186  ----------------TAGCCTAATGGTAAAGGGGTTGC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out3206  ------------------CTAGTG--GTAATGGGCTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out3207  -AACCAAGTGGTCTTGGCCTAGTG--GTAATGGGCTAAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out3275  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3276  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3292  ---AACCGGGGCTTTTAGTTCTGGTGGTAAAAAATTTAC-------GGTT
+GCA_000604025.1_BOL_v1.0_rm.out3313  ----------AACCGTGGCTTCTA--CCTCTAGTGG--TAAATGACTTAC
+GCA_000604025.1_BOL_v1.0_rm.out3332  ---------------------TCTATTGGTAAAAGGGAC-------AGTT
+GCA_000604025.1_BOL_v1.0_rm.out3335  ----------AACCGGGGCTTGTA--CCTTTAGTGA--TAAAGTGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out3345  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3368  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3388  --------------------CTAGTGGTAAAAAGGTTAT-------GGTT
+GCA_000604025.1_BOL_v1.0_rm.out3444  ---AAACGGGGCTTCTGGCTCTAGTGGTAAAAGGCTTAG-------AGCA
+GCA_000604025.1_BOL_v1.0_rm.out3449  --TAGCCAGAGCTTCCAGCTCTTGTAGTAAATGGCTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out3461  -TAACCAGAACGAGTCAGCTCTAGTGGTAAAGGGGTTGC-------GGTT
+GCA_000604025.1_BOL_v1.0_rm.out3473  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3503  --------T-AACCGGGGCTTCTA--GCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out3544  ------------------------------TAACTTGAGGGTAA-AAAGC
+GCA_000604025.1_BOL_v1.0_rm.out3565  ---AACCGGGGCTTCTAGTTCTAGTGGTAAATGGTTCAC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out3575  ---AACCGGAACCTCTAGCTCTTGTGGTAAAGGGCTCAC-------AACT
+GCA_000604025.1_BOL_v1.0_rm.out3578  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3634  ----------------------------AAAGGGCTCAC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out3639  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3704  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3705  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3706  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3727  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3729  TAGCCAAGTGATCTTGACCTATTG--ATAAATGGTTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out3733  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3735  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3753  ----------AACCGGGACTTCTA--GCTTTAGTGA--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out3804  ----------AACCGGGGTTTCTA--CCTCTAGTGG--TAAAGGACTTAC
+GCA_000604025.1_BOL_v1.0_rm.out3811  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3817  --------T-AACTAGAGCCAGAA--GCTCTAGTGGT-AAAGAGCTTTAC
+GCA_000604025.1_BOL_v1.0_rm.out3830  --------T-AACCGGGGCTTCTA--CTTCTAGTCG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out3837  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3846  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3853  ------GGGGTTGCTGACCTAATG--GTAAAGGGCTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out3859  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3873  -------------------TTTCA--GTTCTAGTGG--TAAAAGGTTTAC
+GCA_000604025.1_BOL_v1.0_rm.out3875  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3877  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3878  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3883  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3913  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3929  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3938  -------------------TCTAGCGGTAAATGGCTTAC-------GACT
+GCA_000604025.1_BOL_v1.0_rm.out3981  -------------------TCTAGTGGCAAAGGGGTTAT-------GGTT
+GCA_000604025.1_BOL_v1.0_rm.out4004  -----------ACCGGGCCTTCTA--GCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out4011  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4027  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4076  ----------AACTGGGACTTCTA--GCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out4099  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4109  --------------------------------------TAAAAGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out4118  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4134  --------------------CTAGTGGTAAAGGGGTTAC-------GACT
+GCA_000604025.1_BOL_v1.0_rm.out4154  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4269  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4318  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4327  --------T-AACCGGTACTTCTA--GCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out4367  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4368  -------------------------------TAACTTGAGGGTAAAAAGT
+GCA_000604025.1_BOL_v1.0_rm.out4371  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4392  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4395  ----------AACCGGGGCTTCTA--GCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out4409  --TAACCGA-GGTTTTTGGTCCAGTGGTGATTAATTTCAGGGC--AAAGC
+GCA_000604025.1_BOL_v1.0_rm.out4421  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4451  --------GGGCTTCTAGCTCTAGTGGTAAAGGGCTTAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out4458  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4476  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4493  TAACCAAGTGATCTTGACCTAGTG--GTAAAGGGCTCAC-------AGTT
+GCA_000604025.1_BOL_v1.0_rm.out4502  ---AACCAAAGCCTCCGGTTCTTGTGGTAAAGAGTTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out4509  -------------------------------------------GCGTACT
+GCA_000604025.1_BOL_v1.0_rm.out4510  -------------------TCTAGTGGTAAAGAGGTTGC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out4558  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4580  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4616  ----------------------------------------GGGAAAAAAT
+GCA_000604025.1_BOL_v1.0_rm.out4634  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4653  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4665  --TAACTAGAACCTTTCACTCTTGTGGTAAAGGGTTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out4676  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4729  --------------------CTAGTGGTAAAGGGATTGC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out4736  --TAACCGGAGCCTCTGGTTCTTGTGGTAAATGGTTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out4739  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4799  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4809  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4821  --TAATCGGAGCTTCCAACTCTTGTGGTAAAGGGTTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out4834  -----------------GGGCCTGTGCTCCAGTGGTATT-------AACT
+GCA_000604025.1_BOL_v1.0_rm.out4869  ------------CTTGTGGTCTGGTGGTGATTAATTTGAGGACAAAAAGC
+GCA_000604025.1_BOL_v1.0_rm.out4885  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4891  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4949  --------------------CTAGTGGTAAAGGGGTTGC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out4967  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4968  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4974  ----------GTCTTGGCCTAGTA--GTAAAAGGCTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out4989  ----------AACAGGAGCTTCTA--CCTTTACCGG--AAAAGGGTTTAT
+GCA_000604025.1_BOL_v1.0_rm.out4993  -------------------------------------------GGATCAC
+GCA_000604025.1_BOL_v1.0_rm.out4995  ---AACCGGGGCTTCTAGTTCTAGTGGTAAATGGTTCAC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out5015  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5029  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5037  ---AACCGGAGCTTCTAGCTCTGGTGGTAAATGGCTC------------T
+GCA_000604025.1_BOL_v1.0_rm.out5041  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5077  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5082  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5131  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5179  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5221  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5224  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5270  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5281  ----------------------AGTGGTAAAGGGGTTAC-------AGTT
+GCA_000604025.1_BOL_v1.0_rm.out5285  --------T-AACCGGGGCTTCTA--GCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out5295  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5313  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5340  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5378  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5380  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5387  ----------AACAGGGGCTTCTA--GCTCTAGTGG--TAAAGGATTTAT
+GCA_000604025.1_BOL_v1.0_rm.out5415  -AACCAAGTGGTCTTTGCCTAATG--GTAAAGGGCTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out5436  ----------AACCGGGGCTTCTA--GTTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out5450  TAATCAAGTGTTCTTGGCCTAGTT--GTAAAGGGATCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out5506  --TAACCGG-GGCTTATGGTCCAGTGGTGATTAACTTGAAGGC--GAAGT
+GCA_000604025.1_BOL_v1.0_rm.out5556  ----------AACCGGGGCTTCTA--GCTCTAGTGG--TAAATGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out5568  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5585  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5611  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5627  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5668  ---AACCGG-AGCTTCTGACTCTA--ACTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out5678  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5689  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5693  -------------TTTTAGCTCAATAATCAGTAACCAGGGCTTG-TGG--
+GCA_000604025.1_BOL_v1.0_rm.out5700  ----------AACCAGGGCTTCTA--CCTCTATTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out5711  --TAACTAGAGCTTCCAACTCTTGCGGTTAAAAACATAT-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out5717  ----------AACTGGGGATTCTA--CCTCTAGTGG--TAAAGGGCTTAC
+GCA_000604025.1_BOL_v1.0_rm.out5719  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5748  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5749  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5750  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5751  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5763  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5789  --TAACGGGAGCTTCCAGTTTTTGTATTAAAAGGTTCAC-------ATG-
+GCA_000604025.1_BOL_v1.0_rm.out5833  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5856  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5860  --------TAATCGGGGCTTCTGGTGGTAAAAGGCTCAC-------GGCT
+GCA_000604025.1_BOL_v1.0_rm.out5894  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5914  ---------------------TAGTGGTAAAAGGGTTAC-------AGTT
+GCA_000604025.1_BOL_v1.0_rm.out5922  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5941  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5975  ---AACCGGGGCTTCTAACTCTAGTGGTAAAGGGCTTAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out5976  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5977  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5980  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5981  ----------------------AGTGGTAAAGGGCTTAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out5986  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5987  ----ACCGG-GGCCTGTGGCCAGGTGGTAATTAAC------TT--GAAGC
+GCA_000604025.1_BOL_v1.0_rm.out5988  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5997  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out6000  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out6007  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out6048  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out6054  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out6061  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out6071  --TAACTGGAACCTTTC--ACTCTTGATAAAGAGTTCAC-------AGCT
+GCA_000604025.1_BOL_v1.0_rm.out6074  --------------------------------------------------
+
+GCA_000604025.1_BOL_v1.0_rm.out23    AGTTGTGAGTACCGCCACCTGGAATCGAATCCTT-GTCACTG--GGGATT
+GCA_000604025.1_BOL_v1.0_rm.out35    GCAACTACCGCC----ACTTGGGTTCAA----------------------
+GCA_000604025.1_BOL_v1.0_rm.out60    --CTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out74    -------------GTCACCTAGATTCGAGTCCCG-GCCACTG-AA-AATT
+GCA_000604025.1_BOL_v1.0_rm.out79    --------------CTATCAGAGTTCGAGTCCCG-GCCAATG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out83    CAATACGGTGA-AACCACCTGGGTCCGAGTTCCG-GCTACTG-AG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out84    CAATACGGTGA-GACCACCTGGGTTTGAGTTCCG-GCTACTG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out85    CAATACGGTGA-GACCACCTGGGTTTGAGTTCCG-GCTACTG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out88    --------------CCATCGGGGTTTGAGTCCCA-GCCACCG-TG-GAAA
+GCA_000604025.1_BOL_v1.0_rm.out92    -------------GCCACTAGGGTTTGAGTCCCA-GGTACTA-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out133   GTGAGTGCCGCC----ACCTGGGTTTGAGTTTGG-TCA------------
+GCA_000604025.1_BOL_v1.0_rm.out175   -------------GCCATTTGGGTTCGAGTCCGG-GCCACTA-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out209   --------------CCACCGTGGTTCGAGTCCCG-GCCACCA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out218   -------------GCTACCATGGTTCGAGTCTCA-TCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out222   GTGAGTTCTGCC----ACCTGGGTTCGAATCCCG-GCTATTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out223   AACTGTGAGTACCGTCACCTGGATTCGATTCCCA-GTCACTA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out225   GTAACTATCGCC----ACCCGGGTTCAATTCACG-GTGGGA---------
+GCA_000604025.1_BOL_v1.0_rm.out226   AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out229   --------------CCACCAGGGTTTGAGTTCCG-GCCAATG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out255   -------------GCAACCAGGGTTCGAGTCTCG-GCCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out264   ATGAATACTGTC----ACCTGGATTTGAGTCCCA-CCA------------
+GCA_000604025.1_BOL_v1.0_rm.out273   -----------------------TTCGAGTCCAG-ACCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out280   ----------CCCCCACCAGGGACTCGAGTCCCG-GCCACTG-AG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out318   --------------CCACCAATGTTCGAGTCTTG-GTCACTG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out347   -------------GCCAACAGGGTTCGAATTTCG-ACCACTG-GA-GAAC
+GCA_000604025.1_BOL_v1.0_rm.out351   -------------GCCAACAGGGTTCGAGTCCCG-GTCACTG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out368   -------------GCCACCAGGGTTCGAATCTCG-GCCATTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out370   -------------GCCACCAAGGTTCGAGTCTCA-GCCATTA-CG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out371   AGTTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG--GGAAAT
+GCA_000604025.1_BOL_v1.0_rm.out372   GTAACTTCCGTC----ACTTGGGTTCAACTCACG-G--------------
+GCA_000604025.1_BOL_v1.0_rm.out397   -------------------------CGAGTCCCA-GCCACTA-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out455   ----------------------GATTCGGTCCCG-GCTACCG-GA-GAGT
+GCA_000604025.1_BOL_v1.0_rm.out458   --------------CCACCATGATTCGAGTTCCG-GCCATTC-TA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out481   -------------GTCACCAGGGTTCGAGTCCCG-GTCGCTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out485   GAATACAGTGA-AGCCACCTAGATTCGAGTTCCG-GTCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out516   GTGAGTACCGCC----ACCTGGATTCGAGTCCGG-CCA------------
+GCA_000604025.1_BOL_v1.0_rm.out533   GTGAGTACTACC----ATCTGGATTCGAGTTCGG-CTA------------
+GCA_000604025.1_BOL_v1.0_rm.out547   -------------GCCACCAGGGTTCGAGTCTCA-GCCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out575   GCATCCGATACGATCCCGGCTTCGATTCCGATTG-ACCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out576   GTAATTACCGTC----ACGCGAGTTCAATTCATG-GTAAGA---------
+GCA_000604025.1_BOL_v1.0_rm.out597   GTAACTACTGCC----ACCCGGGTTCAATTCACG-G--------------
+GCA_000604025.1_BOL_v1.0_rm.out603   AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-TCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out610   AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out624   AGCTGTGAGTACCACCACCTGGGTTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out637   GTAACTACCGCC----ACCTAAATTCAATTCACG----------------
+GCA_000604025.1_BOL_v1.0_rm.out666   AAGAGTACCGCC----ATTTGGGTTCGAGTCTGG-CCA------------
+GCA_000604025.1_BOL_v1.0_rm.out670   -------------GCTACTAGGGCTCGAGTCCCG-ACCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out681   -----------------------------------GCCATTA-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out687   AGTTGTGAGTACCGCCACCTGAGTTCGAATCCCG-GCCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out713   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out714   --------------CCACCAGGATTCGAGTCCCG-GCCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out720   GTAACTACTGCC----ACCCGGTTGGAAT---------------------
+GCA_000604025.1_BOL_v1.0_rm.out729   -------------GTCATTTAGGTTTGAGTCTCG-GCCACCA-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out733   AGTTGTGAGTACCGCCACCTGGGTTCGAATTCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out735   --------------------GGGTTCGAGTCCCG-GTCACTG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out743   -----------------------------------GTCACTG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out761   -------------GTCACCAGGGTTTGAGTCTCG-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out763   GTGAGTACTGCC----ACCTGAGTTCGAATCCCG-ACCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out789   CCAATACATTGAAGCCACCAGAGTTCGAGTCTCG-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out804   -------------GCCATCATGGTTCGAGTTCCG-GAAACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out815   CTAATACGGTGAAGCCACCAGAGTTCGAATTCCG-GCTATTG-GG-AAAA
+GCA_000604025.1_BOL_v1.0_rm.out845   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out864   -------------GCTACTAGAATTCGAGTTCTA-GCCATTG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out975   GGTTCGCCCGGC----CACTGGGTGAACAAGAAA-TCG------------
+GCA_000604025.1_BOL_v1.0_rm.out1011  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1027  -----------------------------------GTTACCG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1028  GTGAGT--ATCG----CCCTGGGTTGGATTCCCC-TTGCCC---------
+GCA_000604025.1_BOL_v1.0_rm.out1038  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1057  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1062  -------------GCCACCAGGGTTCGAGTCCTA-GCCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1071  --------------------TTCGATTCCCGTTA-GCCACCG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1076  CCAATACAGTGAAGTCACCATGGTTCGAGTTCCA-GTCACTA-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out1091  -------------GCCATCAGAGTTCGAGTCC-C-GGCTACT-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1122  ------------------CTTGGTTCGAATCCCG-TCCACTG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out1128  -------------GCCATCAAGATTTGAATCCCG-TCCGGTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1133  AACTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out1140  -------------GCCACCAGGGTTAGAGTCCCG-ACCACTG-AG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1147  AGCTGTGAGTACTGCCACCTGGGTTTGAATTCCG-GCCACTGGGGGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out1197  AGCTGTGAATACCGCCACCTGGATTCGAATCCCA-GCCATTA--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out1229  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1231  -----------------------------------------------AAT
+GCA_000604025.1_BOL_v1.0_rm.out1240  --------------CCCGGTTTCGAATCCCGTTT-GCCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1276  G-TACTACCGCC----ACCCGGGTTCAATTAACG-G--------------
+GCA_000604025.1_BOL_v1.0_rm.out1288  ------------GCCACGAGGGTTCGAGTCCCCG-GCCGATA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1291  ------GAGTGAAGCCACCAGGTTTCGAGTC--CTGGCCATT-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1320  -------------GCCACCATGGTTCGAGCCCCA-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1331  -------------GTCACCAGGGTTCGAATCCCG-ACTACTG-AG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out1349  CTAATACGGTGAAGTCACCGAAGTTCGAATTCCG-GCCACTA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1401  CCAATACGGTGAAGCCACCAGGGTTCGAGTCCCG-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1417  CTAATACGGTGAAGCTACCAGGGTTCGAGTCCCG-ACTACTA-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out1429  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1449  -------------GCTACCAGGGGTCGAGTCCCG-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1476  ------------CCACCAGGGTTCGATTTTCGGG-GTCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1524  AGCTGTGAATACCGCCACCTGGGTTTGAATCCCG-ACCACTG--TGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out1540  ATGAAT--ACCG----CCATGGGTTCGAATCCC-----------------
+GCA_000604025.1_BOL_v1.0_rm.out1573  ---------------CACCTGAGTTCGAGTCCCA-GCCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1574  CCAATAAGATGAAGCCACCTGGGTTCGAGTCCCA-GCCATTA-GA-AAAC
+GCA_000604025.1_BOL_v1.0_rm.out1578  AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out1595  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1629  ATGAGT--ACCG----CCGTGGGTTTGATTCC------------------
+GCA_000604025.1_BOL_v1.0_rm.out1640  -------------------TAGCTTCGAGTCCCG-GCCACTA-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1645  GTAACTACTTCC----ACCCGGGTTCAATTCACG-G--------------
+GCA_000604025.1_BOL_v1.0_rm.out1669  AGCTGTGAGTACCGCCA-CTGGATTCGAATCCCA-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out1699  -------------GCTATCAGGGTTCAAATCTCG-GCTACTG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out1715  AGCTGTGACTACCGCCACTTGGGTTCGAATCCTG-GCCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out1732  GTGAGT--ACCG----CCCTGGGTTCGATTTCCC-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out1734  GTAACTTCCGCC----ACTTGGGTTCAACTCACG-G--------------
+GCA_000604025.1_BOL_v1.0_rm.out1739  ------------GCCACCAGGGTTCGAGTCCCCG-GCCACTA-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1758  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1781  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1785  ---------------------GATTCGAGTCCCG-GCCAATG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out1791  -------------GCTACCAAGGTTCGAGTCCCG-GCCAATG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1797  ----------------ACCAAGATTCGAGTTCCG-GTCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1828  ---------------------GGTTCGGATTCCG-ACCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1830  GTGAGT--ACTG----CCCTGGGTTCGATTCTCC-TTAGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out1890  ---------------CACTAGGGTTCGAGTCCTA-ACCTCTG-AA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1899  GTGAGTTCTGCT----ATCCGAATGTGATAAATG-ATTTACG-GA-TGTG
+GCA_000604025.1_BOL_v1.0_rm.out1910  CCAATACGGTGAAGCTACCAGGGTTTGAGTCCCG-GCCACTT-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1920  ----------------------GTTCGAATCCCA-ATCACCA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out1921  ------------------------------------------------AT
+GCA_000604025.1_BOL_v1.0_rm.out1937  GTGAGT--ACCG----CCATGAGTTTGATTCCTC-TTGGTC---------
+GCA_000604025.1_BOL_v1.0_rm.out1954  AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTA--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out1955  --------------------------------------ACTG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out1960  ATAACTACCGCT----ACTTGGGTTCAATTCACG----------------
+GCA_000604025.1_BOL_v1.0_rm.out1966  GTGAGTACCGGC----ACCCGGATTCGAGTCCAG-CCA------------
+GCA_000604025.1_BOL_v1.0_rm.out1969  GTGAGTTCCGTC----ACTTTGATTCGAATCCGG-TCA------------
+GCA_000604025.1_BOL_v1.0_rm.out1975  GTAATTTCCGCC----ACCCGGGTTCGATCACGC-TGGG-----------
+GCA_000604025.1_BOL_v1.0_rm.out1992  GTGAGTTCCGCC----ACCTTGGTTCAAGCCCGA-CCACT----------
+GCA_000604025.1_BOL_v1.0_rm.out1994  ------------------------TTCAAACCAA-CCTTTGA-GG-GGAT
+GCA_000604025.1_BOL_v1.0_rm.out1997  GTGAGT--ACCG----TCCTGGGTTCGATTCCCC-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out2019  ---------------------------------ACATTT-----------
+GCA_000604025.1_BOL_v1.0_rm.out2051  --------------CTACCTGTGTTTGAGTCCTG-GCCATTG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out2057  -------------GCTACCAAGATTCGAGTCTCG-GCTACTA-AA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out2087  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2131  AGTTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GTCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out2134  GTAAGTACCGCT----ACTCAGGTTCAATTCACG-G--------------
+GCA_000604025.1_BOL_v1.0_rm.out2136  AGCTGTGAGTACCGCCACCTGAGTTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out2137  AGCTGTGAGTACCGCCACCTGGGTTCGAATCTCG-GCCACCG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out2150  ---------------CACTTCGGTTCGAGTCCCG-GCCACTG-GG-GGAT
+GCA_000604025.1_BOL_v1.0_rm.out2151  -------------GCCACCAGAGTTCGAGTCCCG-GTCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out2207  GTGAGTTTTACC----ATTTAGGTTCGAATTCCA-GCCACTG-CA-GTAT
+GCA_000604025.1_BOL_v1.0_rm.out2224  GTAACTACCGCC----ACTTGGATGCAATTCACG----------------
+GCA_000604025.1_BOL_v1.0_rm.out2249  AGCTGTGAGTACCGCCACCTAGGTTCGAATCCCG-GCCACTG--GGAAAT
+GCA_000604025.1_BOL_v1.0_rm.out2251  AGCTGTGAGTACCGCCACCTAGGTTCGAATCTCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out2255  -------------------------------------------GG-TGAT
+GCA_000604025.1_BOL_v1.0_rm.out2281  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2285  GGCAATGAGTACCGCCACCTGGGTTCGAATCCCG-GCCAGTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out2307  GTGAGT--ACCG----CCATGGATTCGATTCTCG-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out2373  GTGAGT--ATCG----CCATGGGTTCGATTTCCC-TTGGTC---------
+GCA_000604025.1_BOL_v1.0_rm.out2386  AGCTGTGAGTACCGCCACCCGGGTTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out2410  AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out2440  -------------GTCATTCGGATTCGAGTTTCA-GTTACTG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out2443  GTAACTACCGCC----ACCCGGGTTCAA----------------------
+GCA_000604025.1_BOL_v1.0_rm.out2458  GTGAGTTTCGTC----ACCTTGGTTCTAATCCCG-ACCACTG-CG-GTAT
+GCA_000604025.1_BOL_v1.0_rm.out2502  --------------CCACCAGGGTTCGAATCCCG----------------
+GCA_000604025.1_BOL_v1.0_rm.out2525  GTGAGTTCCGCC----ACCTGGGTTC------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2530  -----GAATTACCGCCACTTGGGTTCGAATCCCG-GCCACTG-AGGAATT
+GCA_000604025.1_BOL_v1.0_rm.out2533  TAATACACTGA-AGCCATCTGGATTCGAATCCAA-ACCATTA-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out2534  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2545  --------------------GAGTTCGAATCCCG-ACCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out2554  AACTGTGAGTACCGTCACTTGGATTCGAATCCCG-ACCACTG--AAAAAT
+GCA_000604025.1_BOL_v1.0_rm.out2563  -------------GCCACCAGGATTCGAATTCCG-GCCACCG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out2577  GTGAAT--ATCG----TCATGGGTTTGATTCTTC-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out2585  -------------GCCACCAAAGTTCGAGTCCCA-GCCGCTG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out2587  -----------------------TTCGAGTTCCG-GCCACTG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out2618  GTAACTTCCGCC----ATCCGGGTTCGATTCGCG-ATGGAA---------
+GCA_000604025.1_BOL_v1.0_rm.out2677  -------------GCCACCAGGGTTCGAATTCCG-ACCACAG-AA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out2714  AGCTGTAAGTATCGCCATCTGGGTTCGAAACCCG-GCCGCTG--GGAAAT
+GCA_000604025.1_BOL_v1.0_rm.out2716  AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out2718  CCAATACGGTGAAGCAATTAGGGTTCGAATTCCG-ACCACTG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out2723  --------------CCACTAGGGTTCGAGTCCCG-ACCACTG-CA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out2738  --------------------GAGTTCGAATCCCG-GCCACTG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out2739  --------------------GAGTTCGAGTTCCG-GCTACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out2775  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2778  GTGAGTTCCGCC----ACCTGAGTTCGAAATCCG-ACCACTG-GG-----
+GCA_000604025.1_BOL_v1.0_rm.out2781  -------------GTCATCAAGATTCGCGTTCCA-GTCACTG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out2786  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2810  AGCTGTGAGTACCGCCACCTGAGTTCGAATCCTA-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out2866  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2894  GTGAGAACCGCC----ACCTGGGTTCGAGTCCGG-CCA------------
+GCA_000604025.1_BOL_v1.0_rm.out2896  AGCTGTGAGTACCGCGACCTGGGTTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out2901  ATTAGTCCCGCC----ATCTTAGTTTGAGTTCGG-CCA------------
+GCA_000604025.1_BOL_v1.0_rm.out2909  AGCTGTGAGTACCGCCACCTGGATTTGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out2915  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2955  --------------------GGATTTGAATCCCG-ACCACTG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out2965  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2974  GTAATTTCCGCC----ACCCAGATT-------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2976  -------GTGA-AACCACTACGATTCGAGTCCCA-GCTACTG-GT-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out2980  --------GTGAGGCTACTAGAGTTCGAGTCCCG-GTCAATG-AG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3009  GTGAGT--ACCA----CCCTGGGTTCGATTCCCC-ATGGTC---------
+GCA_000604025.1_BOL_v1.0_rm.out3022  GTGAGT--ACCA----CCCTGGGTTTGATTCC------------------
+GCA_000604025.1_BOL_v1.0_rm.out3024  --------------------------------------ATTG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3025  -------------GTCACCAGGGTTCGAGTCCCG-GCCACTG-AG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3031  CCAATACGGTTAAGCCATCAGGATTCTAGTCCCG-GCCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3040  GTGAGTACCGCC----ACTTGCGTTCGAGTCCAG-CCA------------
+GCA_000604025.1_BOL_v1.0_rm.out3045  -------------GCTACCAAGGTTCGAGTCTCG-ACCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3048  ---------------------GGTTTGAATTCCG-GCTACTG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3082  -------------GCCACCAGAGTTCGAATCCCA-GCCACTG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3097  --------------CCACCAGGGTTTGAGTCTCCGACCACTA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3120  ----------------------------GAATCT-GCCACTG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3148  -------------GCCACCGGGATTCGAATCCTG-ACCACTG-TA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3150  --------------CCATCGGAGTTCGAATCCCG-GCCACTG-AA-CAAT
+GCA_000604025.1_BOL_v1.0_rm.out3186  GTAACTACCACC----ACCTTGGTTTGA----------------------
+GCA_000604025.1_BOL_v1.0_rm.out3206  GTGAGT--ACCG----CCCTGAGTTCGATTCCCC-TTGGTC---------
+GCA_000604025.1_BOL_v1.0_rm.out3207  GTGAGT--ACCG----CCCTGAGTTCGATTCCCC-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out3275  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3276  ----------------------------------------------GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3292  GTGAGTTCTGTT----ACACGGATTTAAATCCCG-GCGATTG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3313  AACTGTGAGTACTGCCACCTGGGTTCGAAACCCG-GCCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out3332  GTGAGTACCGCC----ATCTGGGTTCGAATCCGG-CCA------------
+GCA_000604025.1_BOL_v1.0_rm.out3335  AGCTGTGAATACCGTCATCTGGGTTCAAATTCCG-GGCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out3345  ---------------------GGTTCGGGTCCCG-GCCACT---------
+GCA_000604025.1_BOL_v1.0_rm.out3368  ---------------------------------------CTG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3388  GTAACTACCGCC----ACCTGGGTTCAATTCACG----------------
+GCA_000604025.1_BOL_v1.0_rm.out3444  GTGAGTACCGCT----ACCTGAGTTCGAATCCCA-GCCAATG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3449  GTGAGTACCGTC----ATCTTGGTTCGAGTCCGG-TCA------------
+GCA_000604025.1_BOL_v1.0_rm.out3461  GTAACTTCCGCC----ACCCGGGTTCGATTTGCG-CTGGGA---------
+GCA_000604025.1_BOL_v1.0_rm.out3473  --GTTCGAGTCCTAGCCATTGGGTTCGAGTCCTG-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3503  AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out3544  CCAATACGGTGAAGCCACCAGAGTTCATGTCCCG-GCTACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3565  GTGAGTTCCGCA----ATATTGGTTGGAATCTCA-GCCACTG-AA-GTAT
+GCA_000604025.1_BOL_v1.0_rm.out3575  ATGAGTACCGCC----ACCTGGGTTCGACCATCT-GCGACGA-CT-TAAG
+GCA_000604025.1_BOL_v1.0_rm.out3578  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3634  GTGAGTTCCGCC----ACCTGGGTTCGAAACCCA-AATTTAC-AT-GCGG
+GCA_000604025.1_BOL_v1.0_rm.out3639  --------------CCACCAGAGTTCGAGTCCCG-GCCACTG-AG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3704  --------------------GGGTTCGAGTCCCG-TCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3705  -----------------------------TTCCG-GCTACCG-AA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3706  -------------GCCACCAGGATTCAAATTCTG-GCCACTG-TG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3727  -------------GTCACCAGGATTAGAGTCCCG-GCCACTA-GA-GAAC
+GCA_000604025.1_BOL_v1.0_rm.out3729  GTGAAT--ACCA----CCCTGAGTTTGATTCTCT-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out3733  -----------------------------------------G-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3735  ---------------CACCTGGGTTCGAATCCTG-ACCATTA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3753  AGCTGTGAGTACCGCCACCTGAGTTCGAATCCC--GGCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out3804  AGCTGTGAGTACCGCCACCTGGATTCGAATCCCG-GCCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out3811  ---------------CACCGGGGTTCGAGTCCTG-GCCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3817  ACATGTGAGTACAGCCACCTGGGTTCGAATCTCG-ACCACTA--GAAAAT
+GCA_000604025.1_BOL_v1.0_rm.out3830  -------------AGCTCCTGAGTTCGAATCCCG-ACCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out3837  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3846  ------------GTCACCAGGGTTCGAGTTCCCG-TCCGCTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3853  GTGAGT--ACCG----CCCTGGGTTCGATTCCCT-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out3859  -------------GTTACCAGGATTCGAGTCCCA-ACCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3873  AGCCGTGAGTACCGCCACCTGGATTCGAATTTCG-GCCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out3875  --------------GCCACCATGTTCGAATTTCA-GCCACTG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3877  AACTGTGAGTACCGCTACCTGGGTTCGAATCCCG-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3878  -------------GCCACCAGGATTTGAATCTCG-GCTACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3883  -------------------------------TAACATTTCGG-TA-TCGC
+GCA_000604025.1_BOL_v1.0_rm.out3913  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3929  -------------GCTACCAGGGTTTGAGTTCCG-GCTTCTA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out3938  GTGAAT--ACCG----CCATGGATTCGATTTCTC-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out3981  GTAACTACCGCC----ACCCGGGTTCAATTCACA-G--------------
+GCA_000604025.1_BOL_v1.0_rm.out4004  GGCTGTGAGTACCGCCACCTGGGTTCGAATTCCG-GCCATTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out4011  --------------------------GAATCCCG-GCTACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4027  -------------GCCATCAGGGTTCGAGTCCCG-GCCACTA-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out4076  AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out4099  -----------------------GTTTGAATTTT-ACTACTA-AA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4109  AGCTGTGAGTACCGCCACATGGATTCGATATCCG-GCCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out4118  -----------------------TTCGAATCTCG-GCTACTG-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out4134  GTAACTACCGTC----ACTCGGGTTCAATTTACG-G--------------
+GCA_000604025.1_BOL_v1.0_rm.out4154  -------------GCTATCTGGTTTCGAGTTCCT-GCTATTT-GAGAAAT
+GCA_000604025.1_BOL_v1.0_rm.out4269  -------------------------------------------------T
+GCA_000604025.1_BOL_v1.0_rm.out4318  -----------------------TTCTAGTCCCG-ATCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4327  AGTTGTGAGTACCGCCACCTGGGTTCGAAACCCT-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out4367  -------------GTCATCAGGGTTTGAGTTCCG-GCCACTG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out4368  TCAATACGGTGAAGTCATCAGGGTTTGAGTTCCG-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4371  ------------GCCACCAGGGTTTCGAGTCCCG-GCTACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4392  -------------GCCACCAGGGTTCGAGTCTCG-ACCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4395  AGCTGTGAGTACCGCTACTTGGGTTCGAATCCCG-GCCACTG--GAAAAT
+GCA_000604025.1_BOL_v1.0_rm.out4409  CTAATAAGGTGAAACTACTTGGATTCGAATCTTG-GTCACAA-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out4421  -------------------------------------------GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4451  GTGAGTACCATC----ACCTGGGGAATTAACATT-TCGGCAT-C------
+GCA_000604025.1_BOL_v1.0_rm.out4458  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4476  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4493  GTGAGT--ACCG----CCCTGGGTTCGATTCCCT-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out4502  GTGAATACCGTC----ACATGGATTCGAGTCCGA-CCA------------
+GCA_000604025.1_BOL_v1.0_rm.out4509  AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTC-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4510  GTAACTACCGCC----ACTTGAATTCAA----------------------
+GCA_000604025.1_BOL_v1.0_rm.out4558  -------------------------------------CATTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4580  -ATATGTCGGTT----CACTAAGGACGGAGAACT-GAC------------
+GCA_000604025.1_BOL_v1.0_rm.out4616  TCAATACGGTGATCCTACCAGGGTTCGAGTTCCG-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4634  --------------CTATTTGGGTTCGAATCCCA-GCAAATG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out4653  ---------------------------AATCCCG-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4665  GTGAGTACCGCC----ATCTGGATTCGAGTCTAG-CCA------------
+GCA_000604025.1_BOL_v1.0_rm.out4676  -------------GCCACCAGGGTTCGAGTCCCA-GCCATTA-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4729  GTAACTTCCGCC----ACTTGGGTTCAACTCACG-G--------------
+GCA_000604025.1_BOL_v1.0_rm.out4736  GTGAGTACCGCC----ACCTGGCTTTGAGTC-------------------
+GCA_000604025.1_BOL_v1.0_rm.out4739  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4799  -------------GCCACCAGGGTTCGAGTCCCG-GCCACTG-GG-GGAT
+GCA_000604025.1_BOL_v1.0_rm.out4809  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4821  ATGAGTATCGCC----AGGTTCGAGTCCGGCCAC-CCG------------
+GCA_000604025.1_BOL_v1.0_rm.out4834  GTGAAGTCCGATAGCCATTTAAGTTCAAATTCTT-GGAGAAT-TA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out4869  TCAATACGGTGAATCCACCAGGGTTCGAGTCCCG-ACCACCG-TA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4885  -------------GTCACCGGGGTTAGAGTCTCG-GCCATTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out4891  -------------GTCACCAGAATTCGAGTTCCG-ACTACTG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out4949  GTAATTACCGCC----ACATGGGTTCAACTTGCG-G--------------
+GCA_000604025.1_BOL_v1.0_rm.out4967  -------------GCCACCAAGGTTTGAGTCCCGGTCACTGG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out4968  -----------------------TTTGAATCCCG-GCCACTG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out4974  GTTAGT--ATCG----CTCTGGGTTTGATTCTCC-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out4989  AGCTGTGAGTACCACCACCTGGATTTGAAACTCG-GTCACTG--AGAAAT
+GCA_000604025.1_BOL_v1.0_rm.out4993  AGCTGTGAGTACTGCCACCTGGGTTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out4995  GTGAGTTCCGCA----ATATTGGTTGGAATCTCA-GCCACTG-AA-GTAT
+GCA_000604025.1_BOL_v1.0_rm.out5015  --------------CCATCAGGGTTCGAGTTCCA-GCTACTG-TG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5029  -------------GCCACCAGGATTCGAGTCCCG-GCCACTA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5037  GTGAGTTCCGTT----ATCCGGGTTCGAATCCCA-ACCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5041  -------------GTCACCAGGATTCGAGTTCCG-GTCACTG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out5077  -------AATACGGTTATCAGGGTTCGAGTTTTG-GCCACTG-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out5082  --------------CCACTAGAATTCGAGTCCTA-GCCACTA-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out5131  ---------------ACCAGAGTTTGAATCCTGA-TCATTAA-AA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out5179  ---------------CACCAGGGTTCGAGTCCCG-ACCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5221  -------------GCTACCAGGGTTCGAGTCCCGATCACTAG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out5224  --------------CCACCTAGGTTCGAGTTCCG-GCCACTA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5270  -------------------TGTGTTCGAGTCCCG-GCCACTA-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out5281  GTAACTACCGCC----ACTCATGTTCAATTCACG-G--------------
+GCA_000604025.1_BOL_v1.0_rm.out5285  AGCTGTGAGTACCGCCACCTGGATTCGAATCACG-ACCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out5295  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5313  --------------CCACCAAAGTTCGAGTCCCG-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5340  -------------GCTACCAGAGTTTGAGTCCCA-GCTACCG-GA-GAA-
+GCA_000604025.1_BOL_v1.0_rm.out5378  --------------------GGGTTCGAGTCCTG-GCCACTA-GT-TAAT
+GCA_000604025.1_BOL_v1.0_rm.out5380  ----------ACTGCCACCAAAGTTCGAGTCCCG------GC-TA-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out5387  AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out5415  GTGAGT--ATCG----CCCTGGGTTCGATTCCCC-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out5436  AGCTGTGAGTACCGTCACCTGGATTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out5450  GTGAGT--ACCA----CCCTGGGTTCGATTCCCT-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out5506  CCAATACGGTGAAACCACCTGGGTTCGAGTCTCA-ACCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5556  AGCTGTGAGTATCGCCACCTGGGTTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out5568  -------------GCCACCAGGATTCGAGTCCCG-GCCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5585  -----------------------TTCGAGTCCCG-GTCATTG-AG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out5611  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5627  --------------------------GAAGCCCG-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5668  AGCTGTGAGTACCGTCACCTGGATTCGAATCCCG-GTCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out5678  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5689  ------------------------------TCCCGACCACCG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5693  CCTGGTTGTGATTAACTTGAGGGCAAAAATCCAG-GCCATTG-GA-GAAC
+GCA_000604025.1_BOL_v1.0_rm.out5700  AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG--GGGAAT
+GCA_000604025.1_BOL_v1.0_rm.out5711  GTGAATACCACC----ATTTGGATTCGATTCTTG----------------
+GCA_000604025.1_BOL_v1.0_rm.out5717  AGCTGTGAGTACCGCCACCTGGGTTCGAATCCCG-GCCACTG--GAGAAT
+GCA_000604025.1_BOL_v1.0_rm.out5719  ---------------------GGTTCGAGTCCCG-GCCACTG-CG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5748  --------------------------------TCCCAGGCCG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5749  ------------------------------TTCCAGCCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5750  ------------------------------TTCCAGCCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5751  ------------------------TCGAGTCCCA-GACACTA--G-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out5763  --------------------------------CCAGCCACCG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5789  -TGAGTACCGTC----ATTTGGATTTGAAT--------------------
+GCA_000604025.1_BOL_v1.0_rm.out5833  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5856  -----------------------TTCGAGTCCCA-ACCAGTG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out5860  GTGAGTTCCGCC----GTCAAAGTTCGAATTCCG-GTCAGTG-GG-AAGT
+GCA_000604025.1_BOL_v1.0_rm.out5894  --------------CCACTAAAGTTCGTGTCCCG-GCCACTA-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5914  GTAACTATCGTC----ACCCGGATTCAA----------------------
+GCA_000604025.1_BOL_v1.0_rm.out5922  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5941  -------------GCCACCAGAGTTCAAGTCCC--GACTACT-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5975  GTGAGTACCGTC----AACTGGGTTCGAATCCCG-GCCACTA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5976  -------------------TGGGTTCGAATCCCG-GCCACTA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5977  -------------------TGGGTTCGAATCCCG-GCCACTA-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5980  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5981  GTGAGTACAGCG----CCCTGAGTTCGATTCTCT-TTGGCC---------
+GCA_000604025.1_BOL_v1.0_rm.out5986  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5987  TCAATAAGGTGAAACCACCTGGGTTCGAGTTCCG-GCCATTA-GA-AAAC
+GCA_000604025.1_BOL_v1.0_rm.out5988  -------------GCCACCTGAGTTCGAGTCCCA-GCCACTG-GA-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out5997  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out6000  -------------GCCACAAGGGTTCGAATTCCA-ACCACTG-GA-TAAT
+GCA_000604025.1_BOL_v1.0_rm.out6007  ---------TACAACTACCAAGATTCGAATCCTA-GCCACTG-GG-GAAT
+GCA_000604025.1_BOL_v1.0_rm.out6048  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out6054  ----------------------------------GGCCATTG-GG-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out6061  -------------GCCACCGAGGTTCGAGTCCCG-GCCACTA-GA-AAAT
+GCA_000604025.1_BOL_v1.0_rm.out6071  GTGAGTACCGCC----ATCTTGATTCGAGTCTAG-CCA------------
+GCA_000604025.1_BOL_v1.0_rm.out6074  --------------------------------------------------
+
+GCA_000604025.1_BOL_v1.0_rm.out23    TAACATTTCGGCATCGCCAGGGACAGAGGACCGATACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out35    --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out60    TAACATTTTGGCATCGCTAGGGACAGAACACCGACAT----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out74    AAAAATTTCGGCATCGCCAAAGACATGGAACCGAG--ACGTGGA-----C
+GCA_000604025.1_BOL_v1.0_rm.out79    TAACATTTTGGCATCGTGAGGAACATGAGACCAAC--ACG----------
+GCA_000604025.1_BOL_v1.0_rm.out83    TTAAATTTTGGCATTGCCAGAGATAGGGAACCGACA-CATTGGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out84    TAAAATTTTGGCAATGCCAGAGATAGGGAAATGACA-CATTGGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out85    TAAAATTTTGGCAATGCCAGAGATAGGGAAATGACA-CATTGGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out88    TAACATTTCAGCATCACCAGAAACATGAG-----AT-ATGTGGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out92    TAACATTTCGGCATCGCCAGGGA----CAGGGAACCGACACGTG---GTA
+GCA_000604025.1_BOL_v1.0_rm.out133   -----C--------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out175   TAAAAATTTGGCAACGCTAAAGATAGAAGACCGAC--ACG----------
+GCA_000604025.1_BOL_v1.0_rm.out209   TAACATTTCGGCATCGGTAGGGA----CAGAGGACCAACACATG----GT
+GCA_000604025.1_BOL_v1.0_rm.out218   TAACATTTCGGCATTGCCAGGGA----CAGGAGACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out222   TCACA---------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out223   TAATATTTCGGTATCACCAGGGACAAAGAACCGACAC----ATG-----G
+GCA_000604025.1_BOL_v1.0_rm.out225   --------ATGACTATTT--------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out226   TAACATTTTGGCATCGGTAGGGACAGAGAACCAACATGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out229   TAACATTTCGGCATAGTCAAGGATATGAGACCGAC--ACGGGGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out255   TATCATTTCGGCATCACAAGAGA----CATGAGACTGATATGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out264   -----TCCGGA---------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out273   TAACATTTCGGCATCGCCAGAGATAGAAAACCGACAC----TTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out280   TAGCATTTCGGCTCGACACATGTTCTAGTCTGGAC---------------
+GCA_000604025.1_BOL_v1.0_rm.out318   TAATATTTTGGCACCGCCAAGAATAGGAGACCGGC--ACG----------
+GCA_000604025.1_BOL_v1.0_rm.out347   TAACATTTCGGCATCGCTAGAGATAGAAAACCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out351   TAATATTTCGCCATTACCAGGGA----CATGAGACCGACACGTG---ACA
+GCA_000604025.1_BOL_v1.0_rm.out368   TAATATTTCAGCATCACCAGAGATAGAAGACCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out370   TAATATTTCAGCATCGCCAAAAA----CAGGAAACCGACATGTG---TTA
+GCA_000604025.1_BOL_v1.0_rm.out371   TAACATTTCGGCATCGCCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out372   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out397   TAACATTTCAGCATCGCTAAG-----------------------------
+GCA_000604025.1_BOL_v1.0_rm.out455   TGACATTTCGGCATCGTTAGGGACATGAAACCAAC--ACGTGGGCTGGGC
+GCA_000604025.1_BOL_v1.0_rm.out458   TAACATTTCGGCATCGTA-GAGACAGAAGACCGAC--ATG----------
+GCA_000604025.1_BOL_v1.0_rm.out481   TAACATTTCGGTATTGCCAGAGA----CAAGGGACCGGCACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out485   TAAAATTTTGGTATCGCCAAGGACAAAAGACCGACA-C-ATGGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out516   -----C--------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out533   -----CCCAGAATGTTTTAAATGGTAAAAAATGTGG--------------
+GCA_000604025.1_BOL_v1.0_rm.out547   TAACATTTCGGCATCGCAAGGGA----CAGAGGACCGACATCTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out575   TAACATTTTGGCATCGCAAACATGAGACT---GAC--ACGTGGA-----C
+GCA_000604025.1_BOL_v1.0_rm.out576   --------GGAACTA-----------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out597   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out603   TAACATTTCGGCATCGCCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out610   TAACATTTCGGCTTCGCCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out624   TAACATTTCGGCATCGCCAGGGACAGAGGACCGATACAT-----------
+GCA_000604025.1_BOL_v1.0_rm.out637   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out666   -----C--------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out670   TAACATTTTGGCATCGCCAGGGA----CAAGGGATCAACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out681   TAATATTTCTACATCACAAGGTACAGAA---------GAC----------
+GCA_000604025.1_BOL_v1.0_rm.out687   TAACATTTCGGCATCGTCAGAGACAGAAGACAGAAGACCGACAC-----G
+GCA_000604025.1_BOL_v1.0_rm.out713   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out714   TAACATTTTGGCATCGCCAGGAACATGAGACCGAC--ACG----------
+GCA_000604025.1_BOL_v1.0_rm.out720   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out729   TAACGTTTGGACATCGTCGGCGACAGAGAACCATC--TGTGGGG-----G
+GCA_000604025.1_BOL_v1.0_rm.out733   TAACATTTCGGCATCGCCAGGGACAGAGTACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out735   TAACATTTTGGCATTGCCAGGAACATGAAATCGAT--ACGTGGC-----A
+GCA_000604025.1_BOL_v1.0_rm.out743   TAACATTTTGGCATCGTC-ATGGAGAGAAACCGAT--ACGTGCG-----C
+GCA_000604025.1_BOL_v1.0_rm.out761   AAACATTTTAGCATCGCCAGAGATAGTGGACCGACAC----GTG-----A
+GCA_000604025.1_BOL_v1.0_rm.out763   TAATATTTCGACATCACTAGGAACAAGATACC------------------
+GCA_000604025.1_BOL_v1.0_rm.out789   TAACATTTCGGCATCGCCAGAGACAAGA--CCGACAC----GTG-----C
+GCA_000604025.1_BOL_v1.0_rm.out804   TAACATTTCAGCATCTCCAGGGAC-ATGGACCGATAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out815   TAATATTTTGACATCGCTAGAAACAGAGAATCGACAC----GTG-----A
+GCA_000604025.1_BOL_v1.0_rm.out845   ------------------AGG-----GAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out864   TAATATTTCGGCATAGCCAGGAGCAAGGAACCAAC--ATT----------
+GCA_000604025.1_BOL_v1.0_rm.out975   ----ACACGTGGACTG--AAAA------------T---------GTAGA-
+GCA_000604025.1_BOL_v1.0_rm.out1011  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1027  TAACATTTCGGTATAGCAATG-----AAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out1028  ----AGGTGGTAAGAACCTGCG--------------------------GA
+GCA_000604025.1_BOL_v1.0_rm.out1038  TAACAGTTCGGCATCACCGAGGACAGGAGACCAGC--ACGTGGT-----A
+GCA_000604025.1_BOL_v1.0_rm.out1057  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1062  TAATATTTCAGCATCGCCAGAGA----CAGAGGACCGACACGTG---GGC
+GCA_000604025.1_BOL_v1.0_rm.out1071  CAACATTTCGGCATCGTCAGACATGGAAGC--GAC--ACGTGGG-----G
+GCA_000604025.1_BOL_v1.0_rm.out1076  TACTATTTCAGCTTCGCCAGAGACATGGAATCGAC--ACG----------
+GCA_000604025.1_BOL_v1.0_rm.out1091  CAACATTTCGGCATCACCAGGGAAAGGGGAACGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out1122  TAAAATTTTGGCATCGCGAG------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1128  TAACATTTCTACCATCGTGGCAACGCG-----------------------
+GCA_000604025.1_BOL_v1.0_rm.out1133  TAACATTTCGGCATCGCCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out1140  TAACATTTCGACATCGTCAGGGA----CA-GGGACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out1147  TAACATTTTGGCATCGTCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out1197  TAACATTTCGGCATCGCCAGAGATAGAAAACCGACATGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out1229  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1231  TAACATCTAGGCATCGCCAGG-----GAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out1240  TAAAATTTTGGCATTGCCAGGAACAGGAAACTGAC--ATGTGG-------
+GCA_000604025.1_BOL_v1.0_rm.out1276  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1288  TAACATTTAGGCATCACCGGGGCCAGACGACCGAC--ACTTTGA-----C
+GCA_000604025.1_BOL_v1.0_rm.out1291  TAACATTTCGGCATCGCTAGGGA----CAGGGGATCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out1320  TAACATTTCGGCATCGCCAGGGA----CAGGAGACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out1331  TAACATTTCGGCATCGTTAGGAATAGGGAACCGAC--ACATGGA-----C
+GCA_000604025.1_BOL_v1.0_rm.out1349  TAAAATTTCGGCATCTTTAGAGACATGAGACCGAC--ACG----------
+GCA_000604025.1_BOL_v1.0_rm.out1401  TAACATTTCGGCATCGACAGGGACAGGGGACCGAGAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out1417  TAACATTTCAGCATCGCAAAGAA----CATAGGACTGACACGTG---GTA
+GCA_000604025.1_BOL_v1.0_rm.out1429  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1449  TAACGTTTCGGCATCGCCAGGGACAGGAGACCGAC--ACGTG--------
+GCA_000604025.1_BOL_v1.0_rm.out1476  TAAAATTTCGGTATCGAA-GAGACAAGGGACCAAC--ACGTAGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out1524  TAACATTTCGGCATCGCCAGAAACAGAGGACTGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out1540  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1573  TAAATTTTCGGTATCGCCAAAGATAGGGGACTGACAC-------------
+GCA_000604025.1_BOL_v1.0_rm.out1574  TAAATTTTCGGTACTGCCAGGGACAGTGGACTGACAC-------------
+GCA_000604025.1_BOL_v1.0_rm.out1578  TAACATTTCGGCATCGCCAGGGACAGAGGATCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out1595  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1629  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1640  TAACATTTCGGCATCGTCATGGACAGGCGTGGTAATACT-----------
+GCA_000604025.1_BOL_v1.0_rm.out1645  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1669  TAACATTTCGGCATCGCCAGGGACAGAGGAGCGACACCT-----------
+GCA_000604025.1_BOL_v1.0_rm.out1699  TAACATTTCGGCATCACCAGAGACAGAGAACCGATAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out1715  TAACATTTCGGCATCGTCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out1732  ----ACCCGGGGCGCCTTAAGTGGTAAGAAAACGCGGATC-CTGCGGGCC
+GCA_000604025.1_BOL_v1.0_rm.out1734  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1739  TAACATTTCGGCATCGCCATCGCCATGGATAGGAA--ACCGATA-----G
+GCA_000604025.1_BOL_v1.0_rm.out1758  ----------------CCAGT-----AAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out1781  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1785  TAACATTCTGGCATCGCCAAAGA----CCGGTGACCGACAAGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out1791  TAACATTTCGGTATCGTCAGGGA----TAGGAGACCGACACATG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out1797  TAACATATCGGCATTACCAGAGACAGAGGACCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out1828  TAACATTTCGGTATCGCTTGAAATAACAAATCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out1830  ----ATCTGGGACGTCTTAAGTGGTAAGAAAACGCGGATC-CTGCGGACT
+GCA_000604025.1_BOL_v1.0_rm.out1890  TAATATTTTGGCATCGCCAAAAC----CAGAAGACCGACATGTG---GTA
+GCA_000604025.1_BOL_v1.0_rm.out1899  AGTTC---------------TGCCACCCGGA-------------TTCGAA
+GCA_000604025.1_BOL_v1.0_rm.out1910  TAACATTTCGGCATCGCCAGAGATAAGGGACCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out1920  TAACATTTCAACATCGTCAGAGA----CATAGGACCGACACATT---ATA
+GCA_000604025.1_BOL_v1.0_rm.out1921  TTACAGTTCGGCATCGCCAGAGATAAAAGACCGAC--ACGTAAG-----T
+GCA_000604025.1_BOL_v1.0_rm.out1937  ----ACCCGGAA--------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1954  TAACATTTCGGCATCGCCAGGGACAGAGGACCGACTCGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out1955  TTACATTTCGGCATCGCCAGG-----TAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out1960  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1966  -----CTCGAGA--------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1969  -----TT-------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1975  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1992  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1994  TAACATTTCAGCATCGTCAAAAACATGAAACCGAC--ATGTGAC-----T
+GCA_000604025.1_BOL_v1.0_rm.out1997  ----ACCCGGGCCGCCTTAAGTGGTAAGAAAACGCGGATC-CTGCGGGCC
+GCA_000604025.1_BOL_v1.0_rm.out2019  --------CAACATCGCCAGA-----GAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out2051  TAACATTTTAGCATCGCCAGAAACAGATGACCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out2057  TAACATTTTGGCATCACCAGAAACAAGAGACCGAC--ATGTGGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out2087  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2131  TAACATTTCGGCATCGCCAGGGACAGGGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out2134  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2136  TAACATTTCGGCATCTCCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out2137  TAACATTTCGGCATCGCCAGGGACAGAAGAACGACACGTGA---------
+GCA_000604025.1_BOL_v1.0_rm.out2150  TAAAATTTCGACATAGTCAGAGATATGTGACCGAC--ACGTGGA-----C
+GCA_000604025.1_BOL_v1.0_rm.out2151  TAATATTTCTGCAACGCCAGGGACAGTAGACCGACAC----GTA-----G
+GCA_000604025.1_BOL_v1.0_rm.out2207  TCACATACGGTTCTGCAGTGTCCCGAGATAGAAGACCGTT-CTGGTGCAA
+GCA_000604025.1_BOL_v1.0_rm.out2224  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2249  TAATATTTCGGCATCGCTAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out2251  TAACATTTCGGCATCGCCAGGGACAGAAGACCGACATGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out2255  TAATATTTCGGCATCACCAGAAATAAGGGACTGAC--ACGT---------
+GCA_000604025.1_BOL_v1.0_rm.out2281  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2285  TAACATTTCGGCATGGTCAGGGACAGAGGATCGACAC----GTG-----A
+GCA_000604025.1_BOL_v1.0_rm.out2307  ----ATCCGGGACGCCTTAAATGGTAAGAAAACACGGATG-CTGCGGGCT
+GCA_000604025.1_BOL_v1.0_rm.out2373  ----ATCCAGGGAGCCTTAAGTGGTAAGAAAACGCGGATC-CTGCGAACC
+GCA_000604025.1_BOL_v1.0_rm.out2386  TAACATTTCAGCATCGCCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out2410  TAACATTTCGGCATCGCCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out2440  TAACATTTCGGTATCGCCAGAGATAAAGAACCGAT--ACGTGGT-----A
+GCA_000604025.1_BOL_v1.0_rm.out2443  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2458  TCCGGTTCTGCAGCGCCCCGGGACAGAAGATCG-----------------
+GCA_000604025.1_BOL_v1.0_rm.out2502  -------------GCCACTGGGG----AATTAACTACTCATGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out2525  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2530  AACATTTTCGGCATCGTCAGGGACAGAAGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out2533  TAATTTTTA-GCATCGTTAGAGATAATGAACTGAC--ACGTGAG-----C
+GCA_000604025.1_BOL_v1.0_rm.out2534  -AATATTTCAGCATCGCAAGA-----GAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out2545  TAACATTTCAGCATCGCCAGGGA----CAGGGGACCGATACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out2554  TAACATTTCGGCATCGGCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out2563  TAATATTTCAGCATCGTCAGGAACAGAGAATCGACACATAG---------
+GCA_000604025.1_BOL_v1.0_rm.out2577  ----ACTCGGA---------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2585  TAACATTTCGCAATGCCA-GAGACAGGGGACCAAC--ACATAAA-----C
+GCA_000604025.1_BOL_v1.0_rm.out2587  TAACTTTTTGGCATCGCCAGAGA----CAGAGAACCGACACGTG---GAA
+GCA_000604025.1_BOL_v1.0_rm.out2618  --------GGAATTA-----------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2677  TAACATTTCGGCATTGTCAGAGACTGAGGACGTGA--CAA----------
+GCA_000604025.1_BOL_v1.0_rm.out2714  TAACATTTTGGCATCGCCAGGGACAGAAAATCGACACTA-----------
+GCA_000604025.1_BOL_v1.0_rm.out2716  TAACATTTCGGCATCGCCAGGGACAGAGAACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out2718  TAACATTTCGGCATCGCCAGAAA-----CATGGACCGACACGTG---GTA
+GCA_000604025.1_BOL_v1.0_rm.out2723  TAACATTTCTGCATCGCCTGGGC----CATGAGACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out2738  TAACATTTCGGCATCGCCAGAGA----CATGAGACAGATAAGTA---GTA
+GCA_000604025.1_BOL_v1.0_rm.out2739  TAACATTTCAGCATCGCCAGGATCAAGAGACTGAC--ACATAGA-----C
+GCA_000604025.1_BOL_v1.0_rm.out2775  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2778  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2781  TATCATTTCGGTACTGCAAGAAACATGAGACCGAC--ACG----------
+GCA_000604025.1_BOL_v1.0_rm.out2786  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2810  TAACATTTCGGCATCGCCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out2866  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2894  -----CTCGAGA--------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2896  TAACATTTCGGCATCGCCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out2901  -----TT-------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2909  TAACATTTCGCCATCGCCAGGGACAGAGGACCGACACGC-----------
+GCA_000604025.1_BOL_v1.0_rm.out2915  ---------GGCATCGCCAGAGACAAGAG--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out2955  TAACATTTCGGCATCGCTAGAGACAGGGGACCAACATGA-----------
+GCA_000604025.1_BOL_v1.0_rm.out2965  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2974  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2976  TAAAATTTAAGTATCGATAGGGACAGAAGACCGAT--ACATAGA-----C
+GCA_000604025.1_BOL_v1.0_rm.out2980  TAACATTTTGGTATCGCTAGAAACATGAAACCGAC--ATG----------
+GCA_000604025.1_BOL_v1.0_rm.out3009  ----ACTCAGAGCGCCTTGAATGGTAAGAAAACGCAGATT-TTGCGGGTC
+GCA_000604025.1_BOL_v1.0_rm.out3022  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3024  TAATATTTCGGCATCACCAGGGAAAGAAGATCGGCACGTGG---------
+GCA_000604025.1_BOL_v1.0_rm.out3025  TAATATTTCGGCATCACCAGGGAAAGAAGATCGACAT----GTT-----G
+GCA_000604025.1_BOL_v1.0_rm.out3031  TAACATTTCGGCATCGCCAGTAA----CAGAGAACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out3040  -----CCCGGGACGCCTTAAATGGTAAGAAAA------------------
+GCA_000604025.1_BOL_v1.0_rm.out3045  TAACATTTTAGCATCGCCAGATACATGAGACCGAT--GCG----------
+GCA_000604025.1_BOL_v1.0_rm.out3048  TAACATTTCGGCATCGACAGAGACAATAGACCAACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out3082  TAACATTTCGACATCGCCAGAGATAGGGGACCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out3097  TAACACTTCGGCATCGCCAGGGACATACATAGGACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out3120  TAATATTTTGGCATCGTCAGGGACAGAGGACCGACAT----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out3148  TAACATTTTGGCATTGATATGAACAATGGACCGAC--ACATGAA-----C
+GCA_000604025.1_BOL_v1.0_rm.out3150  TAACATTTCGGCATCGCCAGGAA----CATGGGAACGATACGTG---GTA
+GCA_000604025.1_BOL_v1.0_rm.out3186  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3206  ----ACCCGGGACGCCTTAAGTAGTAAGAAAACGCGGATC-TTGCGGCCC
+GCA_000604025.1_BOL_v1.0_rm.out3207  ----ATCCGGGACGCCTTAAGTGGTAAGAAAACGCGGATC-TTGCGGGCC
+GCA_000604025.1_BOL_v1.0_rm.out3275  ------------------AGA-----GAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out3276  TAACATTTTGGCATCGCCAGA-----GAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out3292  TCATATGTGGGATCTCAGTATGCGAGACCGAAAACCATTC-ACGGTAATT
+GCA_000604025.1_BOL_v1.0_rm.out3313  TAACATTTCGGCATCGTCAGGGACAGAGGACCGATACAT-----------
+GCA_000604025.1_BOL_v1.0_rm.out3332  -----CTTTAGAGACCTTAAATGGTAAGATTCCGCGGG----------CT
+GCA_000604025.1_BOL_v1.0_rm.out3335  TAACATTTTGGCATCGCCAGGGATAGAAAACCGACATAT-----------
+GCA_000604025.1_BOL_v1.0_rm.out3345  -----------------GGAGACTTAACATTCGAC--ATGTGGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out3368  TAACATTTCGACATCGCCAAG-----GAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out3388  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3444  TAACATTT------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3449  -----CTAAGGACGTCTTAAATGGTAAGAAAA------------------
+GCA_000604025.1_BOL_v1.0_rm.out3461  --------GGGACTATTTACATTGCTTGGGTTCCCG--------------
+GCA_000604025.1_BOL_v1.0_rm.out3473  TAACATTTCGGCATCGCCATGGA----CATTGGACCGACGCGTG---ACA
+GCA_000604025.1_BOL_v1.0_rm.out3503  TAACATTTCGGCATCGCCAGAGACGGAGGATCGACATGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out3544  TAACATTTCGGCATCGCCAGGGACAGAGAACCGAC--ACG----------
+GCA_000604025.1_BOL_v1.0_rm.out3565  TCACATGCAGTTTTGCAGCGCCCCGGGACCGAAGACCGTT-CTGGTGCAA
+GCA_000604025.1_BOL_v1.0_rm.out3575  CGGTAAAAAAATGTAGATTTTACGAACCTCGTGATGGTTA-GTCTTTGGA
+GCA_000604025.1_BOL_v1.0_rm.out3578  ------TTTGGCATCGCTAGGAACGTAGAACCAAC--ACG----------
+GCA_000604025.1_BOL_v1.0_rm.out3634  ATCCCCTAGCGCCCGA----------GACTGAAGACC-------------
+GCA_000604025.1_BOL_v1.0_rm.out3639  TAACATTTCGGCATCACCAAGGACATGGAACCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out3704  TAACATTTCGGCATCACCAGAAA----CAAAGAACTGACACGTG---GTA
+GCA_000604025.1_BOL_v1.0_rm.out3705  TAACATTTTGGCATCGCCAAGAACAGGGGACTGACAC----GTG---TGG
+GCA_000604025.1_BOL_v1.0_rm.out3706  TAACATTTCGGCATCGCCAGGAA----CAGGAAACCGATACGTG---GTA
+GCA_000604025.1_BOL_v1.0_rm.out3727  TAACATTTCGGCATCGCCAGAGACATGAAACCAAC--ACG----------
+GCA_000604025.1_BOL_v1.0_rm.out3729  ----ACTCGGGACGCTTTAAGTGGTACAGAAACACGGATT----------
+GCA_000604025.1_BOL_v1.0_rm.out3733  TAACATTTCGGCATCGCCAGG-----GAT--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out3735  TAAAATTCTGGCATCGCCATGGACATGGAACCAAT--GTG----------
+GCA_000604025.1_BOL_v1.0_rm.out3753  TAACATTTCGGCATCGCCAGGAACAGATGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out3804  TAACATTTCGGCATCGCCAGGGACAGAAGATCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out3811  TAACATTTCGGCATCGGACATGAAACCAACACGTGGCAACA---------
+GCA_000604025.1_BOL_v1.0_rm.out3817  TAACATTTCAGCATCGCCAGAGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out3830  TAACATTTCGGCATCGCCAGGGACAGAGGATCACGT--------------
+GCA_000604025.1_BOL_v1.0_rm.out3837  ------------ATCATCAGG-----GAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out3846  TAATATTTCGGCATTGCCAGGGACAGAAGACCGAC--ACGTGTG-----C
+GCA_000604025.1_BOL_v1.0_rm.out3853  ----ACCCGAGGCGCCTTAAGTGGTAAGAAAACGCGGATC-CTGCAGGCC
+GCA_000604025.1_BOL_v1.0_rm.out3859  TAACATTTCAGCATCGCCAGAGA----CAGAGGACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out3873  TAACATTTCGGCATAGCCAGAGACAGAGGACCCACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out3875  TAATATTTCGGCATCACCAGGGACAGAAGACCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out3877  TAACATTTCGGCATCGCCAGGGACAGAGTACCAACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out3878  TAATATTTCGGCGTCACCAGAGACAGAAAATCGATAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out3883  CACAGACAAGAGACAGAAAAT-----CGA--------------------C
+GCA_000604025.1_BOL_v1.0_rm.out3913  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3929  TAAGATTTCAGCATCGCTAGGGACAGATGACCGATATCGACATG---TGG
+GCA_000604025.1_BOL_v1.0_rm.out3938  ----AC--------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3981  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4004  TAACATTTCAGCATCGCTAGGGACATAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out4011  TAACATTTTGGCATCGCCAGAGACAGGAAACCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out4027  TAACATTTCGGCATCATCAATGA----TAGAAGACCGACACGTA---GCA
+GCA_000604025.1_BOL_v1.0_rm.out4076  TAACATTTCGGCATCGCCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out4099  TAAAATTTCGGCATCGCCAGAGATAAATAACAGGC--ACGTAAA-----C
+GCA_000604025.1_BOL_v1.0_rm.out4109  TAACATTTCGGCATCGCCAGGGACAGAGGACCGACACGTGA---------
+GCA_000604025.1_BOL_v1.0_rm.out4118  TATCATTTTGGCATCGCCAGGGATATAGAATCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out4134  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4154  TAAAATTTTGGCATGTCCAGGGACAAAAAATAGACACATGGACT-----G
+GCA_000604025.1_BOL_v1.0_rm.out4269  TAACATGTCGGCATTGCCGGG-----GAT--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out4318  TAACATTTCGGCATCACCAGGGA----CAGAGAACCAACACATG---GTA
+GCA_000604025.1_BOL_v1.0_rm.out4327  TAACATTTCGGCATCACCAAGGACAGAAGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out4367  TAACATTTTGGCATCGTCATGGA----CATAGGACCGATACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out4368  TAACATTTTGGCATCGTCAGGGA----CATAGAACCGATACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out4371  TAACATTTCGGCATCCCCAGGGACAGGGGACCGAC--ACGCGGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out4392  TAACATTTTGGCATTGTCAGGGA----CAGAAGACCGACACGTG---GTA
+GCA_000604025.1_BOL_v1.0_rm.out4395  TAACATTTCGGCATCGCCAGGGAAAGAAGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out4409  TAAAATTTTGGTATCGCAAAACAGAAAAATGACACGTGG-----------
+GCA_000604025.1_BOL_v1.0_rm.out4421  TAACATTTCGGCATCGTCAGGGA----CAGAAGACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out4451  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4458  ------TTCGGCATCACCAGGGACATG----GGAAC-ACGCAGA-----C
+GCA_000604025.1_BOL_v1.0_rm.out4476  --ACATTTCGGCATTGCGAAATGTGGGATCGAGAC--ATA----------
+GCA_000604025.1_BOL_v1.0_rm.out4493  ----ACCCGGGACGCTATAAGTGGTAAGAAAACGCGGATC-CTGCGGGCC
+GCA_000604025.1_BOL_v1.0_rm.out4502  -----CT-------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4509  TAACATTTCCGCATCGCCAGAGACAGAAGGCCGATAT----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out4510  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4558  TAACATTTCGGCATCGCCAGGGACAGAGGACCGACAC----GTG-----T
+GCA_000604025.1_BOL_v1.0_rm.out4580  ----ACGTGGACCGAT--TTAT------------C---------GTAGA-
+GCA_000604025.1_BOL_v1.0_rm.out4616  TAACATTTCGGCATCGCTAAGGACAGGGGACCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out4634  TAAAATTTCGGTATTATGAAGGACATCGGACTGAC--ACGTGGA-----C
+GCA_000604025.1_BOL_v1.0_rm.out4653  TAACATTTCGGCATTGCCAGGGACAGAAGAACGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out4665  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4676  TAACATTTCGGCATCGCCAAGGA----CAAGAGACTGACACGTG---TTA
+GCA_000604025.1_BOL_v1.0_rm.out4729  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4736  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4739  ----------------------------G--------------------G
+GCA_000604025.1_BOL_v1.0_rm.out4799  TAACATTTTGGGATCGCCAAGAA----CAAAAGACCGACACGTG---ACA
+GCA_000604025.1_BOL_v1.0_rm.out4809  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4821  -----GGACG----TCTTAAATGATAAAAAATGTGG--------------
+GCA_000604025.1_BOL_v1.0_rm.out4834  TTCGATATCGCCGAAAATAGATGATCATGGACCGAAAAAC-G---TAGGC
+GCA_000604025.1_BOL_v1.0_rm.out4869  TAACATTTCAGCATCGCCAGGGA----CAAGAGACTGATATGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out4885  TAACATTTCAGCATCATCAGGAA----CATGAGACCGATACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out4891  TAGCATCTCAGCATCGTTAGAGACATGAAATCGAC--ATGTGGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out4949  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4967  TAACATTTCAGCATCGGTAGGA-----CTGGAGAACGACACATG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out4968  TAACATTTCGGCATCG----------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4974  ----ACCCGAGGCGCTTTAAGTGGTAAGAAAACACGGATC-ATGCGGGCT
+GCA_000604025.1_BOL_v1.0_rm.out4989  TAACATTTCGGCATCGCCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out4993  TAACATTTCGGCATCGCCAGAGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out4995  TCACATGCAGTTTTGCAGCGCCCCGGGACCGAAGACCGTT-CTGGTGCAA
+GCA_000604025.1_BOL_v1.0_rm.out5015  TAACATTTCAGCATCACCAGAGACATGAG-----AT-ATGTGGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out5029  TAACATTTCGGCATCACCAGAAA----AAAGAGACCGATACGTG---TGA
+GCA_000604025.1_BOL_v1.0_rm.out5037  TCACATACGGAATTCCAACGTCCGAGATCGAAAACCGTTC-ACGTAATCC
+GCA_000604025.1_BOL_v1.0_rm.out5041  TAACATTTCGGCATCGCCAAGGGACCGA------CAC----GTG------
+GCA_000604025.1_BOL_v1.0_rm.out5077  TAACGTTCCGGCATTGTAAGGGACAGAAAACCGAC--ACG----------
+GCA_000604025.1_BOL_v1.0_rm.out5082  TAATATTTCGGTATCGCTAGAAA----CAGAGAACCGACACGTG---ACA
+GCA_000604025.1_BOL_v1.0_rm.out5131  TAATATTTCAGTATCGTTAGAGACATGAAACCGAC--ACG----------
+GCA_000604025.1_BOL_v1.0_rm.out5179  TAACATTTCGGCATCGCCAGGGA----CATGAGACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out5221  TAACATTTCGGCATCGCCAGGGA----TATGGGACCGATACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out5224  TAACATTTCGGCATTGTCAGAGAC-AGACGGGAACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out5270  TAACATTTCAGCATCGCTACGAA----CGAGAGATCGACACGTA---GCA
+GCA_000604025.1_BOL_v1.0_rm.out5281  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5285  TAACATTTCGGCATCGCCAGGGACAGAGGACCGACACAT-----------
+GCA_000604025.1_BOL_v1.0_rm.out5295  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5313  TAACATTTCGGCATCGCCAGGGACAGGGAACCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out5340  TTAACATTTGGCATCACCAGAAACAGGAGACCGACAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out5378  TAACATTTCGGCATCGTGGAA-----------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5380  TAACATTTCGGCATCGCCAGAAACAGAAAACCGATAT----ATG-----G
+GCA_000604025.1_BOL_v1.0_rm.out5387  TAACATTTCGGCATCGCCAGGGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out5415  ----ACCCGGAACGCCTTAAGTGGTAAGAAAACGCGGATC-CTGCGGACC
+GCA_000604025.1_BOL_v1.0_rm.out5436  TAACATTTCGGCATCGCCAGGGATAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out5450  ----ACTCGGAGCGTCTTAAGTGGTAAGAAAACGCGGATT-CTGCGGGCC
+GCA_000604025.1_BOL_v1.0_rm.out5506  TAAAATTTCGGCATCGCTAGAGACATGAGACCTACATGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out5556  TGACATTTCGGCATCCCCAGGGATAGAGGACCGACACAT-----------
+GCA_000604025.1_BOL_v1.0_rm.out5568  TAACATTTCTGCATCGCCAGGGA----CAGGAGACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out5585  TAACATTTCGGTATCGCCAAAGACAGGGAACCGACAC----GTG-----T
+GCA_000604025.1_BOL_v1.0_rm.out5611  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5627  TATTATTTCGGCATCGCCAGGAA----CAGAGGACCGACACGTG---GTA
+GCA_000604025.1_BOL_v1.0_rm.out5668  TAACATTTCGGCATCGCCAGAAACAGAGGACTGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out5678  -AAGATTTCGGCATCGCTAGG-----GAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out5689  TAACATTTTGCCATCGCCATAGA----CAGAGGACCAATACGTG---ATA
+GCA_000604025.1_BOL_v1.0_rm.out5693  TAATATTTTGGCATCGACATGAACAGAAGACCGAC--ACGTGGA-----C
+GCA_000604025.1_BOL_v1.0_rm.out5700  TAACATTTCGGCATCGCCAGGGATAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out5711  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5717  TAACATTTCGGCATCGCCAGAGACAGAGGACCGACACGT-----------
+GCA_000604025.1_BOL_v1.0_rm.out5719  TAACATTTCGGCATCGCCAAGGACAGGGGACAGATAC----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out5748  TAACATTTTGGCATGGCCAGGGG----CAGGGGACCGACACATG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out5749  TAACATTTTGACATGACCAAGGA----CAGGGGACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out5750  TAACATTTTGACATGACCAAGGA----CAGGGGACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out5751  TAACATTTCGGACCGA------------------C--ACGTGG-------
+GCA_000604025.1_BOL_v1.0_rm.out5763  TAACATTTCGGCATTGCC-AG-----GAC--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out5789  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5833  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5856  TAATATTTCGGCATCACCAGAGA----CCGGGGACCGACACGTG---ACA
+GCA_000604025.1_BOL_v1.0_rm.out5860  TCACATGCGGAACCCCACCGAAGATCTAACGGTGATCTAC-ATAGTGA--
+GCA_000604025.1_BOL_v1.0_rm.out5894  TAACATTTCT----------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5914  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5922  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5941  TTACATTTCAGCATCCCCAGGAA----CAAGGGACCGACACGTG---GCA
+GCA_000604025.1_BOL_v1.0_rm.out5975  TAACATTTCGGCATCGCCAGGGACAGTGG---------------------
+GCA_000604025.1_BOL_v1.0_rm.out5976  TAACATTTCGGCATCGCCAGGGACAGTGG---------------------
+GCA_000604025.1_BOL_v1.0_rm.out5977  TAACATTTCGGCATCGCCAGGGACAGAGAACCGACACATGG---------
+GCA_000604025.1_BOL_v1.0_rm.out5980  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5981  ----ATCCGGGA--------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5986  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5987  TAAATTTTTGGTATTGTCAAGAACAGTGGACTGACACAA-----------
+GCA_000604025.1_BOL_v1.0_rm.out5988  TAAATTTTCGCTATCGCCAAGGACAGTGGACTGACAC-------------
+GCA_000604025.1_BOL_v1.0_rm.out5997  -----GCCACCTGGGTTCTAA-----TCC--------------------C
+GCA_000604025.1_BOL_v1.0_rm.out6000  TAACATTTTGGCATCACCAGGGATAGAAAATCGACGG----GTG-----G
+GCA_000604025.1_BOL_v1.0_rm.out6007  TAACATTTTGGCATGGTCAGAGA----CAGACGACCGACACATG---GTA
+GCA_000604025.1_BOL_v1.0_rm.out6048  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out6054  TAACATTTCGACATCAACAGG-----GAT--------------------A
+GCA_000604025.1_BOL_v1.0_rm.out6061  TAACATTTCGTCATCGCC-AAGGACAGGGACCGAT--ACGTGGG-----C
+GCA_000604025.1_BOL_v1.0_rm.out6071  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out6074  --------------------------------------------------
+
+GCA_000604025.1_BOL_v1.0_rm.out23    ------------------------------------------GGTAATAC
+GCA_000604025.1_BOL_v1.0_rm.out35    --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out60    --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out74    CGATAACGTAC---------------------------TCT-GCTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out79    ---TAGTAACA---------------------------C-----------
+GCA_000604025.1_BOL_v1.0_rm.out83    CGATAACGTCG---------------------------ACT-GCTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out84    CGATAACGTAA---------------------------ACT-GCTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out85    CGATAACGTAA---------------------------ACT-GCTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out88    GGAAAACATAG---------------------------GCT-ATTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out92    ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out133   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out175   ---TAG--------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out209   ----------------------------------------------AACA
+GCA_000604025.1_BOL_v1.0_rm.out218   ----------------------------------------------ACGC
+GCA_000604025.1_BOL_v1.0_rm.out222   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out223   --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out225   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out226   ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out229   TGAAAACATAA---------------------------GCT-ACTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out255   ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out264   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out273   --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out280   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out318   ---TGGCAACA---------------------------CGT-GACTA---
+GCA_000604025.1_BOL_v1.0_rm.out347   --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out351   ----------------------------------------------ACAT
+GCA_000604025.1_BOL_v1.0_rm.out368   --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out370   ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out371   ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out372   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out397   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out455   TGAAAACGTAG---------------------------GCG-GCTAACAT
+GCA_000604025.1_BOL_v1.0_rm.out458   ---TGACAACA---------------------------CAT-GATTAA--
+GCA_000604025.1_BOL_v1.0_rm.out481   ----------------------------------------------ACAT
+GCA_000604025.1_BOL_v1.0_rm.out485   CGATAACGTG----------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out516   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out533   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out547   ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out575   CGATAACGTAA---------------------------GCT-GCAAACAT
+GCA_000604025.1_BOL_v1.0_rm.out576   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out597   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out603   ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out610   ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out624   ------------------------------------------GACAACAC
+GCA_000604025.1_BOL_v1.0_rm.out637   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out666   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out670   ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out681   ---TGACAAGT---------------------------GGC-CACTAG--
+GCA_000604025.1_BOL_v1.0_rm.out687   ------------------------------------------TGGCACAC
+GCA_000604025.1_BOL_v1.0_rm.out713   ---------------------------------------------AACAC
+GCA_000604025.1_BOL_v1.0_rm.out714   ---CGACAACA---------------------------CGT-AACTAG--
+GCA_000604025.1_BOL_v1.0_rm.out720   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out729   TAAATGTTTTC---------------------------TCG-GCTAAT--
+GCA_000604025.1_BOL_v1.0_rm.out733   ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out735   ACTATATTTGT---------------------------ACA-GCCAGGAT
+GCA_000604025.1_BOL_v1.0_rm.out743   TACA----------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out761   --------------------------------------------TAACAT
+GCA_000604025.1_BOL_v1.0_rm.out763   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out789   --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out804   --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out815   --------------------------------------------TAACAT
+GCA_000604025.1_BOL_v1.0_rm.out845   TGAGACGGACA---------------------------CGT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out864   ---TGGCAATA---------------------------CAT-GATTAA--
+GCA_000604025.1_BOL_v1.0_rm.out975   ----------------------------------------CTGCTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1011  ---------CA---------------------------TGT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1027  GTGAACCGATA---------------------------CGT-AGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1028  CTTGTGTGATTAGTCTTTGGGCTTAGAAAGCCG-----------------
+GCA_000604025.1_BOL_v1.0_rm.out1038  ACAAGTGTC-----------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1057  --------------------------------------------CGACAC
+GCA_000604025.1_BOL_v1.0_rm.out1062  TGAAAACGTAG---------------------------GCT-GCCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1071  CAATAACGTAG---------------------------GCTACAAAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1076  ---CGACAATA---------------------------CAT-AACTAG--
+GCA_000604025.1_BOL_v1.0_rm.out1091  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1122  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1128  ----------------------------------------T-AATTAG--
+GCA_000604025.1_BOL_v1.0_rm.out1133  ------------------------------------------GGCAACAT
+GCA_000604025.1_BOL_v1.0_rm.out1140  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out1147  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1197  ------------------------------------------GACAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1229  ----------------------------------------T-GCTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1231  GGGGACCGACA---------------------------CGT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1240  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1276  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1288  TGGTCTGGACC---------------------------ACT-TATGTGGA
+GCA_000604025.1_BOL_v1.0_rm.out1291  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out1320  ----------------------------------------------ATAC
+GCA_000604025.1_BOL_v1.0_rm.out1331  CGAAAACGTAG---------------------------ACT-GCTAACAT
+GCA_000604025.1_BOL_v1.0_rm.out1349  ---TGACTAG----------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1401  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1417  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out1429  --------ACA---------------------------CGT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1449  -AAAAACGTAG---------------------------GCT-GGTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1476  TGAAAACGTAG---------------------------GCT-GCTAATAC
+GCA_000604025.1_BOL_v1.0_rm.out1524  ------------------------------------------GGAAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1540  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1573  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1574  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1578  ------------------------------------------AGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1595  -------------------------------------------GCAACAT
+GCA_000604025.1_BOL_v1.0_rm.out1629  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1640  ----------------------------------------------TGAC
+GCA_000604025.1_BOL_v1.0_rm.out1645  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1669  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1699  --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1715  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1732  TCGTAGTGATTAGTCCTTGGGTCTAGAAAGCCTTTGGG------------
+GCA_000604025.1_BOL_v1.0_rm.out1734  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1739  TCTAGACTAGG---------------------------GTC--ATGATAC
+GCA_000604025.1_BOL_v1.0_rm.out1758  GAGGATCGACA---------------------------CGT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1781  ---------------------------------------------AACAC
+GCA_000604025.1_BOL_v1.0_rm.out1785  ----------------------------------------------ACAT
+GCA_000604025.1_BOL_v1.0_rm.out1791  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out1797  --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1828  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1830  TTGTAGTGATTAGTCCTTGGGTCTAGAAAGCCTTTGAG------------
+GCA_000604025.1_BOL_v1.0_rm.out1890  ----------------------------------------------ATAC
+GCA_000604025.1_BOL_v1.0_rm.out1899  TTCCGGTCACT-------GACCAGCGCAAGCTAGATCTTTGGTCGCTTCA
+GCA_000604025.1_BOL_v1.0_rm.out1910  --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1920  ----------------------------------------------ACAA
+GCA_000604025.1_BOL_v1.0_rm.out1921  ACATGT--------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1937  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1954  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1955  GAGAACCGACA---------------------------CGT-GACAACAC
+GCA_000604025.1_BOL_v1.0_rm.out1960  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1966  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1969  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1975  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1992  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1994  GGTGTGAA------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1997  TCGTAGTGATTAGTCCTTGGGCCTAGAAAGCCTTTGGG------------
+GCA_000604025.1_BOL_v1.0_rm.out2019  GAGAACCGATA---------------------------CGT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2051  --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2057  TGAAAACGTAG---------------------------GCT-GCTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2087  ----ACCGAGA---------------------------CGT-GGTAACAT
+GCA_000604025.1_BOL_v1.0_rm.out2131  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2134  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2136  ------------------------------------------AGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2137  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2150  CGAAAACGTAG---------------------------GCT-GCTAATAC
+GCA_000604025.1_BOL_v1.0_rm.out2151  --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2207  TCCATATCTTTAGTGTGACTTTCGTCACCGTGCGGTTCGCGATTGTTTCG
+GCA_000604025.1_BOL_v1.0_rm.out2224  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2249  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2251  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2255  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2281  --GGACTGACA---------------------------CGT-GGTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2285  --------------------------------------------CAATAC
+GCA_000604025.1_BOL_v1.0_rm.out2307  TCGTAGTGATTAGTCATTGGACCTAGAAAGCCTTTGGGATAAC-------
+GCA_000604025.1_BOL_v1.0_rm.out2373  TCGTAGTGATTAGTCTTTGGGCCTAGAAAGCTTTTGGG------------
+GCA_000604025.1_BOL_v1.0_rm.out2386  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2410  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2440  ACACGTGAC-----------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2443  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2458  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2502  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out2525  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2530  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2533  CAAAAACGTAG---------------------------ACT-ACTAACCT
+GCA_000604025.1_BOL_v1.0_rm.out2534  GTGGACCGACA---------------------------CAT-GGTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2545  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out2554  ------------------------------------------GGAAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2563  --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2577  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2585  TGAAAACGTAG---------------------------GCT-ACTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2587  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out2618  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2677  ---CCACTTAT---------------------------GTA-GAGCCA--
+GCA_000604025.1_BOL_v1.0_rm.out2714  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2716  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2718  ----------------------------------------------GCAC
+GCA_000604025.1_BOL_v1.0_rm.out2723  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out2738  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out2739  TGAAAACGTAG---------------------------ACT-ACTAACAT
+GCA_000604025.1_BOL_v1.0_rm.out2775  ----------------------------------------------ACAA
+GCA_000604025.1_BOL_v1.0_rm.out2778  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2781  ---TAGTAACA---------------------------TAT-AACTAG--
+GCA_000604025.1_BOL_v1.0_rm.out2786  ------------------------------------------------AC
+GCA_000604025.1_BOL_v1.0_rm.out2810  ------------------------------------------GGTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2866  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2894  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2896  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2901  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2909  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2915  CCGACACATCA---------------------------TGT-GGTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out2955  ----------------------------------------------CTAG
+GCA_000604025.1_BOL_v1.0_rm.out2965  --GACAGGAGG---------------------------ACC-GACACGTG
+GCA_000604025.1_BOL_v1.0_rm.out2974  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2976  CAAAAATGTTG---------------------------GCC-GCTGACAC
+GCA_000604025.1_BOL_v1.0_rm.out2980  ---TGACAAGA---------------------------CGT-GACTAA--
+GCA_000604025.1_BOL_v1.0_rm.out3009  TCGTAGTGATTAGTCCTTGGGCCTAGAAAGCCTTTCGG------------
+GCA_000604025.1_BOL_v1.0_rm.out3022  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3024  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3025  --------------------------------------------TAACAT
+GCA_000604025.1_BOL_v1.0_rm.out3031  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out3040  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3045  ---TAGCTATA---------------------------GAT-TACTAG--
+GCA_000604025.1_BOL_v1.0_rm.out3048  --------------------------------------------CAGCAC
+GCA_000604025.1_BOL_v1.0_rm.out3082  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3097  ----------------------------------------------AAAT
+GCA_000604025.1_BOL_v1.0_rm.out3120  --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3148  TGAAAATGTAG---------------------------ACC-GCTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3150  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out3186  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3206  TCGTGGTGATTAGTCCTTGGGTCTAGAAAGCCTTTG--------------
+GCA_000604025.1_BOL_v1.0_rm.out3207  TCGTGGTGATTAGTCATTGGGTCTAGAAAGCCTTTGGG------------
+GCA_000604025.1_BOL_v1.0_rm.out3275  TGGGACCGACA---------------------------CGT-AGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3276  TGGGACCGACA---------------------------CGT-AGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3292  TATATGGTGAT---CAGTGTATGCTAGATCTTTAA---TTAGTCGTTTTG
+GCA_000604025.1_BOL_v1.0_rm.out3313  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3332  TTGCGGTGATTATTCTTTGGGCCTAGAAAGTTCTTGG-------------
+GCA_000604025.1_BOL_v1.0_rm.out3335  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3345  TGGAAACGTAG---------------------------ACT-GCTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3368  AGAGATCGACA---------------------------AGT-GGTAATAT
+GCA_000604025.1_BOL_v1.0_rm.out3388  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3444  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3449  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3461  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3473  ----------------------------------------------ATAC
+GCA_000604025.1_BOL_v1.0_rm.out3503  ------------------------------------------GGCAATAC
+GCA_000604025.1_BOL_v1.0_rm.out3544  ---TGGCAACA---------------------------CAT-GA------
+GCA_000604025.1_BOL_v1.0_rm.out3565  CACATGTCCCTCATGTGACTCTGGTCACTGTGTGGTTCGTGGTTGTCTCG
+GCA_000604025.1_BOL_v1.0_rm.out3575  C--------CTAGAAAGTCTTTGG--------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3578  ---TAGTAACA---------------------------CGT-GACTAG--
+GCA_000604025.1_BOL_v1.0_rm.out3634  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3639  --------------------------------------------TAACAT
+GCA_000604025.1_BOL_v1.0_rm.out3704  ----------------------------------------------ACAT
+GCA_000604025.1_BOL_v1.0_rm.out3705  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3706  ----------------------------------------------ACAT
+GCA_000604025.1_BOL_v1.0_rm.out3727  ---TGGCAACA---------------------------CGT-GGCAAC--
+GCA_000604025.1_BOL_v1.0_rm.out3729  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3733  GGGGACCGATA---------------------------CGT-AGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3735  ---G----------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3753  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3804  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3811  --------------------------------------------TCTGAC
+GCA_000604025.1_BOL_v1.0_rm.out3817  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3830  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3837  TGAGACCGACA---------------------------CGT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3846  AAAAAACGTAG---------------------------GCT-GATAACGC
+GCA_000604025.1_BOL_v1.0_rm.out3853  TCGTAGTGATTAGTTCTTGGGCCTAGAAAACCTTTAGGATCACACTACGG
+GCA_000604025.1_BOL_v1.0_rm.out3859  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out3873  ------------------------------------------GGTAACAT
+GCA_000604025.1_BOL_v1.0_rm.out3875  --------------------------------------------TACCAC
+GCA_000604025.1_BOL_v1.0_rm.out3877  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3878  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3883  ACGTACCGACA---------------------------CGT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3913  --------ACA---------------------------CAT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3929  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out3938  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3981  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4004  ------------------------------------------GGTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4011  --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4027  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out4076  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4099  CAAAAATGTAG---------------------------ATT-GCTAATAT
+GCA_000604025.1_BOL_v1.0_rm.out4109  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4118  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4134  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4154  ATACAACAGGC---------------------------TAT-GCTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4269  AGAAACCGACA---------------------------CGT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4318  ----------------------------------------------ATAC
+GCA_000604025.1_BOL_v1.0_rm.out4327  ------------------------------------------GGTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4367  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out4368  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out4371  TGAAAACGTAG---------------------------GCT-GCTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4392  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out4395  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4409  ----------------------------------------GCGGTAACAT
+GCA_000604025.1_BOL_v1.0_rm.out4421  ----------------------------------------------ATAC
+GCA_000604025.1_BOL_v1.0_rm.out4451  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4458  TGATAAGGTAG---------------------------ACC-ACTAATAC
+GCA_000604025.1_BOL_v1.0_rm.out4476  -------------------------------------------TCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4493  TCGTAGTGATTAGTCTTTGGGCCTAAAAAGCCTTTGGG------------
+GCA_000604025.1_BOL_v1.0_rm.out4502  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4509  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4510  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4558  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4580  ----------------------------------------CTGCTAACAT
+GCA_000604025.1_BOL_v1.0_rm.out4616  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4634  CGAAAACGTAG---------------------------AAT-GCTAACAT
+GCA_000604025.1_BOL_v1.0_rm.out4653  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4665  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4676  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out4729  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4736  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4739  ACAGAGGACCA---------------------------CGT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4799  ----------------------------------------------TTAG
+GCA_000604025.1_BOL_v1.0_rm.out4809  ---------------------------------------------AACAC
+GCA_000604025.1_BOL_v1.0_rm.out4821  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4834  TGTTAATACATAGTTAGTTTGAACCTATTTCGATGGGGATCAGGATACCT
+GCA_000604025.1_BOL_v1.0_rm.out4869  ----------------------------------------------ATAC
+GCA_000604025.1_BOL_v1.0_rm.out4885  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out4891  TGAAAACATAA---------------------------GCT-CATAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4949  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4967  ----------------------------------------------ACAT
+GCA_000604025.1_BOL_v1.0_rm.out4968  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4974  TCGTAGTGATTAGTCTTTGGGTATAGAAAGCCTTTGGG------------
+GCA_000604025.1_BOL_v1.0_rm.out4989  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4993  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out4995  CACATGTCCCTCATGTGACTCTGGTCACTGTGTGGTTCGTGGTTGTCTCG
+GCA_000604025.1_BOL_v1.0_rm.out5015  GGAAAACATAG---------------------------GCT-ACTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5029  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5037  ACATGGACTATTTCGATGGAGCCATGGGGCCAGGA-------TA------
+GCA_000604025.1_BOL_v1.0_rm.out5041  ------------------------------------------------GT
+GCA_000604025.1_BOL_v1.0_rm.out5077  ---TGATAATA---------------------------CGT-AAGTAG--
+GCA_000604025.1_BOL_v1.0_rm.out5082  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out5131  ---TAGTAACA---------------------------CGT-GATTAG--
+GCA_000604025.1_BOL_v1.0_rm.out5179  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out5221  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out5224  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out5270  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out5281  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5285  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5295  ------CAACA---------------------------CGT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5313  --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5340  --------------------------------------------TAACAA
+GCA_000604025.1_BOL_v1.0_rm.out5378  ----ACCGACA---------------------------TGT-CACTAG--
+GCA_000604025.1_BOL_v1.0_rm.out5380  --------------------------------------------TAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5387  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5415  TCGTAGTGATTAGTCTTTGAGCCTAGAAAACCTTTGGG------------
+GCA_000604025.1_BOL_v1.0_rm.out5436  ------------------------------------------GGCAACAT
+GCA_000604025.1_BOL_v1.0_rm.out5450  TCGTAGTGATTAATCTTTGGGCATAGAAAGCCTTTGGGATCACACTACGG
+GCA_000604025.1_BOL_v1.0_rm.out5506  ----------------------------------------GG--------
+GCA_000604025.1_BOL_v1.0_rm.out5556  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5568  ----------------------------------------------ATAC
+GCA_000604025.1_BOL_v1.0_rm.out5585  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5611  ---------------------------------------GT-GCTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5627  ----------------------------------------------ATAC
+GCA_000604025.1_BOL_v1.0_rm.out5668  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5678  GAAGACCGACA---------------------------CGT-GATAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5689  -----------------------------------------------ACA
+GCA_000604025.1_BOL_v1.0_rm.out5693  TAAAAACATAG---------------------------ACT-GGTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5700  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5711  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5717  ------------------------------------------GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5719  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5748  ----------------------------------------------TCAC
+GCA_000604025.1_BOL_v1.0_rm.out5749  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out5750  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out5751  ---------------------------------------------CAACA
+GCA_000604025.1_BOL_v1.0_rm.out5763  GGGTACCAACA---------------------------CGT-AGCAATAC
+GCA_000604025.1_BOL_v1.0_rm.out5789  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5833  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5856  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out5860  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5894  ----GGCAATA---------------------------CGT-GACTAG--
+GCA_000604025.1_BOL_v1.0_rm.out5914  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5922  ----------------------------------------G-TGATAG--
+GCA_000604025.1_BOL_v1.0_rm.out5941  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out5975  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5976  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5977  --------------------------------------------CAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5980  -------GGCA---------------------------CGT-GGTAACAC
+GCA_000604025.1_BOL_v1.0_rm.out5981  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5986  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5987  ----------------------------------------AATATGTGAC
+GCA_000604025.1_BOL_v1.0_rm.out5988  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5997  GGCCACTGAGA---------------------------AAT-TAACACAC
+GCA_000604025.1_BOL_v1.0_rm.out6000  --------------------------------------------TAACAT
+GCA_000604025.1_BOL_v1.0_rm.out6007  ----------------------------------------------ACAC
+GCA_000604025.1_BOL_v1.0_rm.out6048  ---------------------------------------------AACAC
+GCA_000604025.1_BOL_v1.0_rm.out6054  TATGACCGATA---------------------------CGT-GGCAACAC
+GCA_000604025.1_BOL_v1.0_rm.out6061  TGAAAACGTAG---------------------------GCT-ACTAACAT
+GCA_000604025.1_BOL_v1.0_rm.out6071  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out6074  --------------------------------------------------
+
+GCA_000604025.1_BOL_v1.0_rm.out23    GTGACTAGTC-TGGATCACTTCTGT-GGGACCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out35    --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out60    GTGACTAGTC-TGGATCACTTC-TG-TGGGGTCAGG----ATACTTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out74    GTGGCTAATC-TGGACTCACTTCGGTAAGGACCAAGA----TACCCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out79    --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out83    GTGGGTAGTC-TGGATCCACTTTGGTGGAGGCCAGGA----TACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out84    GTGGCTAGTC-TGGATCCACTTTGGTGGAGGCCATGA----TACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out85    GTGGCTAGTC-TGGATCCACTTTGGTGGAGGCCAGGA----TACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out88    GTGGCTAGTT-TTGAGCCACTTCTATGGAGACCAGGA----TACCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out92    GTGACTAGTC-TGGACCACTTA-TG-TGGAGCTAGG----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out133   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out175   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out209   GTCGTTAGTC-TGGACCATTTC-TG-TGAAGCCATG----ATATCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out218   GTGACTAGTC-TGGACCACTTC-TG-TGGGGCTAGA----ATACCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out222   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out223   GTGACTAGTC-TAGATCAATTC-TG-TGAGACCAGG----ATATTTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out225   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out226   GTGACTAGTT-TGGATCACTTCTGT-GGGCCAGGAT----AC-CTA-TGT
+GCA_000604025.1_BOL_v1.0_rm.out229   GTGGCTAATT-TGGACCTATTTCTGTGAGGATCAGGAT--A--TCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out255   GCGATTAATA-TGGACCACTTC-TG-TGGAGCCAAG----ATACCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out264   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out273   GTGACTAGTC-TGGATCATTTC-TC-TTGGTCCAGG----ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out280   -----------------CATTTCTGTGGGGC-------------------
+GCA_000604025.1_BOL_v1.0_rm.out318   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out347   ATGATTAGTC-TGGACCACTCA-TG-TGGGACCAAA----ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out351   GTGACTAGTG-TGGACCATTTC-GG-TGGGACTAGG----ATACCTTTGT
+GCA_000604025.1_BOL_v1.0_rm.out368   GTGACTAGTA-TGGACCACTTC-TG-TGGTGCCATG----ATACCATGTA
+GCA_000604025.1_BOL_v1.0_rm.out370   GTGACTAGTC-TGGACTACTTC-TG-TGGGGCCAGA----ATACTTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out371   GTGACTAGTC-TGGATCACTTCTGT-GGGACCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out372   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out397   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out455   GTGGCTAGTT-TGGTCTCACTTTACTTCAGTGGGACTAAGATACCGCGTA
+GCA_000604025.1_BOL_v1.0_rm.out458   --------TT-TAAACTATTTCTGTGGGATCAT----A--ATACTCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out481   GTAACTAGTC-TGGATTACTTC-TG-TGGGACCAGG----ATATCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out485   ---GCTAGTC-TGGACTCACTTCGGTGGGGTC-GGGA----TACCCCTAT
+GCA_000604025.1_BOL_v1.0_rm.out516   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out533   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out547   GTGACTAGCC-TGAACCATTTC-TG-TGGAGCCAGA----ATATCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out575   GTGGCTACTC-CGGACCCACTTTAAGGTGGAGGCCATG--ATACCTCCGT
+GCA_000604025.1_BOL_v1.0_rm.out576   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out597   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out603   GTGACTAGTC-TGGATCACTTCTGT-GGGGCCATGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out610   ATGACTAGTC-TGGATCACTTCTGT-GGGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out624   GTGACTAGTC-TGGATCACTTCTCT-GTGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out637   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out666   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out670   GTGACTAGTC-AGGACCACTTC-TG-TAGGACCAAG----ATACCCCCGT
+GCA_000604025.1_BOL_v1.0_rm.out681   --------TC-TGAACCATTGTTGTAGGGCCAG----G--ATA-------
+GCA_000604025.1_BOL_v1.0_rm.out687   ATGACTAGTC-TGGATCACTTCTGT-GGGGCCAGGA----TACTTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out713   GTTTCAAGTC-TGGATCACTTC-TGTGGGGCCAGGA----TACCT-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out714   --------TC-TTAGTCACTGGACCACTTCTAT----G--GAGGCCA---
+GCA_000604025.1_BOL_v1.0_rm.out720   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out729   --------CT-AGACTCATTTTGGTGGGACCAA----A--ATACCTATGT
+GCA_000604025.1_BOL_v1.0_rm.out733   GTGACTAGTC-TGGATCACTTCTGT-GGGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out735   ACCCCTGTAT----------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out743   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out761   GTGACTAGTC-TGGATCACTTT-TG-TGAGGTCAGG----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out763   --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out789   GTGACTAGTT-TGGACCACTCC-TG-TAAGATAAGG----ATACCCATTT
+GCA_000604025.1_BOL_v1.0_rm.out804   ATGACAAATC-TGGATCATTTC-TG-TGGGGCCAGG----ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out815   GTGACTAGTC-TGAACCAATTC-TG-TGGGATCAGG----ATATCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out845   ATGACTAGTC-TGGACCACTTA-TGTGGTGCAAGAA----TACCC-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out864   --------TC-TAAATAACTTACGTGGAGCTGG----G--ATACACCTGT
+GCA_000604025.1_BOL_v1.0_rm.out975   GAAACTAGTC-TTCACCCAATTATGTGGAGGCCAGGA---TACCCAATGT
+GCA_000604025.1_BOL_v1.0_rm.out1011  GTGACTAGTT-TCGACCACTTC-TGTGGGGCTAGAA----TACTC-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out1027  ATAACTAGTC-TGTACTATTTC-TGTGAGACCATGA----TATCC-ATGT
+GCA_000604025.1_BOL_v1.0_rm.out1028  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1038  -----------TGGACCATTTTCTGTGGGGCCAAGA----TAC-CATGTA
+GCA_000604025.1_BOL_v1.0_rm.out1057  GTGACTAGTC-TGGACCACTTT-TGTGGAGCCAGGA----TATCC-ATGT
+GCA_000604025.1_BOL_v1.0_rm.out1062  GTGGCTAGTC-TGGATCCACTTCTGTGGAGGCCAGA----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out1071  GTGGTTAGTC-TGGACCCACCTTATGGTGGAGGTCATG--ATATCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out1076  --------TC-TGGACCACTTCCGTGGGGCCAG----G--ATACCTATAT
+GCA_000604025.1_BOL_v1.0_rm.out1091  ATGATCAGTC-TAGACCATTTC-TA-TGGAACCATG----ATATCCCTAT
+GCA_000604025.1_BOL_v1.0_rm.out1122  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1128  --------TC-TGTACCACTTTTATGGGACCAG----G--ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out1133  GTGACTAGTC-TAGATCACTTATGT-GGAGTCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out1140  ATGGTTAGTC-TGGACCACTTA-TG-TGGGGTCAGG----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out1147  GTGACTAGTC-TGGATCACTTCTAT-GAAGCCAAGA----TACCTC-GGT
+GCA_000604025.1_BOL_v1.0_rm.out1197  GTGACTAGTC-TGGATCACTTCTGT-GGGGCCATAA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out1229  GTGACTAGTC-TGGACCCACTTCGATGGGGG-CTGGA----TACCTATGT
+GCA_000604025.1_BOL_v1.0_rm.out1231  GTGACTAGTC-TGGACCACTTC-TGTGGGGCCAGAA----TACCC-TTGT
+GCA_000604025.1_BOL_v1.0_rm.out1240  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1276  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1288  CATACCCCTG--------------------------------------TA
+GCA_000604025.1_BOL_v1.0_rm.out1291  GTGACTAATT-TGGACCACTTA-TG-TGGGGCCATG----ATACCCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out1320  GTGACTAGTC-TGGACCACTTC-TG-TGGGGCCAGG----ATACCCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out1331  GTGGCTAGTC-CGAACCCACTTTTGTAGGGACCAGG----ATACCATGTA
+GCA_000604025.1_BOL_v1.0_rm.out1349  --------TC-TGGACCACTGTTGTGGGGCTAG----G--ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out1401  GTGACTTGTC-TGGACCATTTC-TG-TGGGGCCAGA----ATACCCCTTT
+GCA_000604025.1_BOL_v1.0_rm.out1417  ATGACTAGTG-TGGACCATTTT-TG-TGGGGCCAGG----ATACCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out1429  GTGACTAGTC-TGAATCACTTT-TATAGGACCAGGA----TGCCT-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out1449  GTGGTTAGTT-TGAACCCACATCTGTGGGGGCCATA----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out1476  GTGGCTATTC-AGGACCCACTTCTGTGGATGCCAGG----ATACC-----
+GCA_000604025.1_BOL_v1.0_rm.out1524  GTGACTAGTC-TGGATCACTTCTGT-GGGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out1540  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1573  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1574  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1578  GTGACTAGTC-TGGATCACTTCTGT-GAGGTCAGGA----TACTTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out1595  GTGACTAGTC-TGGACCATTTC-A---------GGA----TACCT-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out1629  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1640  T-----AGTC-TGGAT----------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1645  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1669  GTGACTAGTC-TTGATCACTTCTGT-GGGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out1699  ATGATTAGTC-TGGACCACTTC-TG-TGAACCGAGG----GGTATGTATA
+GCA_000604025.1_BOL_v1.0_rm.out1715  GTGACTAGTC-TGGATCACTTTTGT-GGGGCCTGGA----TACTTC-TGC
+GCA_000604025.1_BOL_v1.0_rm.out1732  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1734  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1739  TCCTATAT------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1758  GTGACTAGTC-TGGATCACTTC-TGTGGAGCCAGGA----TATCT-CTGA
+GCA_000604025.1_BOL_v1.0_rm.out1781  GTGACTAGTC-TTGACCCACTTTGGTGAGGGCAAGGA----TACCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out1785  GTGACTAGTC-TGGACCACTGT-------GGTCAAG----ATATCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out1791  GTGACTAGTC-TGGACCATTTC-TG-TGGGGCCAGG----ATACCCACGT
+GCA_000604025.1_BOL_v1.0_rm.out1797  GTGACCACTC-TGGACGATTTC-TG-TGGAATCAGA----ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out1828  ATGAGTAGTC-AGAACCACTTC-TG-TAGAGCCATG----ATACTTCTAT
+GCA_000604025.1_BOL_v1.0_rm.out1830  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1890  GTGACTAGTC-TAAACCATTTC-TG-TGAGACTAGG----ATATTCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out1899  GTCTCTAGTC-TGGACCACATTAGTGGGACCAGGAT--------------
+GCA_000604025.1_BOL_v1.0_rm.out1910  GTGACATAGTCTAGACCACTTA-TG-TGAGCCATTA----ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out1920  GTGACTAGTC-TGTATCATTTA-TG-TGGGGTCAGG----ATATCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out1921  --GACTAATC-TGGACCTACTTCTATAAAACCAGG-AT--A--CTTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out1937  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1954  GTGACTAGTT-TGGATCACTTCTGT-GGGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out1955  GTGACTAGTG-TGGATCACTTC-TGTGGGGCCAGGA----TACCT-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out1960  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1966  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1969  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1975  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1992  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out1994  ---------------CCACTTTTGTAGGCCATA----T--GATATCATGT
+GCA_000604025.1_BOL_v1.0_rm.out1997  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2019  ATAACTAGTC-TGGATCACTTC-TGTAGGACCATGA----TACCT-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out2051  ATTATTAGTC-TGGACCATTTA-TG-TGGGCCATGA----TAC-TTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out2057  GTAGCTAATC-TAGATTCATTTCTGTGGGGGCCAGGAT--A--TCCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out2087  GTGACTAGTC-TGGACCACTTC-TGTGGGGGCAAGG----ACACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out2131  GTGACTAGTC-TGGATCACTTCTGT-GGGGTCAGAA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out2134  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2136  GTGACTAGTC-TGGATCACTTCTGT-GGGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out2137  ----CTAGTA-TAGATCACTTCTGT-GGGGCCAGGA----TATCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out2150  ATGACTAATC-TGGATCCACTTCGGTGGAGACCAGGAA--A--TTCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out2151  GTGAATAGTT-TGGACCACTTC-TG-TAAGACCAGA----ATACTCCTAT
+GCA_000604025.1_BOL_v1.0_rm.out2207  GTCTCTAATC-TCACTCATCTCGGTAAAAGTCA-AAA---CACTC-----
+GCA_000604025.1_BOL_v1.0_rm.out2224  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2249  ATGACTAGTG-TGGATCACTTCTGT-GGGGCTAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out2251  GTGACTAGTC-TGGATCACTTCTGT-GGGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out2255  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2281  TTGACTAGTC-TAGACCAATTC-TGTCGGACCCAAG----ATATCTATGT
+GCA_000604025.1_BOL_v1.0_rm.out2285  GTGATTAGTC-TGGATCACTTC-TG-TGAAGTCAGA----ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out2307  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2373  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2386  GTGACTAGTC-TGGATCACTTCTGT-GAGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out2410  GTAACTAGTC-TGGATCACTTATGT-GGAACCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out2440  -----TAGTT-TAGATCACTTTTGTAGGGTCAA-G--A--A--ACCATGT
+GCA_000604025.1_BOL_v1.0_rm.out2443  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2458  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2502  GTGAGTAGTC-TGCACTACTTC-TG-TGGGGCCAGT----ATACCCTCGT
+GCA_000604025.1_BOL_v1.0_rm.out2525  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2530  GTGACTAGTC-TGGATCACTTCTGT-AGGGCCAGGA----TACCTT-TTT
+GCA_000604025.1_BOL_v1.0_rm.out2533  GTGACTAGTC-TAAATTCATTTTGGTGGGAACCAGTA----TACCGCTGT
+GCA_000604025.1_BOL_v1.0_rm.out2534  GTGACTAGTC-TGGACCATTTT-TGTGGGGTCAGGA----TACTC-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out2545  GTGACTAGTC-TGGACCACTTT-TG-TGGGGCCAGG----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out2554  GTGACTAGTC-TGGATGGGGCCAAG-ATAC-------------CTCTGGT
+GCA_000604025.1_BOL_v1.0_rm.out2563  GTAACTAGTT-TGGACCACT------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2577  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2585  GTGGTTATTC-TGGACCCAATTCTATGGGACCAAGA----TACCCCCTTG
+GCA_000604025.1_BOL_v1.0_rm.out2587  GTGAATAGTT-TGGACAACTTC-TG-TGGGACAGGA----TATC-CCTGT
+GCA_000604025.1_BOL_v1.0_rm.out2618  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2677  --------GG-ATAGCCC-------------AT----G--ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out2714  -------GTC-TGCATCACTTCTGT-GGGGCTAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out2716  GTGACTAGTC-TGGATCACTTCTAT-GGGACCAGGA----TACCTA-TGT
+GCA_000604025.1_BOL_v1.0_rm.out2718  ATGACTAGTC-TGAACCACTTC-TG-TTGAGCCAGG----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out2723  GTGACTAGTC-TGGATCACTTC-TG-TGTGACCAAT----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out2738  GTGAATAGTT-TGGACCACTTC-TG-TGGAGCCAGG----ATATCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out2739  ATGGTTAGTC-TAGATTCACTTCTGTGAGGGGGCCAAG--ATACCCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out2775  GTGACTAGTC-TAGACCACTTC-TATGAGACTAGGA----TATCC-GTGT
+GCA_000604025.1_BOL_v1.0_rm.out2778  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2781  --------TG-TGGACCATTTCTGTAGGGCCAA----A--ATACCCTGGT
+GCA_000604025.1_BOL_v1.0_rm.out2786  GTGACTAGTC-TGGACCACTTC-TGTAAGGGCAGAA----TATCC-ATGT
+GCA_000604025.1_BOL_v1.0_rm.out2810  GTGACTAGTC-TGGATCACTTCTGT-GAGACCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out2866  ---ACTAGTT-TGGACCACTTC-TGTGGAGCCAAGA----TATCC-TTAT
+GCA_000604025.1_BOL_v1.0_rm.out2894  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2896  GTGACTAGTC-TGGATCACTTCTGT-GGGGCCATGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out2901  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2909  GTGACTAGTC-TGGATCACTTCTGT-GGGGCCATGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out2915  ATGACTAGTC-TGGACCAATTC-TGTGGGGCCAGAA----TACTC-TTGT
+GCA_000604025.1_BOL_v1.0_rm.out2955  T-----CTTG-GCCACTTCTGT----------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2965  TTGACTAGTC-TGTACCACTTC-TGTGGGGCTAGGA----TACAC-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out2974  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out2976  GTAGCTAGTC-TAGATTCACTTCAGTTAGGACCAGTA----TACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out2980  --------TC-TGAACTACTTCTGTGAACCAGG----A--TATCCGTGTA
+GCA_000604025.1_BOL_v1.0_rm.out3009  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3022  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3024  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3025  GTGACTAGTC-TGGACCACTTC-TA-TGTGGCCAGG----ATATCCATAT
+GCA_000604025.1_BOL_v1.0_rm.out3031  GTGAATAGTC-TGGACCACTTC-TG-TGGGGCCAGG----ATAACCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out3040  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3045  --------TC-TGGATC---------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3048  GTGACTAATC-TGGATCATTTA-TG-TGGAGTTATG----ATATTTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out3082  GTGACTAGTC-TGGACACTTCG-AT-ACCCCTGTAT----AATTC-----
+GCA_000604025.1_BOL_v1.0_rm.out3097  GTGACTAGTC-TGGACCACTTC-TG-TGGGACCAGT----ATACCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out3120  GTGACTAGTC-TGGATCACTTC-TG-TGGGACCAGG----ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out3148  GTGGTTAGTC-TAAATCCACTTTTATGAGAACCATG----ATAC------
+GCA_000604025.1_BOL_v1.0_rm.out3150  GTGAGTAGTC-TGGACCACTTC-TG-AGTAATCATG----ATATCTTTGT
+GCA_000604025.1_BOL_v1.0_rm.out3186  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3206  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3207  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3275  GTGATAAGTT-TCAACCACTTT-TGTAAGGCTACGA----TATCC-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out3276  GTGATAAGTT-TCAACCACTTT-TGTAAGGCTACGA----TATCC-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out3292  GTTTTTAATT-TGGACCATTTCGATAGGGTG---GTA---CATTCGGTTA
+GCA_000604025.1_BOL_v1.0_rm.out3313  GTGACTAGTC-TGGATCACTTCTGT-GAGGTTAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out3332  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3335  GTGACTAGTC-TGGATCATTTATGT-AGGGTCAGAT----ACCTCTGT--
+GCA_000604025.1_BOL_v1.0_rm.out3345  GTGGCTAGTC-TGGACCCACTTCTGTGGGGCCAGAA----TACCTGTATA
+GCA_000604025.1_BOL_v1.0_rm.out3368  GTGACTAGTC-TGTATCATTTT-TGTGAGACCAAAA----TAACC-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out3388  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3444  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3449  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3461  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3473  GTGAATAGTA-TGGACCACTTC-TA-TGGGGCCAGG----ATACCCCCGT
+GCA_000604025.1_BOL_v1.0_rm.out3503  ATGACTAGTC-TGGATCACTTCTGT-GGAGCCATGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out3544  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3565  GTCTCTAGTC-TGAACTCACTTCGGTGAGGGCCAGGA---CACTCGAT--
+GCA_000604025.1_BOL_v1.0_rm.out3575  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3578  --------TC-TTAACCATTTTCGTGGAGCTAG----A--ATATCCATAT
+GCA_000604025.1_BOL_v1.0_rm.out3634  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3639  GTGACTAGTC-TGGACCATTTC-TG-TGGGGCCAGA----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out3704  GTGACTAGTT-TGTACCACTTA-TG-TGGGGCCATG----ATATCCCTAT
+GCA_000604025.1_BOL_v1.0_rm.out3705  GTAACTAGTC-TGAACCATTTA-TG-TGGGGCCATG----ATACCCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out3706  GTGACTAGTC-TAGACCACTTTTT--TAGGGCAATA----ATACCCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out3727  --------AC-GTGACTAGTCTGGACCACTTAT----G--TG--------
+GCA_000604025.1_BOL_v1.0_rm.out3729  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3733  GTGACTAGTC-TGGACCACTTA-TGTGGGGTCAAGA----TATCC-ATGT
+GCA_000604025.1_BOL_v1.0_rm.out3735  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3753  GTGACTAGTC-TGGATCACTTCTGT-GTAGCCAGGA----TATCTT-TGT
+GCA_000604025.1_BOL_v1.0_rm.out3804  GTGACTAGTC-TGGATCACTTCTGT-GGAACCAAGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out3811  T-----AGTC-TGGA-----------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3817  GTGACTAGTC-TGGATCATACCTCT-GTATAATTC---------------
+GCA_000604025.1_BOL_v1.0_rm.out3830  GTGACTAGTC-TGGATCACTTTTGT-GGAGCCAGGA----TACCTC-AGT
+GCA_000604025.1_BOL_v1.0_rm.out3837  ATAACTAGTC-TGGATCAATTC-TGTGGAGCCTAGA----TACCC-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out3846  GTGGCTAGTC-TGGACCCACTTCTGTGGACGCCAAG----ATACCCCTAT
+GCA_000604025.1_BOL_v1.0_rm.out3853  TTAT----------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3859  GTGACTAATC-TGGACCACTTC-TG-TGGAGCTAGG----ATACCCCTGC
+GCA_000604025.1_BOL_v1.0_rm.out3873  GTAACTAGTC-TAGATCACTTATGT-GGGGTCAGGA----TACCTA-TGT
+GCA_000604025.1_BOL_v1.0_rm.out3875  GTGAATAGTT-TGGACCACTTC-TG-AGGGACTACA----ATATCTCTAT
+GCA_000604025.1_BOL_v1.0_rm.out3877  GTGACTAGTC-TGGATCACTTC-TA-TGGGGCCAGG----ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out3878  GTGACTAGTC-TGGACTATTTC-AG-TGGGGCCAGA----ATATCCTGTA
+GCA_000604025.1_BOL_v1.0_rm.out3883  GTGACTAGTC-TGGACCACTTC-TGTGGGGTCAGGA----TACCT-CTAT
+GCA_000604025.1_BOL_v1.0_rm.out3913  ATGACTAGTC-TGGATCACTTC-TGTGGGACTAGGA----TACCT-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out3929  GTGATTAGTC-TGAACCATTTT-TC-TAAGACCAAG----ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out3938  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out3981  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4004  GTGACTAGTC-TGGATCACTTCTGT-GGGGGCAAAG----ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out4011  ATGACTAGTC-TGGACCACTTA-TG-TGGGGCCAGG----ATACCACTGT
+GCA_000604025.1_BOL_v1.0_rm.out4027  ATGACTAGTT-TGGACCACTTC-TA-TAGAGCCAGG----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out4076  ATGATTAGTC-TGGATCACTTCTGT-GGGACCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out4099  ATATCTAGTC-TGAATCTATTTCGGTAGGAACCAAGAT--A--CCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out4109  ----CTAGTA-TAGATCACTTCTGT-GGGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out4118  GAAACTAGTC-TGGATCAATTC-TG-TGGAGCTAAG----ATACCCGTAC
+GCA_000604025.1_BOL_v1.0_rm.out4134  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4154  ATGGTTAGTC-TGGATTCACTTTGGTGGAAACCAAAA----CCCTTGTAT
+GCA_000604025.1_BOL_v1.0_rm.out4269  GTGACTAGTC-TGGACCAATTC-CGTGGGGCCAGAA----TACCC-CAGT
+GCA_000604025.1_BOL_v1.0_rm.out4318  GTGACTAGTC-TGAACCATTTC-TA-TGGGGCCAAG----ATACCCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out4327  GTGACTAGTC-TGGATCACTTCTGT-GAGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out4367  GTGACTAGTC-TGGACCACTTA-TG-TGGGACCAGG----ATACCCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out4368  GTGACTAGTC-TGTACCACTTC-TG-TGGGACCAGG----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out4371  GAGGCTAGTT-TGGATCCACTTCTGTGGGGCCAGGA----TAACCCCGTA
+GCA_000604025.1_BOL_v1.0_rm.out4392  GTGACTTGTC-TAGACTACTTTCTG-TGGGACCAGG----ACATCCCGTA
+GCA_000604025.1_BOL_v1.0_rm.out4395  GTGACTAGTA-TAGATCACTTCTGT-GGAGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out4409  GTGGTTAGTC-TGGACTTCGATGG--------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4421  ATGATTAGTC-TGGATCATTTC-TG-CAGGGCCGGG--------------
+GCA_000604025.1_BOL_v1.0_rm.out4451  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4458  GTGGCTAGTC-TGGACATATTTTGGTGGATACCAAAA----TAGCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out4476  GTGACTAGTT-TGGATCATTTCTATAGAGTCA-----G--GATACCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out4493  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4502  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4509  GTGACTAGTC-TCGATCACTTC-TG-TGGGGCTAGG----ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out4510  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4558  GTGACTAGTC-TGGATCACTTC-TG-GGGCAGGA-------TACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out4580  ATATCTAGTC-TGGATCCAATTCGATGGAGCCAGGAT---TCTTCTGTAT
+GCA_000604025.1_BOL_v1.0_rm.out4616  ATGACTAATC-TGAAGCACTTT-TG-TGGGGCCAGG----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out4634  GTGGTTAATC-GGGATTCACTTCGGTGAAAGTGACGA----TACCTCCGT
+GCA_000604025.1_BOL_v1.0_rm.out4653  GTGACTAGTC-TGGATCACTTC-TG-TGGGGCCAGA----ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out4665  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4676  GTGGCTAGTC-TGGACCACTTC-TG-TGGAGCCAGG----ATATCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out4729  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4736  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4739  GTGATTATTC-TGGACCACTTC-TGTGGGCTAGGAT-----ACCC-CTGC
+GCA_000604025.1_BOL_v1.0_rm.out4799  ATAACTAGTC-TGGATCACTTC-TG-TAGAGCCAGG----ATACCTATGT
+GCA_000604025.1_BOL_v1.0_rm.out4809  GTAACTAGTG-TGGACCCACTTCGATGGAGGCCTGGA----TACCTATGT
+GCA_000604025.1_BOL_v1.0_rm.out4821  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4834  CTGTATAATT----------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4869  GTGACTAGTC-TGAACCACTTC-TG-TAGAGCTATG----ATACCTTTGT
+GCA_000604025.1_BOL_v1.0_rm.out4885  GTGACTAGTC-TGGATCATTTT-TA-TGGGGCCAGT----ATACCCCGTA
+GCA_000604025.1_BOL_v1.0_rm.out4891  ACGGCTAGTC-TGGACCCACTTCCATAGAACCATG-A----TATCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out4949  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4967  GTGACTAGTC-TGGACCACTTC-TG-TTGGGTCAAG----ATATCCATTT
+GCA_000604025.1_BOL_v1.0_rm.out4968  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4974  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out4989  GTGACTAATC-TGGATCACTTCTGT-GGGACAAGGA----TACTTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out4993  GTGACTAGTC-TGGATCACTTCTGT-GGGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out4995  GTCTCTAGTC-TGAACTCACTTCGGTGAGGGCCAGGA---CACTCGAT--
+GCA_000604025.1_BOL_v1.0_rm.out5015  GTGGCTAGTC-TTGACTTACTTCTATGGGGACCAGGA----TACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out5029  GTGACTAGTC-TGTACCACTTC-TG--TGGGGCATG----ATATCCCTAT
+GCA_000604025.1_BOL_v1.0_rm.out5037  ----------------------------------------C---------
+GCA_000604025.1_BOL_v1.0_rm.out5041  AACACTAGTC-TGGACCACTTC-TG-TGGGGCCAAG----ATACCCCTAT
+GCA_000604025.1_BOL_v1.0_rm.out5077  --------TC-TGGACCACTTCCGTGGAGCTAG----G--ATATCCCTTG
+GCA_000604025.1_BOL_v1.0_rm.out5082  ATAACTAGTC-TATACCATTTA-TGTGAGGCCAAGA----ATATTCCTAT
+GCA_000604025.1_BOL_v1.0_rm.out5131  --------TT-TGTACCATTTTTGTGGAGTCAG----G--ATACCCGTAT
+GCA_000604025.1_BOL_v1.0_rm.out5179  GTGATTAGTC-TGGACCACTTC-TG-TGGGGCCAGG----GTACCCGTGT
+GCA_000604025.1_BOL_v1.0_rm.out5221  GTGACTAGTC-TGGACCACTTA-TG-TGGAGTCAGG----ATATCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out5224  GTGACTAGTC-TGGACCACTTC-TG-TGAGGCTAGG----ATACAGTTGT
+GCA_000604025.1_BOL_v1.0_rm.out5270  GTGATTACTT-TAGACCACTTT-TG-TGGAGCCAGT----ATAGTCCTTT
+GCA_000604025.1_BOL_v1.0_rm.out5281  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5285  GTGACTAGTC-TGGATCACTTCTGT-GAGGTCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out5295  GTGACTAGTT-TGGATCACTTC-AGTGGAGCCAGGA----TACCT-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out5313  ATGACCAGTC-TGGACCACTTC-TG-TGGGACCAGG----AGACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out5340  ATGACTAGTT-TGGACCACTTC-TG-TGGAATCAGG----ATACACCCCT
+GCA_000604025.1_BOL_v1.0_rm.out5378  --------TC-TAGACCATTTCTGTGGGGACAT----G--ATATCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out5380  GTGACTAGTC-TGGACCACTTC-TG-TATAACCAGA----ATCTCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out5387  GTGGCTAGTC-TGGATCACTTATGT-GGGGTCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out5415  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5436  GTGACTAGTC-TGGATCACTTATGT-CGGTCTA-----------------
+GCA_000604025.1_BOL_v1.0_rm.out5450  TTATC---------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5506  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5556  GTTACTAGTC-TGGGTCACTTATGT-GGGGCCAGGA----TACCTC-CGT
+GCA_000604025.1_BOL_v1.0_rm.out5568  GTGATTAGTA-TGAACCACTTT-TG-TGGGGTTAGG----ATACTCCGTA
+GCA_000604025.1_BOL_v1.0_rm.out5585  ATGACTAGTC-TGGACCATTTC-TG-TGGATCAGGA----TAC-CCCTAT
+GCA_000604025.1_BOL_v1.0_rm.out5611  GTGAATAGTT-TGGATCTACTCCCGTGGAGTTCAAGA----TATCCATGT
+GCA_000604025.1_BOL_v1.0_rm.out5627  GTGACTAGTC-TGGACCACTTA-TG-TGGGACCATG----ATACCCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out5668  GTGACTAGTC-TAGATCACTTCTGT-GGAGCCATGA----TACCTC-TTT
+GCA_000604025.1_BOL_v1.0_rm.out5678  GTGACTAGTC-TGGATCACTTC-TGTGGGGCCATGA----TACCT-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out5689  TTGACTAGTC-TAAACCACTTC-TT-TAGAACCAGA----ATACCCCTGC
+GCA_000604025.1_BOL_v1.0_rm.out5693  GTGGCTAGTC-TGAACCCACGTCTGTGAGACC------------------
+GCA_000604025.1_BOL_v1.0_rm.out5700  GTGATTAGTC-TGGATCACTTCCAT-GGGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out5711  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5717  GTGACTAGTC-TGGATCATTTCTGT-GGGGCCAGGA----TACCTC-TGT
+GCA_000604025.1_BOL_v1.0_rm.out5719  ATGACTAGTC-TGGACCATTTC-TG-TGGGGTTATG----ATAGCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out5748  GTGACTAGTC-TGGACCAGTTC-CT-TAGGACCA----------------
+GCA_000604025.1_BOL_v1.0_rm.out5749  GTGACTAGTC-TGGATTAGTTC-CG-TAGGGCCA----------------
+GCA_000604025.1_BOL_v1.0_rm.out5750  GTGACTAGTC-TGGATTAGTTC-CG-TAGGGCCA----------------
+GCA_000604025.1_BOL_v1.0_rm.out5751  CTGACTAGTC-TGGACCAATTCCGTATGGCCA------------------
+GCA_000604025.1_BOL_v1.0_rm.out5763  GTGACGAGTC-TGGACCATTTC-TGTAGGGTCAGGA----TACCA-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out5789  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5833  -TGACTAGTC-TGGATCATTTA-TGTGGGCAGGATA----CTT---ATGT
+GCA_000604025.1_BOL_v1.0_rm.out5856  ATGACTAGTC-TGGACCACTTA-TG-TGGAGCCAGG----ATACCCCTGT
+GCA_000604025.1_BOL_v1.0_rm.out5860  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5894  --------TC-TCGATCACTTCTGTGGGGCCAG----G--GTATATAATT
+GCA_000604025.1_BOL_v1.0_rm.out5914  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5922  --------TC-TGGACCATTTAGGTGGG-ACCA----G--ATACCTCTGT
+GCA_000604025.1_BOL_v1.0_rm.out5941  TTGACTAGTT-TGGATCACTTC-TG-TGGGGTCGGG----ATACCCTTGT
+GCA_000604025.1_BOL_v1.0_rm.out5975  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5976  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5977  GTGACTAGTC-TGGATCATT------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5980  GTGACTAGTC-TGGATCACTTC-TGTGTGGTCAGTA----TATCT-CTTT
+GCA_000604025.1_BOL_v1.0_rm.out5981  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5986  -------GTC-TAGATCAGTTC-TGTGGAGCGAGGA----TACCT-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out5987  T-------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5988  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out5997  GTGACTAGTC-TGGATCACTTC-TGTTGGATCAAGA----TACCT-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out6000  GTAACTAATC-TGGACCAATTC-TG-TAGGACCAGG----ATACCATGTA
+GCA_000604025.1_BOL_v1.0_rm.out6007  GTGACTAGTC-TGGACCATTTC-TG-TGGGACCAGG----ATATCCTGTA
+GCA_000604025.1_BOL_v1.0_rm.out6048  ATGGCTAGTC-TGGATCTACTTTGGTGGAGGTTAGAA----TCCCTCCGT
+GCA_000604025.1_BOL_v1.0_rm.out6054  GTGACTAGTC-TGGATCACTTC-TGTGGAGCCAGAA----TACCT-CTGT
+GCA_000604025.1_BOL_v1.0_rm.out6061  GTAGCTAGTC-TGGACCCACTTATGTGGAGCCCAAG----ATA-------
+GCA_000604025.1_BOL_v1.0_rm.out6071  --------------------------------------------------
+GCA_000604025.1_BOL_v1.0_rm.out6074  ---ACTAGTC-TGGACCACTTA-TGTGGGGTCAGGA----TATCC-ATGT
+
+GCA_000604025.1_BOL_v1.0_rm.out23    ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out35    ---------
+GCA_000604025.1_BOL_v1.0_rm.out60    ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out74    ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out79    ---------
+GCA_000604025.1_BOL_v1.0_rm.out83    ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out84    ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out85    ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out88    ACAATT---
+GCA_000604025.1_BOL_v1.0_rm.out92    ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out133   ---------
+GCA_000604025.1_BOL_v1.0_rm.out175   ---------
+GCA_000604025.1_BOL_v1.0_rm.out209   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out218   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out222   ---------
+GCA_000604025.1_BOL_v1.0_rm.out223   ATAATCC--
+GCA_000604025.1_BOL_v1.0_rm.out225   ---------
+GCA_000604025.1_BOL_v1.0_rm.out226   ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out229   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out255   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out264   ---------
+GCA_000604025.1_BOL_v1.0_rm.out273   ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out280   ---------
+GCA_000604025.1_BOL_v1.0_rm.out318   ---------
+GCA_000604025.1_BOL_v1.0_rm.out347   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out351   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out368   TAAT-----
+GCA_000604025.1_BOL_v1.0_rm.out370   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out371   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out372   ---------
+GCA_000604025.1_BOL_v1.0_rm.out397   ---------
+GCA_000604025.1_BOL_v1.0_rm.out455   TAATTC---
+GCA_000604025.1_BOL_v1.0_rm.out458   A-TAATTC-
+GCA_000604025.1_BOL_v1.0_rm.out481   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out485   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out516   ---------
+GCA_000604025.1_BOL_v1.0_rm.out533   ---------
+GCA_000604025.1_BOL_v1.0_rm.out547   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out575   ATAAT----
+GCA_000604025.1_BOL_v1.0_rm.out576   ---------
+GCA_000604025.1_BOL_v1.0_rm.out597   ---------
+GCA_000604025.1_BOL_v1.0_rm.out603   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out610   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out624   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out637   ---------
+GCA_000604025.1_BOL_v1.0_rm.out666   ---------
+GCA_000604025.1_BOL_v1.0_rm.out670   ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out681   ---------
+GCA_000604025.1_BOL_v1.0_rm.out687   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out713   ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out714   ---------
+GCA_000604025.1_BOL_v1.0_rm.out720   ---------
+GCA_000604025.1_BOL_v1.0_rm.out729   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out733   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out735   --AATT---
+GCA_000604025.1_BOL_v1.0_rm.out743   ---------
+GCA_000604025.1_BOL_v1.0_rm.out761   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out763   ---------
+GCA_000604025.1_BOL_v1.0_rm.out789   ATAA-----
+GCA_000604025.1_BOL_v1.0_rm.out804   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out815   ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out845   ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out864   ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out975   ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out1011  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1027  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1028  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1038  T-AATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1057  ATAACTC--
+GCA_000604025.1_BOL_v1.0_rm.out1062  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out1071  ATAATCC--
+GCA_000604025.1_BOL_v1.0_rm.out1076  ATAA-----
+GCA_000604025.1_BOL_v1.0_rm.out1091  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1122  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1128  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1133  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1140  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1147  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1197  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1229  ATAGTTC--
+GCA_000604025.1_BOL_v1.0_rm.out1231  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out1240  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1276  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1288  T-AATT---
+GCA_000604025.1_BOL_v1.0_rm.out1291  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out1320  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out1331  TAATT----
+GCA_000604025.1_BOL_v1.0_rm.out1349  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1401  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1417  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out1429  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1449  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1476  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1524  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1540  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1573  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1574  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1578  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1595  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1629  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1640  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1645  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1669  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1699  ATTC-----
+GCA_000604025.1_BOL_v1.0_rm.out1715  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1732  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1734  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1739  --AATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1758  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out1781  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1785  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out1791  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out1797  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out1828  ATAAT----
+GCA_000604025.1_BOL_v1.0_rm.out1830  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1890  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1899  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1910  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1920  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1921  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out1937  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1954  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1955  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1960  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1966  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1969  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1975  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1992  ---------
+GCA_000604025.1_BOL_v1.0_rm.out1994  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out1997  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2019  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2051  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out2057  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2087  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2131  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2134  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2136  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2137  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out2150  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out2151  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2207  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2224  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2249  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out2251  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out2255  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2281  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2285  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2307  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2373  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2386  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2410  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2440  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out2443  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2458  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2502  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2525  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2530  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out2533  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out2534  ATAAT----
+GCA_000604025.1_BOL_v1.0_rm.out2545  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out2554  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2563  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2577  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2585  TATAAT---
+GCA_000604025.1_BOL_v1.0_rm.out2587  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2618  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2677  ATAAT----
+GCA_000604025.1_BOL_v1.0_rm.out2714  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2716  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2718  ATAAATC--
+GCA_000604025.1_BOL_v1.0_rm.out2723  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2738  ATAA-----
+GCA_000604025.1_BOL_v1.0_rm.out2739  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2775  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2778  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2781  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2786  ATAACTC--
+GCA_000604025.1_BOL_v1.0_rm.out2810  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2866  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out2894  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2896  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2901  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2909  GTAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2915  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out2955  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2965  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2974  ---------
+GCA_000604025.1_BOL_v1.0_rm.out2976  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out2980  TAACT----
+GCA_000604025.1_BOL_v1.0_rm.out3009  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3022  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3024  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3025  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3031  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out3040  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3045  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3048  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3082  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3097  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3120  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3148  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3150  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out3186  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3206  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3207  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3275  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out3276  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out3292  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3313  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3332  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3335  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3345  ATT------
+GCA_000604025.1_BOL_v1.0_rm.out3368  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out3388  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3444  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3449  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3461  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3473  ATGAT----
+GCA_000604025.1_BOL_v1.0_rm.out3503  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3544  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3565  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3575  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3578  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out3634  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3639  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3704  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out3705  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out3706  ATAA-----
+GCA_000604025.1_BOL_v1.0_rm.out3727  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3729  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3733  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out3735  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3753  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3804  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3811  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3817  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3830  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3837  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3846  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3853  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3859  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out3873  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3875  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out3877  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3878  TAATT----
+GCA_000604025.1_BOL_v1.0_rm.out3883  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3913  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out3929  ATAA-----
+GCA_000604025.1_BOL_v1.0_rm.out3938  ---------
+GCA_000604025.1_BOL_v1.0_rm.out3981  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4004  ATAATCC--
+GCA_000604025.1_BOL_v1.0_rm.out4011  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4027  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4076  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4099  ATA------
+GCA_000604025.1_BOL_v1.0_rm.out4109  ATAAT----
+GCA_000604025.1_BOL_v1.0_rm.out4118  AATTC----
+GCA_000604025.1_BOL_v1.0_rm.out4134  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4154  AATT-----
+GCA_000604025.1_BOL_v1.0_rm.out4269  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out4318  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4327  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4367  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4368  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4371  TAATT----
+GCA_000604025.1_BOL_v1.0_rm.out4392  TAATT----
+GCA_000604025.1_BOL_v1.0_rm.out4395  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4409  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4421  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4451  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4458  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4476  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out4493  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4502  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4509  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out4510  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4558  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4580  AATT-----
+GCA_000604025.1_BOL_v1.0_rm.out4616  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4634  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out4653  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4665  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4676  ATAAT----
+GCA_000604025.1_BOL_v1.0_rm.out4729  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4736  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4739  ATAGTT---
+GCA_000604025.1_BOL_v1.0_rm.out4799  ATAGTT---
+GCA_000604025.1_BOL_v1.0_rm.out4809  ATAGTTC--
+GCA_000604025.1_BOL_v1.0_rm.out4821  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4834  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4869  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4885  TAATTC---
+GCA_000604025.1_BOL_v1.0_rm.out4891  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out4949  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4967  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4968  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4974  ---------
+GCA_000604025.1_BOL_v1.0_rm.out4989  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out4993  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out4995  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5015  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5029  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5037  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5041  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out5077  TATAATTC-
+GCA_000604025.1_BOL_v1.0_rm.out5082  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5131  AATT-----
+GCA_000604025.1_BOL_v1.0_rm.out5179  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5221  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5224  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5270  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5281  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5285  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5295  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5313  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5340  GTATAATTC
+GCA_000604025.1_BOL_v1.0_rm.out5378  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out5380  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5387  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out5415  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5436  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5450  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5506  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5556  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5568  TAATT----
+GCA_000604025.1_BOL_v1.0_rm.out5585  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5611  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5627  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5668  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5678  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5689  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out5693  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5700  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5711  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5717  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5719  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5748  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5749  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5750  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5751  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5763  GTAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5789  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5833  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5856  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out5860  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5894  C--------
+GCA_000604025.1_BOL_v1.0_rm.out5914  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5922  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5941  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5975  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5976  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5977  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5980  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out5981  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5986  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out5987  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5988  ---------
+GCA_000604025.1_BOL_v1.0_rm.out5997  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out6000  TAA------
+GCA_000604025.1_BOL_v1.0_rm.out6007  TAATTC---
+GCA_000604025.1_BOL_v1.0_rm.out6048  ATAATT---
+GCA_000604025.1_BOL_v1.0_rm.out6054  ATAATTC--
+GCA_000604025.1_BOL_v1.0_rm.out6061  ---------
+GCA_000604025.1_BOL_v1.0_rm.out6071  ---------
+GCA_000604025.1_BOL_v1.0_rm.out6074  ATAATTC--
+//
