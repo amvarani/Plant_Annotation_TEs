@@ -416,6 +416,12 @@ The _ProcessRepeats-complete.pl_ script generate a result file named as: **TEs-R
 
 In this report, partial elements will be named with the suffix "-like" (e.g., Angela-like)
 
+![image](https://user-images.githubusercontent.com/3044067/198836679-2f215880-3934-4eb6-b9f0-9abb400e147a.png)
+
+
+
+
+
 For a simple report you may repeat the process above using the _ProcessRepeats-lite.pl_ script instead
 ```sh
 cd $HOME/TEs
@@ -432,6 +438,7 @@ mv At.fasta.mod.tbl ../TEs-Report-lite.txt
 ```
 The _ProcessRepeats-lite.pl_ script generate a result file named as: **TEs-Report-lite.txt**.
 
+![image](https://user-images.githubusercontent.com/3044067/198836649-0965137b-9277-41f4-952e-220a86d9af8e.png)
 
 ## Drawing of the Repeat Landscape.
 The repeat landscape graphs illustrates the relative amount of each TE class associated to the Kimura distance on the x-axis as a proxy for time, whereas the y-axis gives the relative coverage of each repeat class based on the genome size.
