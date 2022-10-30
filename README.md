@@ -406,7 +406,7 @@ cd TE-REPORT
 ln -s ../At.fasta.mod.EDTA.anno/At.fasta.mod.cat.gz .
 #
 # Run the modifed process repeat script - This may take several minutes depending of the genome size (in this Athaliana example, should be less than 5 min)
-$HOME/TEs/ProcessRepeats/ProcessRepeats-complete.pl -species viridiplantae -xm -gff -nolow -noint -a At.fasta.mod.cat.gz
+$HOME/TEs/ProcessRepeats/ProcessRepeats-complete.pl -species viridiplantae -nolow -noint At.fasta.mod.cat.gz
 #
 # Rename the result file and move it to the main EDTA folder
 mv At.fasta.mod.tbl ../TEs-Report-Complete.txt
@@ -431,7 +431,7 @@ cd TE-REPORT
 ln -s ../At.fasta.mod.EDTA.anno/At.fasta.mod.cat.gz .
 #
 # Run the modifed process repeat script - This may take several minutes depending of the genome size (in this Athaliana example, should be less than 5 min)
- $HOME/TEs/ProcessRepeats/ProcessRepeats-lite.pl -species viridiplantae -xm -gff -nolow -noint -a At.fasta.mod.cat.gz
+ $HOME/TEs/ProcessRepeats/ProcessRepeats-lite.pl -species viridiplantae -nolow -noint -a At.fasta.mod.cat.gz
 #
 # Rename the result file and move it to the main EDTA folder
 mv At.fasta.mod.tbl ../TEs-Report-lite.txt
