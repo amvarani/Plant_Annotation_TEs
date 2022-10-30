@@ -521,7 +521,7 @@ cat -n At.fasta.mod.LTR-AGE.pass.list  | grep Copia  | cut -f 1,13 | sed 's# ##g
 #
 # Generating the plots
 Rscript plot-AGE-Gypsy.R
-Rscript plot-AGE-Gypsy.R
+Rscript plot-AGE-Copia.R
 ```
 
 This will generate two PDF files showing the histogram plot of the LTR ages. The dashed horizontal lines represents the median, while the horizontal  line represent the mean (in Mya).  
