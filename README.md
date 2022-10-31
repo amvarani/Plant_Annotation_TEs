@@ -539,7 +539,7 @@ The centromeric and pericentromeric regions of plant chromosomes are colonized b
 This analysis is based on LTR/Gypsy/CRM elements previous mapping associated with the use of the trf tool for tandem repeats identification using the approach describled elsewhere (Melters, et al., 2013).
 The method present here **is not perfect**, but can be used to estimate the centromeric/pericentromeric regions when only the genome sequence sequence is avaliable. 
 
-In the first step, we will use the script **trf_wrapper.pl** avaliable at: http://korflab.ucdavis.edu/Datasets/Centromere_data/ and ready to be used in our Scripts folder. 
+In the first step, we will use the script **trf_wrapper.pl** avaliable at: http://korflab.ucdavis.edu/Datasets/Centromere_data/ (Melters et al., 2013) and ready to be used in our Scripts folder. 
 
 In your terminal window, run (You may change the folder names and files names for convenience):
 ```sh
