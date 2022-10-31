@@ -547,20 +547,48 @@ cd $HOME/TEs
 cd Athaliana
 mkdir centromer
 cd centromer
-$HOME/TEs/Scripts/trf_wrapper.pl -file GENOME-FILE.fasta -match 1 -mismatch 1 -indel 2 -pmatch 80 -pindel 5 -min_score 200 -period 2000 -copies 2 -length 50 -low_repeat_cutoff 0.5 -high_repeat_cutoff 0.8 -slim 
+$HOME/TEs/Scripts/trf_wrapper.pl -file At.fasta -match 1 -mismatch 1 -indel 2 -pmatch 80 -pindel 5 -min_score 200 -period 2000 -copies 2 -length 50 -low_repeat_cutoff 0.5 -high_repeat_cutoff 0.8 -slim 
+#
+$HOME/TEs/Scripts/trf_hos_finder.pl At.fasta.1.1.2.80.5.200.2000.dat  > HOS.txt
 ```
+
+You may try to find out the largest repeat (LENGTH field) contaning the largest number of copies (COPIES field) in the HOS.txt file. 
+
+In your terminal window, run
+```sh
+cat HOS.txt | grep Chr1 | sort -k5 -V
+cat HOS.txt | grep Chr2 | sort -k5 -V
+cat HOS.txt | grep Chr3 | sort -k5 -V
+cat HOS.txt | grep Chr4 | sort -k5 -V
+cat HOS.txt | grep Chr5 | sort -k5 -V
+```
+
+After manual inspection, you may select the HOS repeats and/or largest repeats. For instance, for A. thaliana: 
+
+![image](https://user-images.githubusercontent.com/3044067/199091503-8b7c2007-aca1-4c9b-aaca-9fbe3153f400.png)
+
+
+These are the regions showing proximity to the centromer and pericentromeric regions. 
 
 
 In the second step, we will map the position of each CRM elements in the assembled chromossomes.
 
 In your terminal window, run (You may change the folder names and files names for convenience):
-
-
 ```sh
 cd $HOME/TEs/centromer
 bp_gccalc  Bcaapi.fasta | grep "Len:" > length.txt
-
+cat ../At.fasta.mod.EDTA.intact.gff3 | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr1
+cat ../At.fasta.mod.EDTA.intact.gff3 | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr2
+cat ../At.fasta.mod.EDTA.intact.gff3 | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr3
+cat ../At.fasta.mod.EDTA.intact.gff3 | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr4
+cat ../At.fasta.mod.EDTA.intact.gff3 | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr5
 ```
+
+![image](https://user-images.githubusercontent.com/3044067/199092822-c86a145d-f087-4abb-866b-f30fc76f43fd.png)
+
+
+
+
 
 
 
