@@ -28,7 +28,7 @@ Since this pipeline can retrieve complete CRM elements, it is also possible to f
 - All annotation follow the Rexdb and GyDB nomenclature as proposed by ``Orozco-Arias et al., 2019``.
 - Proper soft-masking for downstream analysis (for structural gene annotation).
 - Complete TE distribution Report (text file - a graphical version will be added). 
-- Identification of potential telomeric regions of each chromosome. 
+- Identification of potential (peri)centromeric regions of each chromosome. 
 - Drawing of the Repeat Landscape.
 - LTR Age Ploting using R (Gypsy and Copia). 
   
@@ -40,7 +40,7 @@ Since this pipeline can retrieve complete CRM elements, it is also possible to f
 - Global TE annotation with a modified version of EDTA pipeline (including all dependencies) tailored for non-model plant genomes and to remove potential false positive predictions: https://github.com/oushujun/EDTA.
 - TE annotation and validation with TEsorter: https://github.com/zhangrengang/TEsorter
 - Global TE report based on a modified version of ProcessRepeats scripts from RepeatMasker: https://www.repeatmasker.org/RepeatMasker/
-- Repeat Landscape and LTR Age Ploting using RepeatMasker and R scripts. **to be added**
+- Repeat Landscape and LTR Age Ploting using RepeatMasker and R scripts. 
 
 ## Installation
 
