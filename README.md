@@ -533,12 +533,22 @@ This will generate two PDF files showing the histogram plot of the LTR ages. The
 
 
 ## Figuring out the potential centromeric regions
-Centromeres are defined epigenetically by the histone H3 variant, CENH3, the presence of which is both necessary and sufficient for centromere formation (Musacchio and Desai 2017). Therefore, ChIP-seq approaches are necessary for a proper centromeric region identification. However, this methodo is labor intensive and thus difficult to do. The centromeric and pericentromeric regions of plant chromosomes are colonized by Ty3/gypsy retrotransposons from the chromovirus CRM clade. Moreover, centromeres often form tandem repeats that can be identified using sequence search approaches. 
+Centromeres are defined epigenetically by the histone H3 variant, CENH3 (plants), the presence of which is necessary and sufficient for centromere formation (Musacchio and Desai 2017). Therefore, ChIP-seq approaches are necessary for a proper centromeric region identification. However, this method is labor intensive and thus difficult to do. 
+
+The centromeric and pericentromeric regions of plant chromosomes are colonized by Ty3/gypsy retrotransposons from the chromovirus CRM clade. Moreover, centromeres often form tandem repeats that can be identified using sequence search approaches. 
 This analysis is based on LTR/Gypsy/CRM elements previous mapping associated with the use of the trf tool for tandem repeats identification using the approach describled elsewhere (Melters, et al., 2013).
-The method present here **is not perfect**, but can be used to rapidly estimate the centromeric region when only the genome sequence sequence is avaliable. 
+The method present here **is not perfect**, but can be used to estimate the centromeric/pericentromeric regions when only the genome sequence sequence is avaliable. 
 
-*to be added*
+In the first step, we will use the script **trf_wrapper.pl** avaliable at: http://korflab.ucdavis.edu/Datasets/Centromere_data/ and ready to be used in our Scripts folder. 
 
+In your terminal window, run (You may change the folder names and files names for convenience):
+```sh
+cd $HOME/TEs
+cd Athaliana
+mkdir centromer
+cd centromer
+$HOME/TEs/Scripts/trf_wrapper.pl -file GENOME-FILE.fasta -match 1 -mismatch 1 -indel 2 -pmatch 80 -pindel 5 -min_score 200 -period 2000 -copies 2 -length 50 -low_repeat_cutoff 0.5 -high_repeat_cutoff 0.8 -slim 
+```
 
 
 
