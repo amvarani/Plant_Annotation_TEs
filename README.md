@@ -588,6 +588,7 @@ cat ../At.fasta.mod.EDTA.intact.gff3 | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | gre
 
 
 **Where are the peri(centromeric) regions ?**
+
 As stated before, this method give a idea of the location of the centromeric and pericentromeric region. It not perfect, but a good approach.
 To estimate the peri(centromeric) region use the smallest and lorgest coordinates identified for each chromosome, and for potential centromer use the mean.
 
@@ -602,10 +603,15 @@ For Chr5 - Between:  11,184,520 to 12,807,216
 According the literature, these are the centromeric coordinates for A. thaliana: 
 
 Chr1	14511721	14538721	
+
 Chr2	3611838	3611883	
-Chr3	13589756	13589816	
+
+Chr3	13589756	13589816
+
 Chr4	3133663	3133674	
+
 Chr5	11194537	11194848	
+
 
 
 
