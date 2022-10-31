@@ -594,26 +594,19 @@ To estimate the peri(centromeric) region use the smallest and lorgest coordinate
 
 According the results showed above we will have: 
 
-For Chr1 - Between:  15,081,858 to 16,434,206  
-For Chr2 - Between:  2,793,404 to 5,201,882    
-For Chr3 - Between:  12,549,504 to 14,734,610   
-For Chr4 - Between:  2,090,153 to 4,251,681     
-For Chr5 - Between:  11,184,520 to 12,807,216   
+-For Chr1 - Between:  15,081,858 to 16,434,206  
+-For Chr2 - Between:  2,793,404 to 5,201,882    
+-For Chr3 - Between:  12,549,504 to 14,734,610   
+-For Chr4 - Between:  2,090,153 to 4,251,681     
+-For Chr5 - Between:  11,184,520 to 12,807,216   
 
 According the literature, these are the centromeric coordinates for A. thaliana: 
 
-Chr1	14511721	14538721	
-
-Chr2	3611838	3611883	
-
-Chr3	13589756	13589816
-
-Chr4	3133663	3133674	
-
-Chr5	11194537	11194848	
-
-
-
+-Chr1:	14,511,721 to 14,538,721
+-Chr2:	3,611,838	to 3,611,883	
+-Chr3:	13,589,756 to	13,589,816
+-Chr4:	3,133,663	to 3,133,674	
+-Chr5:	11,194,537 to	11,194,848	
 
 
 
