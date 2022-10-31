@@ -83,7 +83,7 @@ In your terminal window, run:
 ```sh
 sudo apt-get install lib32z1 python-is-python3 python3-setuptools python3-biopython python3-xopen trf hmmer2
 sudo apt-get install hmmer emboss python3-virtualenv python2 python2-setuptools-whl python2-pip-whl cd-hit
-sudo apt-get install python2-dev build-essential linux-generic libmpich-dev libopenmpi-dev bedtools pullseq
+sudo apt-get install python2-dev build-essential linux-generic libmpich-dev libopenmpi-dev bedtools pullseq bioperl
 #
 # R dependencies
 sudo apt-get install r-cran-ggplot2 r-cran-tidyr r-cran-reshape2 r-cran-reshape rs r-cran-viridis r-cran-tidyverse r-cran-gridextra r-cran-gdtools
@@ -551,6 +551,19 @@ $HOME/TEs/Scripts/trf_wrapper.pl -file GENOME-FILE.fasta -match 1 -mismatch 1 -i
 ```
 
 
+In the second step, we will map the position of each CRM elements in the assembled chromossomes:
+
+In your terminal window, run (You may change the folder names and files names for convenience):
+
+
+```sh
+cd $HOME/TEs/centromer
+bp_gccalc  Bcaapi.fasta > length.txt
+
+
+```
+
+
 
 
 ## List of genomes tested in this pipeline
@@ -644,5 +657,5 @@ Melters DP, Bradnam KR, Young HA, Telis N, May MR, Ruby JG, Sebra R, Peluso P, E
 
 * Alessandro Varani
 * Web: https://www.fcav.unesp.br/genomics
-* 10/2022
+* 11/2022
 
