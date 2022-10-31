@@ -577,11 +577,11 @@ In your terminal window, run (You may change the folder names and files names fo
 ```sh
 cd $HOME/TEs/centromer
 bp_gccalc  Bcaapi.fasta | grep "Len:" > length.txt
-cat ../At.fasta.mod.EDTA.intact.gff3 | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr1
-cat ../At.fasta.mod.EDTA.intact.gff3 | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr2
-cat ../At.fasta.mod.EDTA.intact.gff3 | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr3
-cat ../At.fasta.mod.EDTA.intact.gff3 | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr4
-cat ../At.fasta.mod.EDTA.intact.gff3 | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr5
+cat ../At.fasta.mod.EDTA.intact.gff3 | grep Gypsy_LTR_retrotransposon | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr1
+cat ../At.fasta.mod.EDTA.intact.gff3 | grep Gypsy_LTR_retrotransposon | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr2
+cat ../At.fasta.mod.EDTA.intact.gff3 | grep Gypsy_LTR_retrotransposon | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr3
+cat ../At.fasta.mod.EDTA.intact.gff3 | grep Gypsy_LTR_retrotransposon | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr4
+cat ../At.fasta.mod.EDTA.intact.gff3 | grep Gypsy_LTR_retrotransposon | grep "LTR/Gypsy/CRM" | cut -f 1,4,5 | grep Chr5
 ```
 
 ![image](https://user-images.githubusercontent.com/3044067/199092822-c86a145d-f087-4abb-866b-f30fc76f43fd.png)
