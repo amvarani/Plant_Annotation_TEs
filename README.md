@@ -532,7 +532,7 @@ This will generate two PDF files showing the histogram plot of the LTR ages. The
 
 
 
-## Figuring out the potential centromeric regions
+## Figuring out the potential (peri)centromeric regions
 Centromeres are defined epigenetically by the histone H3 variant, CENH3 (plants), the presence of which is necessary and sufficient for centromere formation (Musacchio and Desai 2017). Therefore, ChIP-seq approaches are necessary for a proper centromeric region identification. However, this method is labor intensive and thus difficult to do. 
 
 The centromeric and pericentromeric regions of plant chromosomes are colonized by Ty3/gypsy retrotransposons from the chromovirus CRM clade. Moreover, centromeres often form tandem repeats that can be identified using sequence search approaches. 
@@ -551,15 +551,14 @@ $HOME/TEs/Scripts/trf_wrapper.pl -file GENOME-FILE.fasta -match 1 -mismatch 1 -i
 ```
 
 
-In the second step, we will map the position of each CRM elements in the assembled chromossomes:
+In the second step, we will map the position of each CRM elements in the assembled chromossomes.
 
 In your terminal window, run (You may change the folder names and files names for convenience):
 
 
 ```sh
 cd $HOME/TEs/centromer
-bp_gccalc  Bcaapi.fasta > length.txt
-
+bp_gccalc  Bcaapi.fasta | grep "Len:" > length.txt
 
 ```
 
