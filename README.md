@@ -82,7 +82,7 @@ In your terminal window, run:
 
 ```sh
 sudo apt-get install lib32z1 python-is-python3 python3-setuptools python3-biopython python3-xopen trf hmmer2
-sudo apt-get install hmmer emboss python3-virtualenv python2 python2-setuptools-whl python2-pip-whl cd-hit
+sudo apt-get install hmmer emboss python3-virtualenv python2 python2-setuptools-whl python2-pip-whl cd-hit iqtree
 sudo apt-get install python2-dev build-essential linux-generic libmpich-dev libopenmpi-dev bedtools pullseq bioperl
 #
 # R dependencies
@@ -611,6 +611,33 @@ According the literature, these are the centromeric coordinates for A. thaliana:
 -Chr4:	3,133,663	to 3,133,674	
 
 -Chr5:	11,194,537 to	11,194,848	
+
+
+## Plot Phylogeny of LTR elements
+We will plot the phylogeny of the alignments of LTR-RTs full domains. For more details, please see TEsorter (https://github.com/zhangrengang/TEsorter)
+
+
+In your terminal window, run (You may change the folder names and files names for convenience):
+```sh
+cd $HOME/TEs
+cd Athaliana
+mkdir TREE
+cd TREE
+ln -s ../At.fasta.mod.EDTA.TElib.fa .
+ln -s $HOME/$TEs/Rscripts/LTR_tree.R .
+#
+/usr/local/bin/TEsorter -db rexdb-plant --hmm-database rexdb-plant -pre TE -dp2 -p 22 At.fasta.mod.EDTA.TElib.fa
+concatenate_domains.py TE.cls.pep GAG PROT RH RT INT > GAG_PROT_RH_RT_INT.aln
+iqtree2 -s GAG_PROT_RH_RT_INT.aln -alrt 1000 -bb 1000 -nt AUTO -m JTTDCMut+F+R5
+#
+Rscript LTR_tree.R GAG_PROT_RH_RT_INT.aln.contree TE.cls.tsv LTR_RT-Tree.pdf
+```
+
+![image](https://user-images.githubusercontent.com/3044067/200052059-180a3d81-7426-469b-a130-b52ecd661866.png)
+
+
+
+
 
 
 
