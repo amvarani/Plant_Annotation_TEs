@@ -524,7 +524,7 @@ Rscript plot-AGE-Gypsy.R
 Rscript plot-AGE-Copia.R
 ```
 
-This will generate two PDF files showing the histogram plot of the LTR ages. The dashed horizontal lines represents the median, while the horizontal  line represent the mean (in Mya).  
+This will generate two PDF files showing the histogram plot of the LTR ages. The dashed vertical lines represents the median, while the vertical line represent the mean (in Mya).  
 
 
 ![image](https://user-images.githubusercontent.com/3044067/198373570-040b9dd7-dcda-4fe8-bae7-f0c748058d03.png)
