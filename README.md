@@ -27,10 +27,11 @@ Since this pipeline can retrieve complete CRM elements, it is also possible to f
 - Non-autonomous TIR elements: MITEs.
 - All annotation follow the Rexdb and GyDB nomenclature as proposed by ``Orozco-Arias et al., 2019``.
 - Proper soft-masking for downstream analysis (for structural gene annotation).
-- Complete TE distribution Report (text file - a graphical version will be added). 
+- Complete TE distribution Report. 
 - Identification of potential (peri)centromeric regions of each chromosome. 
 - Drawing of the Repeat Landscape.
 - LTR Age Ploting using R (Gypsy and Copia). 
+- LTR Phylogeny and density plot. 
   
 
 ## Tools used
@@ -613,8 +614,9 @@ According the literature, these are the centromeric coordinates for A. thaliana:
 -Chr5:	11,194,537 to	11,194,848	
 
 
-## Plot Phylogeny of LTR elements
-We will plot the phylogeny of the alignments of LTR-RTs full domains. For more details, please see TEsorter (https://github.com/zhangrengang/TEsorter)
+## Plot LTR elements Phylogeny and Density
+We will plot the phylogeny of the alignments of LTR-RTs full domains. This analyses is entire based on TEsorter (https://github.com/zhangrengang/TEsorter).
+Here we will use modified Rscripts to plot the LTR phylogeny and density. 
 
 
 In your terminal window, run (You may change the folder names and files names for convenience):
@@ -623,17 +625,64 @@ cd $HOME/TEs
 cd Athaliana
 mkdir TREE
 cd TREE
+#
+#
 ln -s ../At.fasta.mod.EDTA.TElib.fa .
-ln -s $HOME/$TEs/Rscripts/LTR_tree.R .
 #
-/usr/local/bin/TEsorter -db rexdb-plant --hmm-database rexdb-plant -pre TE -dp2 -p 22 At.fasta.mod.EDTA.TElib.fa
-concatenate_domains.py TE.cls.pep GAG PROT RH RT INT > GAG_PROT_RH_RT_INT.aln
-iqtree2 -s GAG_PROT_RH_RT_INT.aln -alrt 1000 -bb 1000 -nt AUTO -m JTTDCMut+F+R5
+cat At.fasta.mod.EDTA.TElib.fa | sed 's/#/_CERC_/g'  | sed 's#/#_BARRA_#g'  > tmp.txt
+mkdir tmp
+break_fasta.pl < tmp.txt ./tmp
+cat tmp/*LTR* | sed 's#_CERC_#\t#g' | cut -f 1 > TE.fasta
 #
-Rscript LTR_tree.R GAG_PROT_RH_RT_INT.aln.contree TE.cls.tsv LTR_RT-Tree.pdf
+rm -f tmp.txt ; rm -f At.fasta.mod.EDTA.TElib.fa ; rm -Rf tmp
+#
+#
+/usr/local/bin/TEsorter -db rexdb-plant --hmm-database rexdb-plant -pre TE -dp2 -p 40 TE.fasta
+#
+#
+concatenate_domains.py TE.cls.pep GAG > GAG.aln
+concatenate_domains.py TE.cls.pep PROT > PROT.aln
+concatenate_domains.py TE.cls.pep RH > RH.aln
+concatenate_domains.py TE.cls.pep RT > RT.aln
+concatenate_domains.py TE.cls.pep INT > INT.aln
+#
+cat GAG.aln | cut -f 1 -d" " > GAG.fas
+cat PROT.aln | cut -f 1 -d" " > PROT.fas
+cat RH.aln | cut -f 1 -d" " > RH.fas
+cat RT.aln | cut -f 1 -d" " > RT.fas
+cat INT.aln | cut -f 1 -d" " > INT.fas
+#
+#
+$HOME/TEs/Scripts/catfasta2phyml.pl -c -f *.fas > all.fas
+iqtree2 -s all.fas -alrt 1000 -bb 1000 -nt AUTO 
+#
+#
+#
+cat TE.cls.tsv | cut -f 1 | sed "s#^#cat ../At.fasta.fa.mod.EDTA.TEanno.sum | grep -w \"#g"  | sed 's#$#"#g'   > pick-occur.sh
+bash pick-occur.sh  > occur.txt
+cat occur.txt  | sed 's#^      TE_#TE_#g'  | awk '{print $1,$2,$3}' | sed 's# #\t#g' |  sort -k 2 -V  > sort_occur.txt
+cat occur.txt  | sed 's#^      TE_#TE_#g'  | awk '{print $1,$2,$3}' | sed 's# #\t#g' |  sort -k 3 -V  > sort_size.txt
+#
+#
+cat all.fas  | grep \> | sed 's#^>##g'   > ids.txt
+#
+cat sort_occur.txt | cut -f 1,2 | sed 's#^#id="#g' | sed 's#\t#" ; data="#g' | sed 's#$#" ; ver="`cat ids.txt | grep $id`" ; echo -e "$ver\\t$data" #g'   > pick.sh
+bash pick.sh  | grep "^TE" | grep "^TE"  | sed 's/#/_/g' | sed 's#/#_#g'  > occurrences.tsv
+#
+#
+cat sort_size.txt | cut -f 1,3 | sed 's#^#id="#g' | sed 's#\t#" ; data="#g' | sed 's#$#" ; ver="`cat ids.txt | grep $id`" ; echo -e "$ver\\t$data" #g'   > pick.sh
+bash pick.sh  | grep "^TE" | grep "^TE"  | sed 's/#/_/g' | sed 's#/#_#g'  > size.tsv
+#
+rm -f pick-occur.sh sort_occur.txt sort_size.txt ids.txt pick.sh
+#
+cp ../../Plant_Annotation_TEs/Rscripts/LTR_tree.R .
+cp ../../Plant_Annotation_TEs/Rscripts/LTR_tree-density.R .
+#
+Rscript LTR_tree.R all.fas.contree TE.cls.tsv LTR_RT-Tree1.pdf
+Rscript LTR_tree-density.R all.fas.contree TE.cls.tsv occurrences.tsv size.tsv LTR_RT-Tree2.pdf
+#
+#
 ```
-
-![image](https://user-images.githubusercontent.com/3044067/200052059-180a3d81-7426-469b-a130-b52ecd661866.png)
 
 
 
