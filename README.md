@@ -87,10 +87,15 @@ sudo apt-get install hmmer emboss python3-virtualenv python2 python2-setuptools-
 sudo apt-get install python2-dev build-essential linux-generic libmpich-dev libopenmpi-dev bedtools pullseq bioperl
 #
 # R dependencies
-sudo apt-get install r-cran-ggplot2 r-cran-tidyr r-cran-reshape2 r-cran-reshape rs r-cran-viridis r-cran-tidyverse r-cran-gridextra r-cran-gdtools
+sudo apt-get install r-cran-ggplot2 r-cran-tidyr r-cran-reshape2 r-cran-reshape rs r-cran-viridis r-cran-tidyverse r-cran-gridextra r-cran-gdtools r-cran-phangorn r-cran-phytools r-cran-ggrepel
 #
 # Enter in R shell and install 
 install.packages("hrbrthemes")
+#
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install("ggtree")
+BiocManager::install("ggtreeExtra")
 #
 #
 wget https://tandem.bu.edu/irf/downloads/irf305.linux.exe
@@ -530,6 +535,10 @@ This will generate two PDF files showing the histogram plot of the LTR ages. The
 
 ![image](https://user-images.githubusercontent.com/3044067/198373570-040b9dd7-dcda-4fe8-bae7-f0c748058d03.png)
 
+![image](https://user-images.githubusercontent.com/3044067/200313475-d0c02d22-b74c-4308-9c49-648cdbd2aba9.png)
+
+
+
 
 
 
@@ -615,8 +624,8 @@ According the literature, these are the centromeric coordinates for A. thaliana:
 
 
 ## Plot LTR elements Phylogeny and Density
-We will plot the phylogeny of the alignments of LTR-RTs full domains. This analyses is entire based on TEsorter (https://github.com/zhangrengang/TEsorter).
-Here we will use modified Rscripts to plot the LTR phylogeny and density. 
+We will plot the phylogeny of the alignments of LTR-RTs full domains. This step is entire based on TEsorter (https://github.com/zhangrengang/TEsorter).
+Here, we will use a modified Rscripts to plot the LTR phylogeny and density. 
 
 
 In your terminal window, run (You may change the folder names and files names for convenience):
@@ -658,7 +667,7 @@ iqtree2 -s all.fas -alrt 1000 -bb 1000 -nt AUTO
 #
 #
 #
-cat TE.cls.tsv | cut -f 1 | sed "s#^#cat ../At.fasta.fa.mod.EDTA.TEanno.sum | grep -w \"#g"  | sed 's#$#"#g'   > pick-occur.sh
+cat TE.cls.tsv | cut -f 1 | sed "s#^#cat ../At.fasta.mod.EDTA.TEanno.sum | grep -w \"#g"  | sed 's#$#"#g'   > pick-occur.sh
 bash pick-occur.sh  > occur.txt
 cat occur.txt  | sed 's#^      TE_#TE_#g'  | awk '{print $1,$2,$3}' | sed 's# #\t#g' |  sort -k 2 -V  > sort_occur.txt
 cat occur.txt  | sed 's#^      TE_#TE_#g'  | awk '{print $1,$2,$3}' | sed 's# #\t#g' |  sort -k 3 -V  > sort_size.txt
@@ -675,8 +684,8 @@ bash pick.sh  | grep "^TE" | grep "^TE"  | sed 's/#/_/g' | sed 's#/#_#g'  > size
 #
 rm -f pick-occur.sh sort_occur.txt sort_size.txt ids.txt pick.sh
 #
-cp ../../Plant_Annotation_TEs/Rscripts/LTR_tree.R .
-cp ../../Plant_Annotation_TEs/Rscripts/LTR_tree-density.R .
+ln -s $HOME/TEs/Rscripts/LTR_tree.R .
+ln -s $HOME/TEs/Rscripts/LTR_tree-density.R .
 #
 Rscript LTR_tree.R all.fas.contree TE.cls.tsv LTR_RT-Tree1.pdf
 Rscript LTR_tree-density.R all.fas.contree TE.cls.tsv occurrences.tsv size.tsv LTR_RT-Tree2.pdf
@@ -684,8 +693,11 @@ Rscript LTR_tree-density.R all.fas.contree TE.cls.tsv occurrences.tsv size.tsv L
 #
 ```
 
+The final files are: LTR_RT-Tree1.pdf and LTR_RT-Tree2.pdf
 
+![image](https://user-images.githubusercontent.com/3044067/200324478-b9fa1ffe-bc9a-4737-89e8-53f55af100a4.png)
 
+The outer circle represents the length (in bp) occupied by each element, while the inner circle represents the number of occurrences of each element.
 
 
 
