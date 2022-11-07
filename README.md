@@ -697,7 +697,7 @@ The final files are: LTR_RT-Tree1.pdf and LTR_RT-Tree2.pdf
 
 ![image](https://user-images.githubusercontent.com/3044067/200324478-b9fa1ffe-bc9a-4737-89e8-53f55af100a4.png)
 
-The outer circle represents the length (in bp) occupied by each element, while the inner circle represents the number of occurrences of each element.
+The outer circle (purple) represents the length (in bp) occupied by each element, while the inner circle (red) represents the number of occurrences of each element.
 
 ![image](https://user-images.githubusercontent.com/3044067/200326101-20080f43-5102-4a66-bd2d-0ffb19f67226.png)
 
