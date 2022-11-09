@@ -798,6 +798,10 @@ Melters DP, Bradnam KR, Young HA, Telis N, May MR, Ruby JG, Sebra R, Peluso P, E
 **Genome Biol.**  2013 Jan 30;14(1):R10. 
 [PMID: 23363705](https://pubmed.ncbi.nlm.nih.gov/23363705/)
 
+Mauri, M., Elli, T., Caviglia, G., Uboldi, G., & Azzi, M.  
+*RAWGraphs: A Visualisation Platform to Create Open Outputs.*
+**In Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter (p. 28:1–28:5) 2017. New York, NY, USA: ACM.**
+[DOI](https://doi.org/10.1145/3125571.3125585)
 
 
 ## Author
