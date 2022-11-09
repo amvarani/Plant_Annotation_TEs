@@ -446,6 +446,15 @@ The _ProcessRepeats-lite.pl_ script generate a result file named as: **TEs-Repor
 
 ![image](https://user-images.githubusercontent.com/3044067/198836649-0965137b-9277-41f4-952e-220a86d9af8e.png)
 
+
+You may also play with these text files, and using the [RAWGraphs](https://www.rawgraphs.io/) generated beautiful plots
+
+![image](https://user-images.githubusercontent.com/3044067/200810177-0d7e44a9-d9db-46a6-9dc0-4f97aac10536.png)
+
+
+
+
+
 ## Drawing of the Repeat Landscape.
 The repeat landscape graphs illustrates the relative amount of each TE class associated to the Kimura distance on the x-axis as a proxy for time, whereas the y-axis gives the relative coverage of each repeat class based on the genome size.
 Therefore the repeat landscape graph is a good inference of the relative ages of each element identified in a given genome.
