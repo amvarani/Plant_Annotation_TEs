@@ -800,7 +800,7 @@ Melters DP, Bradnam KR, Young HA, Telis N, May MR, Ruby JG, Sebra R, Peluso P, E
 
 Mauri, M., Elli, T., Caviglia, G., Uboldi, G., & Azzi, M.  
 *RAWGraphs: A Visualisation Platform to Create Open Outputs.*
-**In Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter (p. 28:1–28:5) 2017. New York, NY, USA: ACM.**
+**In Proceedings of the 12th Biannual Conference on Italian SIGCHI** 2017 Chapter (p. 28:1–28:5)
 [DOI](https://doi.org/10.1145/3125571.3125585)
 
 
