@@ -302,12 +302,12 @@ paste list2.txt list.txt | sed 's/>/ sed "s#/g'  | sed 's/\t/#/g' | sed 's/$/#g"
 paste A.txt B.txt  -d"|"  > rename.sh
 bash rename.sh > candidates.fa
 #
-/usr/local/bin/TEsorter -db rexdb-plant --hmm-database rexdb-plant -pre LINE -p 22 -rule 60-60-60 candidates.fa
+/usr/local/bin/TEsorter -db rexdb-plant --hmm-database rexdb-plant -pre LINE -p 22 -cov 60 candidates.fa
 more LINE.cls.lib  | sed 's/#/__/g'  | sed 's#.fa##g' | cut -f 1 -d" " | sed 's#/#-#g'  > pre1.fa
 mkdir pre1
 break_fasta.pl < pre1.fa pre1
 cat pre1/*LINE.fasta  | sed 's#__#\t#g' | cut -f 1  > pre2.fa
-/usr/local/bin/TEsorter -db rexdb-line --hmm-database rexdb-line -pre LINE2 -p 22 -rule 60-60-60 pre2.fa
+/usr/local/bin/TEsorter -db rexdb-line --hmm-database rexdb-line -pre LINE2 -p 22 -cov 60 pre2.fa
 more LINE2.cls.lib  | sed 's/#/__/g'  | sed 's#.fa##g' | cut -f 1 -d" " | sed 's#/#-#g'  > pre-final.fa
 mkdir pre-final
 break_fasta.pl < pre-final.fa pre-final
