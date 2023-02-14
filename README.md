@@ -82,7 +82,7 @@ Test your installation. In your terminal window or Anaconda Prompt, run the comm
 In your terminal window, run:
 
 ```sh
-sudo apt-get install lib32z1 python-is-python3 python3-setuptools python3-biopython python3-xopen trf hmmer2
+sudo apt-get install lib32z1 python-is-python3 python3-setuptools python3-biopython python3-xopen trf hmmer2 seqtk
 sudo apt-get install hmmer emboss python3-virtualenv python2 python2-setuptools-whl python2-pip-whl cd-hit iqtree
 sudo apt-get install python2-dev build-essential linux-generic libmpich-dev libopenmpi-dev bedtools pullseq bioperl
 #
@@ -810,5 +810,5 @@ Mauri, M., Elli, T., Caviglia, G., Uboldi, G., & Azzi, M.
 
 * Alessandro Varani
 * Web: https://www.fcav.unesp.br/genomics
-* 11/2022
+* 02/2023
 
