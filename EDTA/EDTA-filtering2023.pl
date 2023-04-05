@@ -490,9 +490,6 @@ die "ERROR: Raw Helitron results not found in $genome.EDTA.raw/$genome.Helitron.
 `rm -rf ./$genome.EDTA.raw/LINE 2>/dev/null` if $overwrite == 1;
 `rm -rf ./$genome.EDTA.raw/SINE 2>/dev/null` if $overwrite == 1;
 #
-#
-#
-#
 if ($LINE ne '' and ! -d "./LINE"){
 	chomp ($date = `date`);
 	print STDERR "$date\tStart to add LINE candidates from $LINE file.\n\n";
@@ -503,20 +500,12 @@ if ($LINE ne '' and ! -d "./LINE"){
 	`ln -s ../../$LINE $LINE` unless -s $LINE;	
 	#
 	# Cleaning LINEs
-	# picking only LINE with no HITs (less than 20%) in the $genome.EDTA.intact.fa database
+	# picking only LINE with no HITs in the $genome.EDTA.intact.fa database
 	`cat $LINE | cut -f 1 | sed 's#\\.\\.#--#g'  | sed 's#:#_DOIS_#g' | sed 's/#/__/g' |  sed 's#/#_#g'  > pre.fa`;
 	`ln -s ../$genome.EDTA.intact.fa test.fa`;  
 	#
 	`perl $TE_purifier -TE1 pre.fa -TE2 test.fa -t $threads -mindiff 1`;
-	#
-	# Removing false lines
-	`mkdir tmp`; 
-	`break_fasta.pl < pre.fa-test.fa.fa ./tmp`;
-	`seqtk comp pre.fa.masked  | awk '{x=\$3+\$4+\$5+\$6;y=\$2;print \$1,y-x,y,(y-x)/y}' | awk '{if (\$4 < 0.2) print "cat ./tmp/"\$1".fasta"}' > clean.txt` ; 
-	`bash clean.txt > approved.fa` ; 
-	`rm -rf tmp`; 
-	#
-	`perl $cleanup_tandem -misschar l -Nscreen 1 -nc 50000 -nr 0.8 -minlen 80 -cleanN 1 -cleanT 1 -minrm 1 -trf 0 -f approved.fa > pre.txt`;
+	`perl $cleanup_tandem -misschar l -Nscreen 1 -nc 50000 -nr 0.8 -minlen 80 -cleanN 1 -cleanT 1 -minrm 1 -trf 0 -f pre.fa-test.fa.fa > pre.txt`;
 	#
 	#
 	#
@@ -564,25 +553,8 @@ if ($SINE ne '' and ! -d "./SINE"){
 	chdir "SINE";
 	#
 	`ln -s ../../$SINE $SINE` unless -s $SINE;	
-	`cp ../$genome.TIR.intact.fa test.fa`;  
-	`cp $SINE pre.fa`;
 	#
-	#
-	`perl $TE_purifier -TE1 pre.fa -TE2 test.fa -t $threads -mindiff 1 -mindiff 1`;
-	#
-	if ( ! -z "pre.fa.masked" ) {
-		# Removing false sines
-		`mkdir tmp`; 
-		`break_fasta.pl < pre.fa.masked ./tmp`;
-		`grep -l NN tmp/*.fasta | xargs rm` ;
-		`cat ./tmp/*.fasta > approved.fa`; 
-		`rm -rf tmp`; 
-	}
-	else { 
-		`cp pre.fa approved.fa`;
-	}
-	#
-	`cat approved.fa | sed 's#:#\\.\\.#g' | sed 's#SINE_[0-9] ##g' | sed 's#SINE_[0-9][0-9] ##g' | sed 's#SINE_[0-9][0-9][0-9] ##g' | sed 's#SINE_[0-9][0-9][0-9][0-9] ##g' | sed 's#SINE_[0-9][0-9][0-9][0-9][0-9] ##g' | sed 's# [a-Z] #:#' | sed 's# + #:#g' | sed 's/|/#SINE\t/' | cut -f 1 > $genome.SINE.intact.fa`;
+	`cat $SINE | sed 's#:#\\.\\.#g' | sed 's#SINE_[0-9] ##g' | sed 's#SINE_[0-9][0-9] ##g' | sed 's#SINE_[0-9][0-9][0-9] ##g' | sed 's#SINE_[0-9][0-9][0-9][0-9] ##g' | sed 's#SINE_[0-9][0-9][0-9][0-9][0-9] ##g' | sed 's# [a-Z] #:#' | sed 's# + #:#g' | sed 's/|/#SINE\t/' | cut -f 1 > $genome.SINE.intact.fa`;
 	#
 	#
 	`perl $make_bed $genome.SINE.intact.fa > $genome.SINE.intact.bed`;
