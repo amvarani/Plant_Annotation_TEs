@@ -509,22 +509,26 @@ if ($LINE ne '' and ! -d "./LINE"){
 	#
 	`perl $TE_purifier -TE1 pre.fa -TE2 test.fa -t $threads -mindiff 1`;
 	#
-	# Removing false lines
-	`mkdir tmp`; 
-	`break_fasta.pl < pre.fa-test.fa.fa ./tmp`;
-	`seqtk comp pre.fa.masked  | awk '{x=\$3+\$4+\$5+\$6;y=\$2;print \$1,y-x,y,(y-x)/y}' | awk '{if (\$4 < 0.2) print "cat ./tmp/"\$1".fasta"}' > clean.txt` ; 
-	`bash clean.txt > approved.fa` ; 
-	`rm -rf tmp`; 
-	#
-	`perl $cleanup_tandem -misschar l -Nscreen 1 -nc 50000 -nr 0.8 -minlen 80 -cleanN 1 -cleanT 1 -minrm 1 -trf 0 -f approved.fa > pre.txt`;
-	#
-	#
-	#
-	`blastn -query pre.txt -db test.fa -evalue 1e-5 -num_threads $threads -out out.txt`;	
-	`mkdir TMP`;
-	`break_fasta.pl < pre.txt ./TMP`; 
-	`cat out.txt | grep -B 5 "No hits found" | grep Query | sed 's#Query= #cat ./TMP/#g' | sed 's#\$#.fasta#g' > pick.sh`; 
-	`bash pick.sh  > pre2.txt`; 
+	if (( -e "pre.fa.masked" )  && ( ! -z "pre.fa.masked" )) {
+		# Removing false lines
+		`mkdir tmp`; 
+		`break_fasta.pl < pre.fa-test.fa.fa ./tmp`;
+		`seqtk comp pre.fa.masked  | awk '{x=\$3+\$4+\$5+\$6;y=\$2;print \$1,y-x,y,(y-x)/y}' | awk '{if (\$4 < 0.2) print "cat ./tmp/"\$1".fasta"}' > clean.txt` ; 
+		`bash clean.txt > approved.fa` ; 
+		`rm -rf tmp`; 
+		#
+		`perl $cleanup_tandem -misschar l -Nscreen 1 -nc 50000 -nr 0.8 -minlen 80 -cleanN 1 -cleanT 1 -minrm 1 -trf 0 -f approved.fa > pre.txt`;
+		#
+		#
+		#
+		`blastn -query pre.txt -db test.fa -evalue 1e-5 -num_threads $threads -out out.txt`;	
+		`mkdir TMP`;
+		`break_fasta.pl < pre.txt ./TMP`; 
+		`cat out.txt | grep -B 5 "No hits found" | grep Query | sed 's#Query= #cat ./TMP/#g' | sed 's#\$#.fasta#g' > pick.sh`; 
+		`bash pick.sh  > pre2.txt`; 
+	} else {
+		`touch pre2.txt`; 
+	}
 	#	
 	if ( -z "pre2.txt" ) {
 		 chomp ($date = `date`);
@@ -568,9 +572,9 @@ if ($SINE ne '' and ! -d "./SINE"){
 	`cp $SINE pre.fa`;
 	#
 	#
-	`perl $TE_purifier -TE1 pre.fa -TE2 test.fa -t $threads -mindiff 1 -mindiff 1`;
+	`perl $TE_purifier -TE1 pre.fa -TE2 test.fa -t $threads -mindiff 1`;
 	#
-	if ( ! -z "pre.fa.masked" ) {
+	if (( -e "pre.fa.masked" ) && ( ! -z "pre.fa.masked" )) {
 		# Removing false sines
 		`mkdir tmp`; 
 		`break_fasta.pl < pre.fa.masked ./tmp`;
@@ -579,19 +583,31 @@ if ($SINE ne '' and ! -d "./SINE"){
 		`rm -rf tmp`; 
 	}
 	else { 
-		`cp pre.fa approved.fa`;
+		`touch empty.txt`; 
 	}
 	#
-	`cat approved.fa | sed 's#:#\\.\\.#g' | sed 's#SINE_[0-9] ##g' | sed 's#SINE_[0-9][0-9] ##g' | sed 's#SINE_[0-9][0-9][0-9] ##g' | sed 's#SINE_[0-9][0-9][0-9][0-9] ##g' | sed 's#SINE_[0-9][0-9][0-9][0-9][0-9] ##g' | sed 's# [a-Z] #:#' | sed 's# + #:#g' | sed 's/|/#SINE\t/' | cut -f 1 > $genome.SINE.intact.fa`;
-	#
-	#
-	`perl $make_bed $genome.SINE.intact.fa > $genome.SINE.intact.bed`;
-	`perl $bed2gff $genome.SINE.intact.bed SINE | sed 's#Identity=NA#Identity=1#g' > $genome.SINE.intact.gff3`;
-	#
-	`cp $genome.SINE.intact.gff3 ../`;
-	`cp $genome.SINE.intact.fa ../`;
-	`cat $genome.SINE.intact.fa >> ../$genome.EDTA.intact.fa`;
-	`cat $genome.SINE.intact.gff3 >> ../$genome.EDTA.intact.gff3.raw`;
+	if ( -z "empty.txt" ) {
+		 chomp ($date = `date`);
+		 print STDERR "$date\tThe SINEs lib has only false-positives - RepeatModeler may try to find SINEs\n"; 
+		`touch $genome.SINE.intact.fa`; 
+		`touch $genome.SINE.intact.bed`; 
+		`touch $genome.SINE.intact.gff3`; 
+		#
+		`cp $genome.SINE.intact.gff3 ../`;
+		`cp $genome.SINE.intact.fa ../`;
+	} else {	
+		`cat approved.fa | sed 's#:#\\.\\.#g' | sed 's#SINE_[0-9] ##g' | sed 's#SINE_[0-9][0-9] ##g' | sed 's#SINE_[0-9][0-9][0-9] ##g' | sed 's#SINE_[0-9][0-9][0-9][0-9] ##g' | sed 's#SINE_[0-9][0-9][0-9][0-9][0-9] ##g' | sed 's# [a-Z] #:#' | sed 's# + #:#g' | sed 's/|/#SINE\t/' | cut -f 1 > $genome.SINE.intact.fa`;
+		#
+		#
+		`perl $make_bed $genome.SINE.intact.fa > $genome.SINE.intact.bed`;
+		`perl $bed2gff $genome.SINE.intact.bed SINE | sed 's#Identity=NA#Identity=1#g' > $genome.SINE.intact.gff3`;
+		#
+		`cp $genome.SINE.intact.gff3 ../`;
+		`cp $genome.SINE.intact.fa ../`;
+		`cat $genome.SINE.intact.fa >> ../$genome.EDTA.intact.fa`;
+		`cat $genome.SINE.intact.gff3 >> ../$genome.EDTA.intact.gff3.raw`;
+		chdir '..';
+	}
 	chdir '..';
 } elsif (-d "./SINE" and -e "./SINE/$genome.SINE.intact.gff3" and -e "./SINE/$genome.SINE.intact.fa" ){
 	`cat ./SINE/$genome.SINE.intact.fa >> $genome.EDTA.intact.fa`;

@@ -372,7 +372,7 @@ if ($beta2 == 1 and ! -e "$genome.LTR.intact.fa"){
 		chomp ($date = `date`);
 		print STDERR "$date\tEMPTY LTRs\n"; 
 	} else {
-		`bash pick.sh | sed 's#_DOIS_#:#g' | sed 's#--#..#g' | sed 's/__/#/g' | sed 's#_#/#g' | sed 's#/END##g' | sed 's#Copia/mixture#Copia#g' | sed 's#Gypsy/mixture#Gypsy#g' | sed 's#LTR/mixture#LTR/Unknown#g' | sed 's#mixture#Unknown#g' | sed 's#Copia/Unknown#Copia#g' | sed 's#Gypsy/Unknown#Gypsy#g' | sed 's#LTR/pararetrovirus#pararetrovirus#g' | sed 's#pararetrovirus#LTR/Unknown#g' > $genome.LTR.intact.fa` ; 
+		`bash pick.sh | sed 's#_DOIS_#:#g' | sed 's#--#..#g' | sed 's/__/#/g' | sed 's#_#/#g' | sed 's#/END##g' | sed 's#Copia/mixture#Copia#g' | sed 's#Gypsy/mixture#Gypsy#g' | sed 's#LTR/mixture#LTR/Unknown#g' | sed 's#mixture#Unknown#g' | sed 's#Copia/Unknown#Copia#g' | sed 's#Gypsy/Unknown#Gypsy#g' | sed 's#LTR/pararetrovirus#pararetrovirus#g' | sed 's#pararetrovirus#LTR/Unknown#g' | sed 's#>scaffold/#>scaffold_#g' | sed 's#>scf/#>scf_#g' | sed 's#>chr/#>chr_#g' | sed 's#>chromosome/#>chromosome_#g' > $genome.LTR.intact.fa` ; 
 		`cat pick.sh | sed 's#^cat #rm #g' > del.sh`;
 		`bash del.sh`;
 	} 
@@ -384,7 +384,7 @@ if ($beta2 == 1 and ! -e "$genome.LTR.intact.fa"){
  		chomp ($date = `date`);
 	 	print STDERR "$date\tEMPTY TR_GAG\n"; 
 	} else {
-		`bash pick.sh | sed 's#_DOIS_#:#g' | sed 's#--#..#g' | sed 's/__/#/g' | sed 's#_#/#g' | sed 's#/END#-like#g' | sed 's#LTR/Gypsy#TR_GAG/Gypsy#g' | sed 's#LTR/Copia#TR_GAG/Copia#g' | sed 's#LTR/pararetrovirus#pararetrovirus#g' | sed 's#pararetrovirus#LTR/Unknown#g' >> $genome.LTR.intact.fa` ; 
+		`bash pick.sh | sed 's#_DOIS_#:#g' | sed 's#--#..#g' | sed 's/__/#/g' | sed 's#_#/#g' | sed 's#/END#-like#g' | sed 's#LTR/Gypsy#TR_GAG/Gypsy#g' | sed 's#LTR/Copia#TR_GAG/Copia#g' | sed 's#LTR/pararetrovirus#pararetrovirus#g' | sed 's#pararetrovirus#LTR/Unknown#g' | sed 's#>scaffold/#>scaffold_#g' | sed 's#>scf/#>scf_#g' | sed 's#>chr/#>chr_#g' | sed 's#>chromosome/#>chromosome_#g' >> $genome.LTR.intact.fa` ; 
 		`cat pick.sh | sed 's#^cat #rm #g' > del.sh`;
 		`bash del.sh`;
 	} 
@@ -395,7 +395,7 @@ if ($beta2 == 1 and ! -e "$genome.LTR.intact.fa"){
  		chomp ($date = `date`);
 	  	print STDERR "$date\tEMPTY BARE-2\n"; 
 	} else {
-		`bash pick.sh | sed 's#_DOIS_#:#g' | sed 's#--#..#g' | sed 's/__/#/g' | sed 's#_#/#g' | sed 's#/END#-like#g' | sed 's#LTR/Gypsy#BARE-2/Gypsy#g' | sed 's#LTR/Copia#BARE-2/Copia#g' | sed 's#LTR/pararetrovirus#pararetrovirus#g' | sed 's#pararetrovirus#LTR/Unknown#g' >> $genome.LTR.intact.fa` ; 
+		`bash pick.sh | sed 's#_DOIS_#:#g' | sed 's#--#..#g' | sed 's/__/#/g' | sed 's#_#/#g' | sed 's#/END#-like#g' | sed 's#LTR/Gypsy#BARE-2/Gypsy#g' | sed 's#LTR/Copia#BARE-2/Copia#g' | sed 's#LTR/pararetrovirus#pararetrovirus#g' | sed 's#pararetrovirus#LTR/Unknown#g' | sed 's#>scaffold/#>scaffold_#g' | sed 's#>scf/#>scf_#g' | sed 's#>chr/#>chr_#g' | sed 's#>chromosome/#>chromosome_#g' >> $genome.LTR.intact.fa` ; 
 		`cat pick.sh | sed 's#^cat #rm #g' > del.sh`;
 		`bash del.sh`;
 	} 
@@ -413,7 +413,7 @@ if ($beta2 == 1 and ! -e "$genome.LTR.intact.fa"){
 		 if ( -z "pick2.sh" ) {
 		 	print STDERR "$date\tNo Gypsy and Copia lineages-like - step 1\n"; 
 		 } else {
-			`bash pick2.sh | sed 's#_DOIS_#:#g' | sed 's#--#..#g' | sed 's/__/#/g' | sed 's#_#/#g' | sed 's#/END#-like#g' | sed 's#LTR/mixture-like#LTR/Unknown#g' | sed 's#mixture-like#Unknown#g' | sed 's#pararetrovirus-like#pararetrovirus#g' | sed 's#Gypsy-like#Gypsy#g' | sed 's#Copia-like#Copia#g' | sed 's#Copia/Unknown#Copia#g' | sed 's#Gypsy/Unknown#Gypsy#g' | sed 's#LTR/pararetrovirus#pararetrovirus#g' | sed 's#pararetrovirus#LTR/Unknown#g' >> $genome.LTR.intact.fa` ; 
+			`bash pick2.sh | sed 's#_DOIS_#:#g' | sed 's#--#..#g' | sed 's/__/#/g' | sed 's#_#/#g' | sed 's#/END#-like#g' | sed 's#LTR/mixture-like#LTR/Unknown#g' | sed 's#mixture-like#Unknown#g' | sed 's#pararetrovirus-like#pararetrovirus#g' | sed 's#Gypsy-like#Gypsy#g' | sed 's#Copia-like#Copia#g' | sed 's#Copia/Unknown#Copia#g' | sed 's#Gypsy/Unknown#Gypsy#g' | sed 's#LTR/pararetrovirus#pararetrovirus#g' | sed 's#pararetrovirus#LTR/Unknown#g' | sed 's#>scaffold/#>scaffold_#g' | sed 's#>scf/#>scf_#g' | sed 's#>chr/#>chr_#g' | sed 's#>chromosome/#>chromosome_#g' >> $genome.LTR.intact.fa` ; 
 			`cat pick2.sh | sed 's#^cat #rm #g' > del.sh`;
 			`bash del.sh`;
 		} 
@@ -422,7 +422,7 @@ if ($beta2 == 1 and ! -e "$genome.LTR.intact.fa"){
 		 if ( -z "pick2.sh" ) {
 			 print STDERR "$date\tNo Gypsy and Copia lineages-like - step2\n"; 
 		} else {
-			`bash pick2.sh | sed 's#_DOIS_#:#g' | sed 's#--#..#g' | sed 's/__/#/g' | sed 's#_#/#g' | sed 's#/END#-like#g' | sed 's#LTR/mixture-like#LTR/Unknown#g' | sed 's#mixture-like#Unknown#g' | sed 's#pararetrovirus-like#pararetrovirus#g' | sed 's#Gypsy-like#Gypsy#g' | sed 's#Copia-like#Copia#g' | sed 's#Copia/Unknown#Copia#g' | sed 's#Gypsy/Unknown#Gypsy#g' | sed 's#LTR/pararetrovirus#pararetrovirus#g' | sed 's#pararetrovirus#LTR/Unknown#g' >> $genome.LTR.intact.fa` ; 
+			`bash pick2.sh | sed 's#_DOIS_#:#g' | sed 's#--#..#g' | sed 's/__/#/g' | sed 's#_#/#g' | sed 's#/END#-like#g' | sed 's#LTR/mixture-like#LTR/Unknown#g' | sed 's#mixture-like#Unknown#g' | sed 's#pararetrovirus-like#pararetrovirus#g' | sed 's#Gypsy-like#Gypsy#g' | sed 's#Copia-like#Copia#g' | sed 's#Copia/Unknown#Copia#g' | sed 's#Gypsy/Unknown#Gypsy#g' | sed 's#LTR/pararetrovirus#pararetrovirus#g' | sed 's#pararetrovirus#LTR/Unknown#g' | sed 's#>scaffold/#>scaffold_#g' | sed 's#>scf/#>scf_#g' | sed 's#>chr/#>chr_#g' | sed 's#>chromosome/#>chromosome_#g' >> $genome.LTR.intact.fa` ; 
 			`cat pick2.sh | sed 's#^cat #rm #g' > del.sh`;
 			`bash del.sh`;
 		} 
@@ -434,7 +434,7 @@ if ($beta2 == 1 and ! -e "$genome.LTR.intact.fa"){
 	#
 	# Picking LARD and TRIM
 	`touch temp3.fa`;
-	`cat TMP/*Unknown_END.fasta | sed 's#_DOIS_#:#g' | sed 's#--#..#g' | sed 's/__/#/g' | sed 's#_#/#g' | sed 's#/END##g' > temp3.fa` unless -e "./TMP/*Unknown_END.fasta" ;
+	`cat TMP/*Unknown_END.fasta | sed 's#_DOIS_#:#g' | sed 's#--#..#g' | sed 's/__/#/g' | sed 's#_#/#g' | sed 's#/END##g' | sed 's#>scaffold/#>scaffold_#g' | sed 's#>scf/#>scf_#g' | sed 's#>chr/#>chr_#g' | sed 's#>chromosome/#>chromosome_#g' > temp3.fa` unless -e "./TMP/*Unknown_END.fasta" ;
 	#
 	 if ( -z "temp3.fa" ) {
 	 	chomp ($date = `date`);
