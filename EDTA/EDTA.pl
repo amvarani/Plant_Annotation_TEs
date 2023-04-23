@@ -606,7 +606,6 @@ if ($SINE ne '' and ! -d "./SINE"){
 		`cp $genome.SINE.intact.fa ../`;
 		`cat $genome.SINE.intact.fa >> ../$genome.EDTA.intact.fa`;
 		`cat $genome.SINE.intact.gff3 >> ../$genome.EDTA.intact.gff3.raw`;
-		chdir '..';
 	}
 	chdir '..';
 } elsif (-d "./SINE" and -e "./SINE/$genome.SINE.intact.gff3" and -e "./SINE/$genome.SINE.intact.fa" ){
