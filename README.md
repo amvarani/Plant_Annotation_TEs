@@ -1,6 +1,10 @@
 # Plant Genome Annotation
 #### _Methods and recipes for Plant Genome Annotation with focus on Transposable Elements_
 
+
+NEW VERSION HERE:  https://github.com/Marcos-Fernando/AnnoTEP
+
+
 ## Introduction
 Transposable elements (TEs) are prominent features of a plant genome. During a plant genome annotation project, the TEs must be first identified before the structural gene annotation. After a proper TE annotation, all TE-derived regions in the genome must be masked (preferably soft-masked: repeats in lowercase rather than "N" or "X").
 
